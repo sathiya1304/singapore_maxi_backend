@@ -6,7 +6,9 @@ Django==5.0
 django-cors-headers==4.4.0
 humanize==4.11.0
 idna==3.10
-mysqlclient==2.2.4
+PyMySQL==1.1.1
+cryptography==43.0.3
+whitenoise==6.8.2
 pillow==11.0.0
 pytz==2024.2
 requests==2.32.3
