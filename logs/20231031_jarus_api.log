@@ -1,0 +1,4 @@
+2023-10-31 12:40:47.437 ERROR json_response.py json_response - response_exception:{'message': "local variable 'exc_update_as' referenced before assignment"}
+2023-10-31 12:41:03.682 ERROR json_response.py json_response - response_exception:{'message': "local variable 'exc_update_as' referenced before assignment"}
+2023-10-31 12:41:10.424 ERROR json_response.py json_response - response_exception:{'message': "local variable 'exc_update_as' referenced before assignment"}
+2023-10-31 12:41:21.579 ERROR json_response.py json_response - response_exception:{'message': "local variable 'exc_update_as' referenced before assignment"}

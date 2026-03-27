@@ -1,0 +1,54 @@
+2023-02-27 09:49:55.262 ERROR json_response.py json_response - response_exception:{'message': "Expecting ':' delimiter: line 4 column 22 (char 67)"}
+2023-02-27 09:49:55.262 ERROR json_response.py json_response - response_exception:{'message': 'Object of type JSONDecodeError is not JSON serializable'}
+2023-02-27 09:55:50.269 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-02-27 09:55:50.270 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-27 10:00:51.941 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2023-02-27 10:00:51.942 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-02-27 10:01:13.802 ERROR json_response.py json_response - response_exception:{'message': "'QueryDict' object has no attribute 'access_token'"}
+2023-02-27 10:01:13.802 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-02-27 10:01:49.157 ERROR json_response.py json_response - response_exception:{'message': "'QueryDict' object has no attribute 'value'"}
+2023-02-27 10:01:49.157 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-02-27 10:05:19.062 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-02-27 10:05:19.062 ERROR json_response.py json_response - response_exception:{'message': 'Object of type JSONDecodeError is not JSON serializable'}
+2023-02-27 10:07:01.795 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-02-27 10:07:01.795 ERROR json_response.py json_response - response_exception:{'message': 'Object of type JSONDecodeError is not JSON serializable'}
+2023-02-27 10:07:07.056 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-02-27 10:07:07.057 ERROR json_response.py json_response - response_exception:{'message': 'Object of type JSONDecodeError is not JSON serializable'}
+2023-02-27 10:28:22.678 ERROR json_response.py json_response - response_exception:{'message': "name 'AUTH_KEY' is not defined"}
+2023-02-27 10:28:22.678 ERROR json_response.py json_response - response_exception:{'message': 'Object of type NameError is not JSON serializable'}
+2023-02-27 13:03:27.207 ERROR json_response.py json_response - response_exception:{'message': "'autherization'"}
+2023-02-27 13:03:27.207 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-02-27 13:06:50.194 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\' at line 1")'}
+2023-02-27 13:06:50.194 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-02-27 13:09:15.946 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'pubilc.user_master\' doesn\'t exist")'}
+2023-02-27 13:09:15.946 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-02-27 13:23:33.244 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'dzrDQSBlssQWtwJFOvQdPhYMVXKwqGZFpxhPQZWxSenXdMGXBm\' in \'field list\'")'}
+2023-02-27 13:23:33.244 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2023-02-27 13:55:06.746 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-27 13:55:06.746 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-27 13:56:34.302 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-27 13:56:34.302 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-27 14:36:46.666 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 14:37:26.967 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 14:38:10.861 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 14:38:57.616 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 14:49:44.753 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 14:52:24.302 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 14:59:10.494 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 15:06:39.403 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 15:25:01.504 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:04:26.679 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:09:21.655 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:22:10.373 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:23:32.196 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:26:21.411 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:27:49.516 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:29:27.079 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:30:07.828 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:32:01.081 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:34:56.640 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 16:35:44.155 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 17:02:45.849 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 17:03:19.938 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 17:03:52.703 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-27 17:04:09.012 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}

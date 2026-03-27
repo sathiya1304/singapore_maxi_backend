@@ -1,0 +1,31 @@
+2023-02-22 09:43:46.331 ERROR json_response.py json_response - response_exception:{'message': "name 'product_n' is not defined"}
+2023-02-22 09:45:51.844 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-22 09:46:37.550 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-22 09:51:01.486 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-22 10:11:16.052 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'product_id' where it is not associated with a value"}
+2023-02-22 10:15:05.387 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-22 10:17:07.837 ERROR json_response.py json_response - response_exception:{'message': "'str' object is not callable"}
+2023-02-22 10:20:28.620 ERROR json_response.py json_response - response_exception:{'message': "'str' object is not callable"}
+2023-02-22 10:31:39.549 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}
+2023-02-22 10:32:02.307 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "public"\nLINE 1:  select * public.stock_batch where product_id = 63 ;\n                  ^\n'}
+2023-02-22 10:52:43.572 ERROR json_response.py json_response - response_exception:{'message': "name 'peinr' is not defined"}
+2023-02-22 11:20:37.921 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2023-02-22 11:26:02.586 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2023-02-22 11:34:15.255 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-02-22 11:50:23.541 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-02-22 12:25:24.938 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "where"\nLINE 1:  update public.stock_batch where batch_id = 4;\n                                   ^\n'}
+2023-02-22 12:26:07.723 ERROR json_response.py json_response - response_exception:{'message': "'stock'"}
+2023-02-22 13:13:09.324 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 5 column 9 (char 45)"}
+2023-02-22 13:53:37.470 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for +: 'NoneType' and 'int'"}
+2023-02-22 13:55:25.869 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for +: 'NoneType' and 'int'"}
+2023-02-22 14:02:05.915 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-22 14:49:58.439 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 6 column 5 (char 105)'}
+2023-02-22 14:55:04.395 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'product_id' where it is not associated with a value"}
+2023-02-22 14:55:33.769 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'product_id' where it is not associated with a value"}
+2023-02-22 15:29:08.733 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 6 column 5 (char 105)'}
+2023-02-22 16:51:32.996 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-02-22 17:10:52.318 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 6 column 5 (char 105)'}
+2023-02-22 17:31:15.791 ERROR json_response.py json_response - response_exception:{'message': 'Invalid control character at: line 6 column 25 (char 189)'}
+2023-02-22 17:34:01.424 ERROR json_response.py json_response - response_exception:{'message': "'customer_id'"}
+2023-02-22 17:35:40.467 ERROR json_response.py json_response - response_exception:{'message': "'customer_id'"}
+2023-02-22 17:42:10.086 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "\'15\'"\nLINE 1: ...hone_no,customer_id) VALUES (\'sreelakshmi\',7854567890),\'15\';\n                                                                  ^\n'}

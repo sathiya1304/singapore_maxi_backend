@@ -1,0 +1,112 @@
+2023-11-02 09:49:20.238 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-11-02 09:56:11.436 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-11-02 11:10:55.789 ERROR json_response.py json_response - response_exception:{'message': "'followup_status'"}
+2023-11-02 11:11:10.265 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-11-02 11:11:15.450 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-11-02 11:27:23.180 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-11-02 11:40:49.145 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-11-02 12:09:18.766 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_date\' in \'where clause\'")'}
+2023-11-02 12:27:55.173 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:27:55.180 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:28:19.992 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:28:20.001 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:28:23.618 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:28:23.621 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:28:51.449 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:28:51.453 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:29:18.368 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:29:23.559 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:29:23.562 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:29:29.547 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:30:32.537 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 12:31:23.301 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_list' referenced before assignment"}
+2023-11-02 14:15:46.086 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-11-02 14:15:51.006 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-11-02 14:49:40.835 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:49:40.836 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:49:40.846 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:49:49.058 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:49:49.059 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:49:49.068 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:00.850 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:00.851 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:00.862 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:05.350 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:05.369 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:05.376 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:05.411 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:22.616 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:22.616 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:22.626 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:31.214 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:31.215 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:31.224 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:34.273 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:34.828 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:38.733 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:38.752 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:38.760 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:38.795 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:40.380 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:40.399 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:40.407 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:40.445 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:41.492 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:41.513 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:41.514 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:41.524 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:52.455 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:52.457 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:50:52.465 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:13.011 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:13.012 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:13.020 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:16.755 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:19.419 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:19.437 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:19.446 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:19.468 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:37.749 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:37.750 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:37.760 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:47.137 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:47.138 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:47.148 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:59.357 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:59.357 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:51:59.367 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:52:09.030 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:52:09.031 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:52:09.041 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:52:11.738 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:52:12.458 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:52:12.642 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:52:49.551 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:52:49.552 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:52:49.561 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:53:11.442 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:53:11.460 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:53:11.468 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:53:11.491 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:53:40.611 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:53:40.612 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:53:40.622 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:54:05.888 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:54:05.889 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:54:05.899 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:54:54.051 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:54:54.051 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:54:54.061 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:55:19.062 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:55:19.065 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:55:19.075 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 14:56:11.254 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.followup_status\' in \'where clause\'")'}
+2023-11-02 15:26:35.654 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-11-02 15:54:46.639 ERROR json_response.py json_response - response_exception:{'message': "'>=' not supported between instances of 'str' and 'datetime.date'"}
+2023-11-02 15:58:24.785 ERROR json_response.py json_response - response_exception:{'message': "name 'assigned_date_str' is not defined"}
+2023-11-02 15:58:26.359 ERROR json_response.py json_response - response_exception:{'message': "name 'assigned_date_str' is not defined"}
+2023-11-02 16:10:04.171 ERROR json_response.py json_response - response_exception:{'message': "time data '9:20:00' does not match format '%Y-%m-%d %H:%M'"}
+2023-11-02 16:11:47.478 ERROR json_response.py json_response - response_exception:{'message': "'>=' not supported between instances of 'datetime.time' and 'datetime.datetime'"}
+2023-11-02 16:13:10.787 ERROR json_response.py json_response - response_exception:{'message': 'combine() argument 2 must be datetime.time, not str'}
+2023-11-02 16:13:11.957 ERROR json_response.py json_response - response_exception:{'message': 'combine() argument 2 must be datetime.time, not str'}
+2023-11-02 16:25:17.638 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: '00 AM'"}

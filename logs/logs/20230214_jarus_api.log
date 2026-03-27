@@ -1,0 +1,64 @@
+2023-02-14 10:16:29.176 ERROR json_response.py json_response - response_exception:{'message': "'emp_bu'"}
+2023-02-14 10:18:08.080 ERROR json_response.py json_response - response_exception:{'message': "'col1'"}
+2023-02-14 10:18:52.813 ERROR json_response.py json_response - response_exception:{'message': 'unterminated quoted string at or near "\'safvanck1)"\nLINE 1: ...SERT INTO PUBLIC.employee_master (EMP_BU) VALUES (\'safvanck1...\n                                                             ^\n'}
+2023-02-14 10:20:02.758 ERROR json_response.py json_response - response_exception:{'message': 'unterminated quoted string at or near "\'safvanck1);"\nLINE 1: ...SERT INTO PUBLIC.employee_master (EMP_BU) VALUES (\'safvanck1...\n                                                             ^\n'}
+2023-02-14 10:37:13.173 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 5 column 5 (char 37)'}
+2023-02-14 10:45:24.272 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 4 column 19 (char 31)'}
+2023-02-14 10:50:07.554 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 5 column 5 (char 37)'}
+2023-02-14 10:57:18.940 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 5 column 5 (char 37)'}
+2023-02-14 11:06:51.881 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 4 column 19 (char 31)'}
+2023-02-14 11:06:54.760 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 4 column 19 (char 31)'}
+2023-02-14 11:07:05.699 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 4 column 9 (char 21)'}
+2023-02-14 11:07:29.683 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 4 column 9 (char 21)'}
+2023-02-14 11:48:24.751 ERROR json_response.py json_response - response_exception:{'message': "'EMP_BU'"}
+2023-02-14 11:52:14.712 ERROR json_response.py json_response - response_exception:{'message': "'EMP_BU'"}
+2023-02-14 12:00:05.279 ERROR json_response.py json_response - response_exception:{'message': "'col_4'"}
+2023-02-14 15:09:03.936 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 4 column 9 (char 51)"}
+2023-02-14 15:10:26.719 ERROR json_response.py json_response - response_exception:{'message': "'int' object is not subscriptable"}
+2023-02-14 15:16:08.381 ERROR json_response.py json_response - response_exception:{'message': 'relation "public.myuser" does not exist\nLINE 1: SELECT id FROM PUBLIC.myuser where (user_name = \'safvanck\' O...\n                       ^\n'}
+2023-02-14 15:17:10.545 ERROR json_response.py json_response - response_exception:{'message': 'relation "public.myuser" does not exist\nLINE 1: SELECT id FROM public.myuser where (user_name = \'safvanck\' O...\n                       ^\n'}
+2023-02-14 15:18:26.648 ERROR json_response.py json_response - response_exception:{'message': "name 'message' is not defined"}
+2023-02-14 15:19:49.597 ERROR json_response.py json_response - response_exception:{'message': "name 'message' is not defined"}
+2023-02-14 15:24:34.408 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-02-14 15:27:00.565 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-02-14 15:34:43.660 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-02-14 15:59:26.741 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "["\nLINE 1: ...VQhvrSzHcMtSvWunaqYJtvfmSlbYNnGplwjYN\' where id = [{\'id\': 2,...\n                                                             ^\n'}
+2023-02-14 16:00:47.623 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'response' where it is not associated with a value"}
+2023-02-14 16:01:29.596 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'response' where it is not associated with a value"}
+2023-02-14 16:35:17.915 ERROR json_response.py json_response - response_exception:{'message': 'column "safvan12" does not exist\nLINE 1: select * from public.myusers where (user_name = "safvan12" O...\n                                                        ^\n'}
+2023-02-14 16:37:45.965 ERROR json_response.py json_response - response_exception:{'message': 'column "safvan12" does not exist\nLINE 1: select * from public.myusers where (user_name = "safvan12" O...\n                                                        ^\n'}
+2023-02-14 16:39:14.232 ERROR json_response.py json_response - response_exception:{'message': 'unterminated quoted identifier at or near ""Admin@123;"\nLINE 1: ... where (user_name = "safvan12") AND show_password="Admin@123...\n                                                             ^\n'}
+2023-02-14 16:41:23.020 ERROR json_response.py json_response - response_exception:{'message': 'unterminated quoted identifier at or near ""Admin@123;"\nLINE 1: ... where (user_name = "safvan12") AND show_password="Admin@123...\n                                                             ^\n'}
+2023-02-14 16:41:24.303 ERROR json_response.py json_response - response_exception:{'message': 'unterminated quoted identifier at or near ""Admin@123;"\nLINE 1: ... where (user_name = "safvan12") AND show_password="Admin@123...\n                                                             ^\n'}
+2023-02-14 16:41:34.714 ERROR json_response.py json_response - response_exception:{'message': 'unterminated quoted identifier at or near ""Admin@123;"\nLINE 1: ... where (user_name = "safvan12") AND show_password="Admin@123...\n                                                             ^\n'}
+2023-02-14 16:41:34.715 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-02-14 16:42:05.991 ERROR json_response.py json_response - response_exception:{'message': 'column "safvan12" does not exist\nLINE 1: select * from public.myusers where (user_name = "safvan12") ...\n                                                        ^\n'}
+2023-02-14 16:42:05.991 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-02-14 16:42:07.237 ERROR json_response.py json_response - response_exception:{'message': 'column "safvan12" does not exist\nLINE 1: select * from public.myusers where (user_name = "safvan12") ...\n                                                        ^\n'}
+2023-02-14 16:42:07.237 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-02-14 16:56:50.224 ERROR json_response.py json_response - response_exception:{'message': 'the JSON object must be str, bytes or bytearray, not list'}
+2023-02-14 16:56:50.224 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-14 16:57:11.250 ERROR json_response.py json_response - response_exception:{'message': 'the JSON object must be str, bytes or bytearray, not list'}
+2023-02-14 16:57:11.250 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-14 17:00:45.926 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-02-14 17:00:45.927 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-02-14 17:01:36.157 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-02-14 17:01:36.157 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-14 17:02:32.261 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-02-14 17:02:32.261 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-02-14 17:03:21.345 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'response' where it is not associated with a value"}
+2023-02-14 17:03:21.345 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnboundLocalError is not JSON serializable'}
+2023-02-14 17:03:41.933 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "{"\nLINE 1: ...NiXhESENNitCtLdymqDYZJDHiVHeirmKgDvPX\' where id = {\'id\': 2, ...\n                                                             ^\n'}
+2023-02-14 17:03:41.934 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-02-14 17:04:47.061 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-02-14 17:04:47.062 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-14 17:05:44.384 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-02-14 17:05:44.384 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-14 17:06:50.972 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-02-14 17:06:50.972 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-14 17:07:50.333 ERROR json_response.py json_response - response_exception:{'message': "'int' object is not subscriptable"}
+2023-02-14 17:07:50.333 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-14 17:08:43.954 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-02-14 17:08:43.954 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-02-14 17:09:17.033 ERROR json_response.py json_response - response_exception:{'message': "'int' object is not subscriptable"}
+2023-02-14 17:09:17.033 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}

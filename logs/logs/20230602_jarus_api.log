@@ -1,0 +1,49 @@
+2023-06-02 12:42:37.863 ERROR json_response.py json_response - response_exception:{'message': "'gst'"}
+2023-06-02 12:42:37.881 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 12:48:53.325 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-06-02 12:48:53.325 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-06-02 12:49:10.763 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-06-02 12:49:10.764 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-06-02 12:56:05.905 ERROR json_response.py json_response - response_exception:{'message': "'gst'"}
+2023-06-02 12:56:05.906 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 13:07:08.985 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-06-02 13:07:08.988 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-06-02 13:10:18.088 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-06-02 13:10:18.269 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-06-02 13:10:28.083 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-06-02 16:32:48.899 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-06-02 16:33:10.201 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-06-02 16:43:11.559 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:11.561 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:11.608 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:11.609 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:11.845 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:11.849 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:11.955 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:11.957 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:14.908 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:14.909 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:14.948 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:14.950 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:15.008 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:15.010 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:15.050 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:15.052 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:17.274 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:17.275 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:17.398 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:17.400 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:19.033 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:19.033 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:22.497 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:22.500 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:22.548 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:22.553 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:22.709 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:22.710 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:43:22.834 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:43:22.835 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:44:44.824 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:44:44.840 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-06-02 16:44:44.923 ERROR json_response.py json_response - response_exception:{'message': "'cancel_status'"}
+2023-06-02 16:44:44.926 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}

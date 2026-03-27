@@ -1,0 +1,5 @@
+2024-08-22 11:58:30.007 ERROR json_response.py json_response - response_exception:{'message': "'sales_person_id'"}
+2024-08-22 11:58:39.746 ERROR json_response.py json_response - response_exception:{'message': "'sales_person_id'"}
+2024-08-22 12:02:01.350 ERROR json_response.py json_response - response_exception:{'message': "'sales_person_id'"}
+2024-08-22 12:02:36.623 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x93 in position 4: invalid start byte"}
+2024-08-22 12:02:36.681 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x93 in position 4: invalid start byte"}

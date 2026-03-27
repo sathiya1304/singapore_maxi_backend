@@ -1,0 +1,59 @@
+2024-10-26 12:39:11.912 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:39:11.941 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:39:42.035 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:39:42.069 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:45:10.784 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:45:10.817 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:45:18.570 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:45:18.601 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:45:38.404 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:45:38.431 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:48:13.709 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:48:13.745 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 12:50:10.755 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 12:52:45.133 ERROR json_response.py json_response - response_exception:{'message': "'builtin_function_or_method' object is not subscriptable"}
+2024-10-26 12:53:37.109 ERROR json_response.py json_response - response_exception:{'message': "'builtin_function_or_method' object is not subscriptable"}
+2024-10-26 12:53:56.173 ERROR json_response.py json_response - response_exception:{'message': "'builtin_function_or_method' object is not subscriptable"}
+2024-10-26 12:54:14.719 ERROR json_response.py json_response - response_exception:{'message': "'builtin_function_or_method' object is not subscriptable"}
+2024-10-26 12:55:36.829 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 12:56:34.109 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 12:56:50.118 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 12:57:49.173 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 12:58:28.389 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 12:59:08.246 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 13:00:35.534 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 13:01:37.522 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 13:01:37.539 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 13:05:59.027 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 13:05:59.047 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 13:06:27.964 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 13:06:28.002 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 13:08:02.044 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 13:08:02.080 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 13:08:48.747 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 13:09:57.307 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'state_decoded' where it is not associated with a value"}
+2024-10-26 13:11:02.896 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 13:11:02.928 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 5: invalid start byte"}
+2024-10-26 13:11:56.162 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'designation_decoded' where it is not associated with a value"}
+2024-10-26 13:12:37.888 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'designation_decoded' where it is not associated with a value"}
+2024-10-26 16:04:00.717 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 1: invalid continuation byte"}
+2024-10-26 16:04:00.747 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 1: invalid continuation byte"}
+2024-10-26 16:13:17.290 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 1: invalid continuation byte"}
+2024-10-26 16:13:17.337 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 1: invalid continuation byte"}
+2024-10-26 16:14:16.847 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 1: invalid continuation byte"}
+2024-10-26 16:14:16.886 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 1: invalid continuation byte"}
+2024-10-26 16:17:09.609 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 1: invalid continuation byte"}
+2024-10-26 16:17:09.648 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 1: invalid continuation byte"}
+2024-10-26 17:12:42.988 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-10-26 17:14:25.882 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-10-26 17:14:25.921 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-10-26 17:15:04.261 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-10-26 17:15:04.297 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-10-26 17:15:58.165 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 17:17:54.718 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-10-26 17:19:13.074 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-10-26 17:19:13.114 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-10-26 17:21:32.994 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-10-26 17:21:33.025 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-10-26 17:21:55.392 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-10-26 17:21:55.440 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}

@@ -1,0 +1,32 @@
+2023-05-25 10:12:53.890 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:17:11.113 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:22:11.952 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:22:23.595 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:22:44.741 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:23:05.879 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:23:31.502 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:29:26.269 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:29:29.630 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:29:31.358 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:40:21.660 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:42:29.352 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 10:42:52.822 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:38:41.139 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:41:54.946 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:44:15.535 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:45:22.333 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:48:11.758 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:48:13.713 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:48:53.978 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:48:56.664 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:50:35.434 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:50:52.512 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:51:06.054 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:52:21.657 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 12:52:38.438 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 16:05:16.016 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 16:49:21.278 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-25 17:57:00.255 ERROR json_response.py json_response - response_exception:{'message': "'order_count'"}
+2023-05-25 17:57:00.258 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-05-25 17:58:32.792 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-05-25 17:58:32.807 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}

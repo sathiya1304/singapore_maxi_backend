@@ -1,0 +1,59 @@
+2023-10-28 09:20:12.447 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-28 09:20:18.002 ERROR json_response.py json_response - response_exception:{'message': "'notes'"}
+2023-10-28 10:31:53.438 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-28 10:31:53.486 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-28 10:31:59.483 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-28 11:16:36.193 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-10-28 11:17:09.158 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for +: 'datetime.date' and 'datetime.time'"}
+2023-10-28 11:18:05.870 ERROR json_response.py json_response - response_exception:{'message': "'>' not supported between instances of 'datetime.datetime' and 'str'"}
+2023-10-28 11:21:24.932 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'lead_table.assign_status\' in \'where clause\'")'}
+2023-10-28 11:49:19.703 ERROR json_response.py json_response - response_exception:{'message': '(2014, "Commands out of sync; you can\'t run this command now")'}
+2023-10-28 11:50:53.142 ERROR json_response.py json_response - response_exception:{'message': "name 'xc' is not defined"}
+2023-10-28 12:30:58.260 ERROR json_response.py json_response - response_exception:{'message': "'followup_status'"}
+2023-10-28 13:38:59.147 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-28 13:48:26.389 ERROR json_response.py json_response - response_exception:{'message': "'datetime.datetime' object is not subscriptable"}
+2023-10-28 13:51:15.216 ERROR json_response.py json_response - response_exception:{'message': "'datetime.datetime' object has no attribute 'split'"}
+2023-10-28 13:51:16.914 ERROR json_response.py json_response - response_exception:{'message': "'datetime.datetime' object has no attribute 'split'"}
+2023-10-28 13:53:51.450 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-10-28 13:54:10.179 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-28 15:13:00.040 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-10-28 15:14:31.474 ERROR json_response.py json_response - response_exception:{'message': "'datetime.datetime' object has no attribute 'split'"}
+2023-10-28 15:21:21.086 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' %yy) AS year_part\\n        FROM leads_table\\n        ORDER BY created_date DES...\' at line 1")'}
+2023-10-28 15:22:07.637 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'%y) AS year_part\\n        FROM leads_table\\n        ORDER BY created_date DESC\\n...\' at line 1")'}
+2023-10-28 15:22:22.889 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'y\' in \'field list\'")'}
+2023-10-28 15:22:36.676 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'%y\') AS year_part\\n        FROM leads_table\\n        ORDER BY created_date DES...\' at line 1")'}
+2023-10-28 15:22:47.060 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'%y\') AS year_part\\n        FROM leads_table\\n        ORDER BY created_date DES...\' at line 1")'}
+2023-10-28 15:39:08.140 ERROR json_response.py json_response - response_exception:{'message': "Unknown format code 'd' for object of type 'str'"}
+2023-10-28 15:44:20.159 ERROR json_response.py json_response - response_exception:{'message': "'int' object is not subscriptable"}
+2023-10-28 15:49:58.752 ERROR json_response.py json_response - response_exception:{'message': "type object 'datetime.datetime' has no attribute 'datetime'"}
+2023-10-28 15:50:54.355 ERROR json_response.py json_response - response_exception:{'message': "type object 'datetime.datetime' has no attribute 'datetime'"}
+2023-10-28 15:51:17.723 ERROR json_response.py json_response - response_exception:{'message': "type object 'datetime.datetime' has no attribute 'datetime'"}
+2023-10-28 15:53:58.414 ERROR json_response.py json_response - response_exception:{'message': "type object 'datetime.datetime' has no attribute 'datetime'"}
+2023-10-28 15:57:20.785 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-28 15:57:45.641 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-28 15:57:46.916 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-28 15:58:44.284 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-28 16:03:12.088 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-28 16:11:10.173 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_id'"}
+2023-10-28 16:12:52.987 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-28 16:12:59.019 ERROR json_response.py json_response - response_exception:{'message': "local variable 'prior_notes' referenced before assignment"}
+2023-10-28 16:13:37.638 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-10-28 16:13:44.537 ERROR json_response.py json_response - response_exception:{'message': "local variable 'status' referenced before assignment"}
+2023-10-28 16:15:20.731 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-28 16:21:52.751 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 19 column 1 (char 522)'}
+2023-10-28 16:21:58.338 ERROR json_response.py json_response - response_exception:{'message': "'followup_status'"}
+2023-10-28 16:22:08.091 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-28 16:22:13.187 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-28 16:22:23.708 ERROR json_response.py json_response - response_exception:{'message': "'notes'"}
+2023-10-28 16:51:21.193 ERROR json_response.py json_response - response_exception:{'message': "local variable 'last_year_part' referenced before assignment"}
+2023-10-28 17:02:15.457 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'bathroom\'   order by leads_table.created_date DESC   limit 0,10\' at line 34")'}
+2023-10-28 17:02:31.998 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'bathroom tiles\'   order by leads_table.created_date DESC   limit 0,10\' at line 34")'}
+2023-10-28 17:02:49.678 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'Nothing\'   order by leads_table.created_date DESC   limit 0,10\' at line 34")'}
+2023-10-28 17:03:48.724 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'Friend\'  order by leads_table.created_date DESC\' at line 34")'}
+2023-10-28 17:20:52.919 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-28 17:26:46.242 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-10-28 17:54:35.105 ERROR json_response.py json_response - response_exception:{'message': "module 'datetime' has no attribute 'now'"}
+2023-10-28 17:55:16.592 ERROR json_response.py json_response - response_exception:{'message': "module 'datetime' has no attribute 'now'"}
+2023-10-28 17:57:19.048 ERROR json_response.py json_response - response_exception:{'message': "module 'datetime' has no attribute 'now'"}
+2023-10-28 17:59:24.023 ERROR json_response.py json_response - response_exception:{'message': "module 'datetime' has no attribute 'now'"}
+2023-10-28 18:05:59.786 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\' at line 1")'}

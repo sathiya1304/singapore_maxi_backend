@@ -1,0 +1,2 @@
+2023-05-27 11:05:24.135 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-27 12:08:08.434 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}

@@ -1,0 +1,25 @@
+2023-11-23 15:21:31.138 ERROR json_response.py json_response - response_exception:{'message': "'category_id'"}
+2023-11-23 15:21:40.215 ERROR json_response.py json_response - response_exception:{'message': "'category_id'"}
+2023-11-23 15:23:05.435 ERROR json_response.py json_response - response_exception:{'message': "local variable 'img_path' referenced before assignment"}
+2023-11-23 15:53:02.832 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "NoneType") to str'}
+2023-11-23 15:55:49.723 ERROR json_response.py json_response - response_exception:{'message': "(1241, 'Operand should contain 1 column(s)')"}
+2023-11-23 15:57:13.367 ERROR json_response.py json_response - response_exception:{'message': "(1241, 'Operand should contain 1 column(s)')"}
+2023-11-23 15:59:30.956 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'image_url\' in \'field list\'")'}
+2023-11-23 16:19:06.222 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-11-23 16:21:21.097 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-11-23 16:22:42.415 ERROR json_response.py json_response - response_exception:{'message': "'str' object does not support item assignment"}
+2023-11-23 16:24:07.380 ERROR json_response.py json_response - response_exception:{'message': "'str' object does not support item assignment"}
+2023-11-23 16:24:39.138 ERROR json_response.py json_response - response_exception:{'message': "'str' object does not support item assignment"}
+2023-11-23 16:30:45.050 ERROR json_response.py json_response - response_exception:{'message': "(1241, 'Operand should contain 1 column(s)')"}
+2023-11-23 16:34:51.706 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'(select category_name from product_categories where product_categories.catego...\' at line 1")'}
+2023-11-23 16:36:04.135 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'WHERE product_id = \'c316f729-0779-4bc4-8cd8-1385be59adc8\'\' at line 5")'}
+2023-11-23 17:00:28.025 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'WHERE product_id = \'c316f729-0779-4bc4-8cd8-1385be59adc8\'\' at line 5")'}
+2023-11-23 17:30:15.899 ERROR json_response.py json_response - response_exception:{'message': "(2006, 'Server has gone away')"}
+2023-11-23 17:30:26.440 ERROR json_response.py json_response - response_exception:{'message': "(2006, 'Server has gone away')"}
+2023-11-23 17:30:41.869 ERROR json_response.py json_response - response_exception:{'message': "(2013, 'Lost connection to server during query')"}
+2023-11-23 17:35:28.322 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-11-23 17:53:42.561 ERROR json_response.py json_response - response_exception:{'message': "name 'delete_img_sql' is not defined"}
+2023-11-23 17:54:02.254 ERROR json_response.py json_response - response_exception:{'message': "name 'id_tuple' is not defined"}
+2023-11-23 18:03:21.472 ERROR json_response.py json_response - response_exception:{'message': "(1065, 'Query was empty')"}
+2023-11-23 18:41:19.030 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-23 18:42:24.941 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}

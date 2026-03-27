@@ -1,0 +1,10 @@
+2023-11-30 10:01:38.081 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-11-30 10:01:38.082 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-11-30 10:01:38.108 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-11-30 10:01:58.020 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-11-30 10:03:30.413 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-11-30 10:03:31.451 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-11-30 11:59:15.148 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.conclusion\' in \'where clause\'")'}
+2023-11-30 12:51:43.332 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-11-30 12:52:02.977 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'3593808900652275\'\' at line 1")'}
+2023-11-30 12:52:33.579 ERROR json_response.py json_response - response_exception:{'message': "name 'qurey' is not defined"}

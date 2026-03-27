@@ -1,0 +1,11 @@
+2024-11-30 09:23:22.428 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc3 in position 1: invalid continuation byte"}
+2024-11-30 12:42:51.131 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ans ref_emp_id = \'fa4196ab-458b-4a81-8db0-071406be3057\'  and tasks_table.proj...\' at line 3")'}
+2024-11-30 12:42:51.145 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ans ref_emp_id = \'fa4196ab-458b-4a81-8db0-071406be3057\'  and tasks_table.proj...\' at line 3")'}
+2024-11-30 12:43:10.793 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_emp_id\' in \'where clause\'")'}
+2024-11-30 12:43:10.806 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_emp_id\' in \'where clause\'")'}
+2024-11-30 16:43:13.560 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 3: invalid start byte"}
+2024-11-30 16:43:13.601 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 3: invalid start byte"}
+2024-11-30 16:45:23.297 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 3: invalid start byte"}
+2024-11-30 16:45:23.334 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 3: invalid start byte"}
+2024-11-30 16:46:03.790 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 3: invalid start byte"}
+2024-11-30 16:46:03.820 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 3: invalid start byte"}

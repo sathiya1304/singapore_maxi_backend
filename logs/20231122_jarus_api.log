@@ -1,0 +1,29 @@
+2023-11-22 10:35:58.600 ERROR json_response.py json_response - response_exception:{'message': "name 'x' is not defined"}
+2023-11-22 10:35:58.702 ERROR json_response.py json_response - response_exception:{'message': "name 'x' is not defined"}
+2023-11-22 10:35:58.757 ERROR json_response.py json_response - response_exception:{'message': "name 'x' is not defined"}
+2023-11-22 10:36:05.029 ERROR json_response.py json_response - response_exception:{'message': "name 'x' is not defined"}
+2023-11-22 10:36:15.114 ERROR json_response.py json_response - response_exception:{'message': "name 'x' is not defined"}
+2023-11-22 10:36:15.213 ERROR json_response.py json_response - response_exception:{'message': "name 'x' is not defined"}
+2023-11-22 10:36:15.271 ERROR json_response.py json_response - response_exception:{'message': "name 'x' is not defined"}
+2023-11-22 10:43:14.692 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'8cdfe1b8\' in \'where clause\'")'}
+2023-11-22 10:43:14.774 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'8cdfe1b8\' in \'where clause\'")'}
+2023-11-22 10:43:14.825 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'8cdfe1b8\' in \'where clause\'")'}
+2023-11-22 10:43:18.237 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'8cdfe1b8\' in \'where clause\'")'}
+2023-11-22 17:09:55.061 ERROR json_response.py json_response - response_exception:{'message': "name 'stage_id' is not defined"}
+2023-11-22 17:10:00.217 ERROR json_response.py json_response - response_exception:{'message': "name 'stage_id' is not defined"}
+2023-11-22 17:15:25.577 ERROR json_response.py json_response - response_exception:{'message': "'category_id'"}
+2023-11-22 17:15:50.652 ERROR json_response.py json_response - response_exception:{'message': "'category_id'"}
+2023-11-22 17:15:56.351 ERROR json_response.py json_response - response_exception:{'message': "'category_id'"}
+2023-11-22 17:16:09.239 ERROR json_response.py json_response - response_exception:{'message': "'category_id'"}
+2023-11-22 17:16:40.945 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'WHERE category_id = \'eb0823db-1ada-4817-94ce-d0af246fb146\'\' at line 3")'}
+2023-11-22 17:17:27.818 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'WHERE category_id = \'eb0823db-1ada-4817-94ce-d0af246fb146\'\' at line 3")'}
+2023-11-22 17:23:06.492 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-22 17:38:07.484 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-11-22 17:38:55.889 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-11-22 17:39:35.477 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-11-22 17:39:38.580 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-11-22 17:41:05.650 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-11-22 17:47:49.345 ERROR json_response.py json_response - response_exception:{'message': "'category_id'"}
+2023-11-22 17:48:16.246 ERROR json_response.py json_response - response_exception:{'message': "local variable 'img_path' referenced before assignment"}
+2023-11-22 17:49:55.914 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'2023-11-22 12:19:55.908009\')\' at line 2")'}
+2023-11-22 17:50:18.649 ERROR json_response.py json_response - response_exception:{'message': "name 'stage_id' is not defined"}

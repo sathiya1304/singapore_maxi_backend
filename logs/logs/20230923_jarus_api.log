@@ -1,0 +1,36 @@
+2023-09-23 09:15:45.298 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'first_name\' in \'field list\'")'}
+2023-09-23 09:16:20.093 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'first_name\' in \'field list\'")'}
+2023-09-23 09:16:22.313 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'first_name\' in \'field list\'")'}
+2023-09-23 09:18:46.233 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'first_name\' in \'field list\'")'}
+2023-09-23 09:21:22.719 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'first_name\' in \'field list\'")'}
+2023-09-23 12:16:43.190 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'show_password\' in \'field list\'")'}
+2023-09-23 12:17:34.097 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'show_password\' in \'field list\'")'}
+2023-09-23 12:18:20.716 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'show_password\' in \'field list\'")'}
+2023-09-23 12:44:56.765 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'show_password\' in \'field list\'")'}
+2023-09-23 12:45:26.827 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'order_by' where it is not associated with a value"}
+2023-09-23 12:45:41.957 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'show_password\' in \'field list\'")'}
+2023-09-23 12:46:23.767 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'show_password\' in \'field list\'")'}
+2023-09-23 12:52:36.030 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'show_password\' in \'field list\'")'}
+2023-09-23 13:07:05.695 ERROR json_response.py json_response - response_exception:{'message': "name 'exc' is not defined"}
+2023-09-23 14:38:45.509 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'show_password\' in \'field list\'")'}
+2023-09-23 14:41:17.562 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'show_password\' in \'field list\'")'}
+2023-09-23 14:48:18.726 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-23 14:54:35.973 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-23 14:55:05.282 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-23 15:02:35.860 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-23 15:04:17.787 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-23 15:17:59.779 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-23 15:33:15.533 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-23 15:33:17.476 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-23 15:36:56.425 ERROR json_response.py json_response - response_exception:{'message': "'Settings' object has no attribute 'AUTH_KEY'"}
+2023-09-23 15:36:56.426 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-09-23 15:37:52.314 ERROR json_response.py json_response - response_exception:{'message': "'Settings' object has no attribute 'AUTH_KEY'"}
+2023-09-23 15:37:52.316 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-09-23 15:48:31.547 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-23 15:50:59.798 ERROR json_response.py json_response - response_exception:{'message': "name 'base64_operation' is not defined"}
+2023-09-23 16:03:33.498 ERROR json_response.py json_response - response_exception:{'message': "name 'response' is not defined"}
+2023-09-23 17:02:24.763 ERROR json_response.py json_response - response_exception:{'message': "name 'base64_operation' is not defined"}
+2023-09-23 17:13:48.781 ERROR json_response.py json_response - response_exception:{'message': "name 'base64_operation' is not defined"}
+2023-09-23 17:26:30.336 ERROR json_response.py json_response - response_exception:{'message': "name 'base64_operation' is not defined"}
+2023-09-23 17:50:45.950 ERROR json_response.py json_response - response_exception:{'message': "name 'base64_operation' is not defined"}
+2023-09-23 18:03:52.988 ERROR json_response.py json_response - response_exception:{'message': "name 'base64_operation' is not defined"}

@@ -1,0 +1,14 @@
+2024-05-04 10:57:34.537 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'rf_id\' in \'where clause\'")'}
+2024-05-04 12:34:22.119 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'query' where it is not associated with a value"}
+2024-05-04 12:40:40.738 ERROR json_response.py json_response - response_exception:{'message': "'team_name'"}
+2024-05-04 12:41:28.272 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'success_message' where it is not associated with a value"}
+2024-05-04 13:09:34.771 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-05-04 13:10:17.018 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 7 column 5 (char 188)"}
+2024-05-04 13:13:01.933 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (5) cannot be 1 more than a multiple of 4'}
+2024-05-04 13:19:57.752 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (5) cannot be 1 more than a multiple of 4'}
+2024-05-04 13:20:19.429 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cash\' in \'field list\'")'}
+2024-05-04 13:20:54.845 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'harry\' in \'field list\'")'}
+2024-05-04 17:12:25.350 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'efsa_db.competiton\' doesn\'t exist")'}
+2024-05-04 17:14:28.771 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'efsa_db.competiton\' doesn\'t exist")'}
+2024-05-04 17:14:47.395 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'efsa_db.competiton\' doesn\'t exist")'}
+2024-05-04 17:16:33.816 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'efsa_db.competiton\' doesn\'t exist")'}

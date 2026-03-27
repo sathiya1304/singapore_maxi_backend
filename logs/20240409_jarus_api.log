@@ -1,0 +1,155 @@
+2024-04-09 10:21:55.171 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 10:35:17.637 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 10:49:20.558 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 10:53:01.938 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 10:54:46.028 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 11:11:56.559 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 11:12:17.189 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-09 11:13:08.429 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 11:23:44.940 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 11:25:31.943 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 11:30:16.110 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 11:33:36.480 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 11:45:24.243 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 11:51:59.941 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 11:54:58.341 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:02:21.132 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:03:33.857 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:06:44.502 ERROR json_response.py json_response - response_exception:{'message': "argument should be a bytes-like object or ASCII string, not 'dict'"}
+2024-04-09 12:09:33.292 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:11:01.092 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:13:05.592 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:17:31.323 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:17:40.045 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:17:41.683 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:17:42.376 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:17:42.713 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:17:42.934 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:17:43.123 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:18:11.743 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:18:13.488 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:18:23.613 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:18:24.323 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:18:26.063 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:18:30.293 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:18:47.007 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:18:48.083 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:20:19.653 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:21:34.303 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:22:46.433 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:23:11.243 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:23:38.319 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:30:17.814 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:36:26.714 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 12:36:29.051 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 12:39:45.121 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:43:20.799 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:45:19.312 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:45:43.582 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 12:49:15.705 ERROR json_response.py json_response - response_exception:{'message': "argument should be a bytes-like object or ASCII string, not 'dict'"}
+2024-04-09 12:50:21.044 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 12:54:09.505 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 12:55:05.385 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 12:56:46.155 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-09 13:03:49.605 ERROR json_response.py json_response - response_exception:{'message': "local variable 'product_images' referenced before assignment"}
+2024-04-09 13:04:39.808 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 15 column 5 (char 292)'}
+2024-04-09 13:04:52.526 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 18 column 1 (char 305)'}
+2024-04-09 13:04:57.355 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-09 13:05:39.965 ERROR json_response.py json_response - response_exception:{'message': "local variable 'product_images' referenced before assignment"}
+2024-04-09 13:11:24.409 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-09 13:13:09.181 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-09 13:18:18.636 ERROR json_response.py json_response - response_exception:{'message': "local variable 'product_images' referenced before assignment"}
+2024-04-09 13:19:42.160 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-09 13:20:59.483 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-09 13:25:26.237 ERROR json_response.py json_response - response_exception:{'message': "local variable 'update_image' referenced before assignment"}
+2024-04-09 13:26:12.998 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-09 13:29:59.669 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-09 13:31:22.039 ERROR json_response.py json_response - response_exception:{'message': "local variable 'success_message' referenced before assignment"}
+2024-04-09 13:33:46.847 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2024-04-09 13:35:51.069 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 13:36:13.897 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 13:37:14.819 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 13:41:15.467 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 13:41:30.195 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 13:44:49.687 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 13:46:46.507 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 13:48:16.049 ERROR json_response.py json_response - response_exception:{'message': "name 'filtered_data' is not defined"}
+2024-04-09 15:00:02.962 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 15:00:21.892 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 15:00:41.231 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 15:02:11.394 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 15:04:16.652 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 15:04:41.932 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 15:05:17.732 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:10:20.983 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:13:09.165 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:13:35.646 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:17:30.453 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:18:16.669 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-09 15:18:31.536 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:18:55.163 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:20:03.957 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 15:26:58.955 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 15:31:47.700 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:31:52.273 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:32:01.330 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:35:54.744 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 15:37:19.987 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:39:34.436 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:41:37.389 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 15:56:46.210 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 15:57:06.994 ERROR json_response.py json_response - response_exception:{'message': "local variable 'image_list' referenced before assignment"}
+2024-04-09 15:58:12.265 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:02:06.498 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 16:05:39.675 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:05:41.485 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:07:36.180 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:09:13.179 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:18:46.491 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:19:22.633 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 16:27:03.364 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 16:33:05.895 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 16:33:39.877 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 16:37:40.867 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 16:38:39.127 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 16:46:11.397 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:46:51.768 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:51:46.098 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte"}
+2024-04-09 16:52:43.738 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:56:22.468 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-09 16:57:01.908 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:58:25.842 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 16:59:22.518 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:00:50.310 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 17:00:58.959 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 17:02:02.038 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 17:03:03.638 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 17:03:05.618 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 17:03:16.568 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 17:04:02.125 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 17:04:43.299 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-09 17:09:31.968 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:11:12.119 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:11:44.549 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:11:54.107 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:12:03.919 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:13:44.248 ERROR json_response.py json_response - response_exception:{'message': "local variable 'image_list' referenced before assignment"}
+2024-04-09 17:15:11.352 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:16:33.174 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:18:34.849 ERROR json_response.py json_response - response_exception:{'message': "local variable 'image_list' referenced before assignment"}
+2024-04-09 17:20:00.419 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:25:16.950 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:25:31.464 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:34:00.340 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:34:06.867 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:34:26.710 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:34:47.200 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:37:15.960 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:39:02.860 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:41:43.630 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:41:57.233 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:43:20.471 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:44:14.087 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:45:59.181 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:59:34.867 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-09 17:59:59.943 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}

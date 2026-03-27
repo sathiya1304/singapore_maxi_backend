@@ -1,0 +1,10 @@
+2023-03-02 17:22:39.259 ERROR json_response.py json_response - response_exception:{'message': "'fn'"}
+2023-03-02 17:22:39.259 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-02 17:28:30.912 ERROR json_response.py json_response - response_exception:{'message': "'fn'"}
+2023-03-02 17:28:30.913 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-02 17:30:02.958 ERROR json_response.py json_response - response_exception:{'message': "'fn'"}
+2023-03-02 17:30:02.958 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-02 17:31:06.594 ERROR json_response.py json_response - response_exception:{'message': "'fn'"}
+2023-03-02 17:31:06.594 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-02 17:42:19.888 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-02 17:42:19.889 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}

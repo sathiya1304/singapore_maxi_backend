@@ -1,0 +1,124 @@
+2023-09-28 09:22:56.033 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-28 09:23:59.728 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-28 09:24:32.322 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-28 09:24:44.180 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-28 09:24:45.422 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-28 09:25:54.184 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-28 09:26:16.597 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-28 09:26:17.893 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-28 09:37:26.814 ERROR json_response.py json_response - response_exception:{'message': "local variable 'sub_total' referenced before assignment"}
+2023-09-28 09:37:28.632 ERROR json_response.py json_response - response_exception:{'message': "local variable 'sub_total' referenced before assignment"}
+2023-09-28 09:45:38.488 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-28 09:46:38.971 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-28 09:47:36.060 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-28 10:01:14.259 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for +: 'float' and 'str'"}
+2023-09-28 10:01:32.667 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-28 11:03:24.917 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 11:04:15.946 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'created_date\' in \'field list\'")'}
+2023-09-28 11:09:07.567 ERROR json_response.py json_response - response_exception:{'message': "name 'tppd_charges' is not defined"}
+2023-09-28 11:12:50.100 ERROR json_response.py json_response - response_exception:{'message': "'sst_tax'"}
+2023-09-28 11:13:46.956 ERROR json_response.py json_response - response_exception:{'message': "'sst_tax'"}
+2023-09-28 11:37:53.375 ERROR json_response.py json_response - response_exception:{'message': "'comm_percent_id'"}
+2023-09-28 11:38:50.935 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'vehicle_id\' in \'where clause\'")'}
+2023-09-28 12:11:44.281 ERROR json_response.py json_response - response_exception:{'message': "'tppd_percent'"}
+2023-09-28 12:14:00.981 ERROR json_response.py json_response - response_exception:{'message': "'tppd_percent'"}
+2023-09-28 12:28:14.492 ERROR json_response.py json_response - response_exception:{'message': "name 'tppd_charges' is not defined"}
+2023-09-28 12:41:14.767 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'refmanager_id\' in \'where clause\'")'}
+2023-09-28 12:45:23.432 ERROR json_response.py json_response - response_exception:{'message': "'tppd_charges'"}
+2023-09-28 12:45:40.387 ERROR json_response.py json_response - response_exception:{'message': "name 'tppd_pers' is not defined"}
+2023-09-28 13:29:09.524 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_manager_id' referenced before assignment"}
+2023-09-28 13:29:44.496 ERROR json_response.py json_response - response_exception:{'message': "'comm_percent_id'"}
+2023-09-28 13:31:01.902 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-09-28 14:39:45.723 ERROR json_response.py json_response - response_exception:{'message': "'ref_invoice_id'"}
+2023-09-28 14:40:23.801 ERROR json_response.py json_response - response_exception:{'message': "'comm_percent_id'"}
+2023-09-28 14:42:17.379 ERROR json_response.py json_response - response_exception:{'message': "'comm_percent_id'"}
+2023-09-28 14:43:00.626 ERROR json_response.py json_response - response_exception:{'message': "local variable 'mng_tppd' referenced before assignment"}
+2023-09-28 14:43:31.276 ERROR json_response.py json_response - response_exception:{'message': "'toll_percent'"}
+2023-09-28 14:50:33.086 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:52:06.167 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:52:07.585 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:52:19.892 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:52:21.099 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:52:31.241 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:52:32.226 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:52:34.343 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:54:09.846 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:54:27.846 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:54:29.055 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:54:42.162 ERROR json_response.py json_response - response_exception:{'message': "name 'tppd_percent' is not defined"}
+2023-09-28 14:55:19.892 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:55:21.362 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 14:59:48.260 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:02:33.412 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:03:39.061 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:06:01.629 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:06:03.468 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:10:35.980 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:10:37.822 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:11:03.186 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:11:04.298 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:11:20.679 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "decimal.Decimal") to str'}
+2023-09-28 15:11:21.963 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "decimal.Decimal") to str'}
+2023-09-28 15:11:44.020 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "decimal.Decimal") to str'}
+2023-09-28 15:11:45.063 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "decimal.Decimal") to str'}
+2023-09-28 15:12:41.349 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "decimal.Decimal") to str'}
+2023-09-28 15:12:52.769 ERROR json_response.py json_response - response_exception:{'message': "local variable 'mng_tppd' referenced before assignment"}
+2023-09-28 15:13:39.061 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 15:14:01.802 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 15:14:09.521 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 15:14:30.840 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 15:14:35.066 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-09-28 15:14:53.424 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:15:10.171 ERROR json_response.py json_response - response_exception:{'message': "name 'mng_tppd' is not defined"}
+2023-09-28 15:16:46.519 ERROR json_response.py json_response - response_exception:{'message': "'adjuster_id'"}
+2023-09-28 15:18:15.882 ERROR json_response.py json_response - response_exception:{'message': "name 'mng_tppd' is not defined"}
+2023-09-28 15:18:42.957 ERROR json_response.py json_response - response_exception:{'message': "name 'mng_tppd' is not defined"}
+2023-09-28 15:18:56.697 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:19:17.706 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "decimal.Decimal") to str'}
+2023-09-28 15:19:18.963 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "decimal.Decimal") to str'}
+2023-09-28 15:19:43.971 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "decimal.Decimal") to str'}
+2023-09-28 15:20:04.870 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:20:06.286 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:21:04.645 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:21:06.019 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:23:13.246 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:23:46.694 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:23:47.937 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:23:48.761 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:23:49.363 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:23:51.049 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'decimal.Decimal'"}
+2023-09-28 15:31:18.099 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'float'"}
+2023-09-28 15:41:48.243 ERROR json_response.py json_response - response_exception:{'message': "name 'misc' is not defined"}
+2023-09-28 15:43:26.215 ERROR json_response.py json_response - response_exception:{'message': "name 'misc' is not defined"}
+2023-09-28 15:43:27.215 ERROR json_response.py json_response - response_exception:{'message': "name 'misc' is not defined"}
+2023-09-28 16:00:11.639 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2023-09-28 16:00:39.595 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2023-09-28 16:20:56.380 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-28 17:10:16.242 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:11:23.120 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:12:02.036 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:12:03.050 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:12:44.823 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:16:39.771 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:19:33.419 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:19:34.929 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:22:10.655 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:22:11.693 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:22:43.139 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:23:50.772 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:24:02.538 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:24:07.274 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:24:13.450 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:27:28.075 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-28 17:31:19.295 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'vehicle_variants.user_type\' in \'field list\'")'}
+2023-09-28 17:33:23.278 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-28 17:33:28.538 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-28 17:34:25.814 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-28 17:38:55.054 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-28 17:40:19.032 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-28 17:40:20.194 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-28 17:42:25.244 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-28 17:42:26.452 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-28 17:43:39.432 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-28 17:47:11.847 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-28 17:47:12.884 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}

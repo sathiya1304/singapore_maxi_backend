@@ -1,0 +1,70 @@
+2023-10-04 09:12:34.882 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-04 09:13:29.994 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-04 09:13:31.174 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-04 09:23:50.021 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_manager_id' is not defined"}
+2023-10-04 09:23:51.345 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_manager_id' is not defined"}
+2023-10-04 09:26:27.049 ERROR json_response.py json_response - response_exception:{'message': 'Object of type builtin_function_or_method is not JSON serializable'}
+2023-10-04 09:26:28.508 ERROR json_response.py json_response - response_exception:{'message': 'Object of type builtin_function_or_method is not JSON serializable'}
+2023-10-04 09:29:04.661 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-04 09:29:05.871 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-04 09:30:19.086 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager'"}
+2023-10-04 09:30:46.839 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:30:48.152 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:31:43.291 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:31:44.291 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:37:40.480 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:37:41.694 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:39:13.016 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:39:14.047 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:39:33.857 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:39:34.849 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:40:28.366 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:40:29.490 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:40:49.631 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:41:44.987 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:42:08.012 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:42:09.145 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:42:38.426 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:42:39.426 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:43:14.142 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:43:53.473 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:44:19.141 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:44:55.431 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:44:56.364 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:46:29.110 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:46:30.201 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:46:49.160 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:47:16.659 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 09:47:17.772 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-10-04 10:03:20.767 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-10-04 10:13:14.045 ERROR json_response.py json_response - response_exception:{'message': "'user_code'"}
+2023-10-04 10:13:58.331 ERROR json_response.py json_response - response_exception:{'message': "'city'"}
+2023-10-04 10:14:18.209 ERROR json_response.py json_response - response_exception:{'message': "Expecting ':' delimiter: line 15 column 1 (char 370)"}
+2023-10-04 10:14:28.120 ERROR json_response.py json_response - response_exception:{'message': "'pincode'"}
+2023-10-04 10:14:44.144 ERROR json_response.py json_response - response_exception:{'message': "'state'"}
+2023-10-04 10:29:00.762 ERROR json_response.py json_response - response_exception:{'message': "'invoice_number'"}
+2023-10-04 10:36:53.476 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_manager_id' is not defined"}
+2023-10-04 10:38:45.456 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_manager_id' is not defined"}
+2023-10-04 10:40:41.508 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_manager_id' is not defined"}
+2023-10-04 11:24:07.753 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-10-04 11:45:50.157 ERROR json_response.py json_response - response_exception:{'message': "name 'misc_charge_type' is not defined"}
+2023-10-04 12:06:09.345 ERROR json_response.py json_response - response_exception:{'message': "name 'money' is not defined"}
+2023-10-04 12:06:10.748 ERROR json_response.py json_response - response_exception:{'message': "name 'money' is not defined"}
+2023-10-04 12:20:08.696 ERROR json_response.py json_response - response_exception:{'message': "'first_name'"}
+2023-10-04 12:21:33.733 ERROR json_response.py json_response - response_exception:{'message': "'first_name'"}
+2023-10-04 12:22:27.311 ERROR json_response.py json_response - response_exception:{'message': "'contact_number'"}
+2023-10-04 12:56:38.382 ERROR json_response.py json_response - response_exception:{'message': "'vehicle_id'"}
+2023-10-04 12:57:00.836 ERROR json_response.py json_response - response_exception:{'message': "'vehicle_id'"}
+2023-10-04 13:13:53.823 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'(vehicle_variants.created_date, \'%b %d, %Y | %l:%i %p\') as created_f_date,veh...\' at line 1")'}
+2023-10-04 13:14:21.992 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'vehicle_id\' in field list is ambiguous")'}
+2023-10-04 13:14:43.660 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'vehcile_name\' in \'field list\'")'}
+2023-10-04 13:20:31.644 ERROR json_response.py json_response - response_exception:{'message': "'variant_name'"}
+2023-10-04 13:20:50.852 ERROR json_response.py json_response - response_exception:{'message': "'vehicle_id'"}
+2023-10-04 13:21:12.941 ERROR json_response.py json_response - response_exception:{'message': "'vehicle_id'"}
+2023-10-04 13:21:23.422 ERROR json_response.py json_response - response_exception:{'message': "'vehicle_id'"}
+2023-10-04 13:21:44.894 ERROR json_response.py json_response - response_exception:{'message': "'vehicle_id'"}
+2023-10-04 13:22:09.374 ERROR json_response.py json_response - response_exception:{'message': "'vehicle_id'"}
+2023-10-04 13:41:37.712 ERROR json_response.py json_response - response_exception:{'message': "'state'"}
+2023-10-04 15:44:21.233 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'DESC\' at line 3")'}
+2023-10-04 15:48:50.623 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' vehicle_master.vehicle_name REGEXP \'Chevrolet\'   order by vehicle_variants.c...\' at line 3")'}
+2023-10-04 15:48:52.067 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' vehicle_master.vehicle_name REGEXP \'Chevrolet\'   order by vehicle_variants.c...\' at line 3")'}

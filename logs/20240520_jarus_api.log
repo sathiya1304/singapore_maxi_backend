@@ -1,0 +1,2 @@
+2024-05-20 10:44:00.864 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-20 10:44:00.896 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}

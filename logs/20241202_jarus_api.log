@@ -1,0 +1,2 @@
+2024-12-02 15:30:55.029 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 3: invalid start byte"}
+2024-12-02 15:30:55.097 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 3: invalid start byte"}

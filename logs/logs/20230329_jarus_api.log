@@ -1,0 +1,2 @@
+2023-03-29 16:31:57.247 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-29 16:31:57.254 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}

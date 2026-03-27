@@ -1,0 +1,11 @@
+2023-10-30 09:22:01.744 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-30 09:22:48.652 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-30 09:24:05.111 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-30 09:26:42.594 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-30 09:30:37.250 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-10-30 09:35:03.995 ERROR json_response.py json_response - response_exception:{'message': "local variable 'exc_update' referenced before assignment"}
+2023-10-30 09:54:25.400 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'lead_id\' in \'field list\'")'}
+2023-10-30 09:58:28.382 ERROR json_response.py json_response - response_exception:{'message': "name 'query_update' is not defined"}
+2023-10-30 10:22:27.055 ERROR json_response.py json_response - response_exception:{'message': "name 'update_assignment_query' is not defined"}
+2023-10-30 10:22:45.896 ERROR json_response.py json_response - response_exception:{'message': "local variable 'exc_update' referenced before assignment"}
+2023-10-30 10:23:49.095 ERROR json_response.py json_response - response_exception:{'message': "local variable 'exc_update_as' referenced before assignment"}

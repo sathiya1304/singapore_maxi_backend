@@ -1,0 +1,14 @@
+2023-04-19 12:58:59.358 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2023-04-19 12:58:59.363 ERROR json_response.py json_response - response_exception:{'message': 'Object of type Error is not JSON serializable'}
+2023-04-19 14:28:44.422 ERROR json_response.py json_response - response_exception:{'message': "'driver_name'"}
+2023-04-19 14:28:44.438 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-04-19 14:35:19.476 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \':\'Vignesh\',driver_mobile:\'+91 6382640763\',driver_licence:\'SSl1233444\' where o...\' at line 1")'}
+2023-04-19 14:35:19.481 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-04-19 14:47:21.565 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'1315c38a-95c\'\' at line 1")'}
+2023-04-19 14:47:21.583 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-04-19 14:47:52.264 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'1315c38a-95c\'\' at line 1")'}
+2023-04-19 14:47:52.281 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-04-19 14:49:23.451 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'1315c38a-95c\'\' at line 1")'}
+2023-04-19 14:49:23.461 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-04-19 15:07:07.933 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2023-04-19 15:07:07.950 ERROR json_response.py json_response - response_exception:{'message': 'Object of type Error is not JSON serializable'}

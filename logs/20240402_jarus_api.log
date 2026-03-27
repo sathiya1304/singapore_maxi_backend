@@ -1,0 +1,173 @@
+2024-04-02 08:56:01.415 ERROR json_response.py json_response - response_exception:{'message': "[Errno 13] Permission denied: 'media/logo'"}
+2024-04-02 08:56:19.503 ERROR json_response.py json_response - response_exception:{'message': "[Errno 13] Permission denied: 'media/logo'"}
+2024-04-02 08:58:06.542 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo'"}
+2024-04-02 09:22:21.493 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:22:39.056 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:34:35.834 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:34:42.256 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:36:28.276 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:36:47.532 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:38:47.669 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:40:34.495 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:44:50.749 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:44:53.772 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:50:58.135 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:50:59.977 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:51:00.762 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:52:03.386 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:52:23.137 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 09:52:28.844 ERROR json_response.py json_response - response_exception:{'message': 'email_template.html'}
+2024-04-02 10:43:09.190 ERROR json_response.py json_response - response_exception:{'message': "Invalid block tag on line 10: 'static'. Did you forget to register or load this tag?"}
+2024-04-02 11:32:39.875 ERROR json_response.py json_response - response_exception:{'message': "object of type 'NoneType' has no len()"}
+2024-04-02 11:35:10.574 ERROR json_response.py json_response - response_exception:{'message': "object of type 'NoneType' has no len()"}
+2024-04-02 11:35:26.511 ERROR json_response.py json_response - response_exception:{'message': "object of type 'NoneType' has no len()"}
+2024-04-02 11:50:10.031 ERROR json_response.py json_response - response_exception:{'message': "'username'"}
+2024-04-02 11:50:54.986 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2024-04-02 11:51:24.743 ERROR json_response.py json_response - response_exception:{'message': 'column "user_id" does not exist\nLINE 1: ...lhMWmOgnShBZPRjLmyTqrQqtGuFcCHOHfuJZmsYsnn\' where user_id = ...\n                                                             ^\n'}
+2024-04-02 11:52:10.005 ERROR json_response.py json_response - response_exception:{'message': "name 'user_name' is not defined"}
+2024-04-02 11:53:07.871 ERROR json_response.py json_response - response_exception:{'message': "object of type 'int' has no len()"}
+2024-04-02 11:55:09.148 ERROR json_response.py json_response - response_exception:{'message': 'column "user_type" of relation "user_master" does not exist\nLINE 1: ...show_password,password,created_date,modified_date,user_type)...\n                                                             ^\n'}
+2024-04-02 12:03:25.788 ERROR json_response.py json_response - response_exception:{'message': 'column "ref_user_type" of relation "users_login_table" does not exist\nLINE 1: ...s_login_table (access_token,ref_user_id,user_name,ref_user_t...\n                                                             ^\n'}
+2024-04-02 12:09:26.111 ERROR json_response.py json_response - response_exception:{'message': "'image'"}
+2024-04-02 12:20:20.080 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'path/to/your/logo.png'"}
+2024-04-02 15:30:18.004 ERROR json_response.py json_response - response_exception:{'message': 'Fernet.encrypt() takes 2 positional arguments but 3 were given'}
+2024-04-02 15:30:51.095 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 15:37:38.750 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC9jqxWIr7qpTECG9eXp0teQo3IloBG1WWWmgRZcqbr108mZul7j-hhdR-LNJ1VCMJFTKL...\' at line 1")'}
+2024-04-02 15:50:28.762 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 15:53:13.978 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 15:53:46.615 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 15:56:51.420 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 16:01:27.383 ERROR json_response.py json_response - response_exception:{'message': "decrypt_data() missing 1 required positional argument: 'cipher'"}
+2024-04-02 16:02:46.423 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 16:09:10.302 ERROR json_response.py json_response - response_exception:{'message': 'encrypt_data() takes 1 positional argument but 2 were given'}
+2024-04-02 16:11:44.529 ERROR json_response.py json_response - response_exception:{'message': 'Object of type bytes is not JSON serializable'}
+2024-04-02 16:13:28.131 ERROR json_response.py json_response - response_exception:{'message': 'Object of type bytes is not JSON serializable'}
+2024-04-02 16:21:46.803 ERROR json_response.py json_response - response_exception:{'message': 'Object of type bytes is not JSON serializable'}
+2024-04-02 16:31:10.908 ERROR json_response.py json_response - response_exception:{'message': 'Object of type bytes is not JSON serializable'}
+2024-04-02 16:32:06.334 ERROR json_response.py json_response - response_exception:{'message': 'Object of type bytes is not JSON serializable'}
+2024-04-02 16:38:46.854 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 16:41:23.414 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 16:42:19.389 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 16:45:06.046 ERROR json_response.py json_response - response_exception:{'message': "'tuple' object has no attribute 'decode'"}
+2024-04-02 16:45:29.958 ERROR json_response.py json_response - response_exception:{'message': "'tuple' object has no attribute 'decode'"}
+2024-04-02 16:51:09.790 ERROR json_response.py json_response - response_exception:{'message': "'tuple' object has no attribute 'decode'"}
+2024-04-02 17:30:18.776 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:31:05.817 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:31:24.611 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:31:58.883 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:32:31.545 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:33:19.965 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:34:03.525 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 17:37:04.318 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_ToG6LGngDyH39lffTyNQQqn-Oc84YDPprI4n0JWqUhsa9rK16h9KZOzruvPns-OAllN...\' at line 1")'}
+2024-04-02 17:37:53.062 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_UZdlJSJHo5KwKeAEh0ahJ5N67d-qKgmp3BGzT-LrN1LSGj_bhVJhtRYNgL6o-Ec4mOj...\' at line 1")'}
+2024-04-02 17:38:59.760 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 17:40:11.724 ERROR json_response.py json_response - response_exception:{'message': "'bytes' object has no attribute 'encode'"}
+2024-04-02 17:40:13.107 ERROR json_response.py json_response - response_exception:{'message': "'bytes' object has no attribute 'encode'"}
+2024-04-02 17:41:52.951 ERROR json_response.py json_response - response_exception:{'message': "'bytes' object has no attribute 'encode'"}
+2024-04-02 17:42:09.182 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:42:10.550 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:42:29.201 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 17:44:35.125 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:44:36.409 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:44:54.712 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:46:25.473 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 17:47:37.251 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_dhcHK4Tq-jNl-NzArrn-x7zm-8RWynzfrx0b_wujhod-ZqRJgJInuScZ-4EB2IJZZmw...\' at line 1")'}
+2024-04-02 17:48:32.724 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_eY0zio_qhdTePvaH9npt6rzA1W_mcj43xLs7slpeqr30mm79p_TE1TSgkQDJQGJ9CI6...\' at line 1")'}
+2024-04-02 17:48:33.714 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_eZec-PCsAe6J_icZi9ChblM80ol9lxwPuhZIz2dcQA53FPaBus4XBu8ZlN3s5XxHNZ1...\' at line 1")'}
+2024-04-02 17:49:21.206 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_fJhkRaesXsg_h8oRrMcrnQH9OULkrROVkXt_CqXjJNEMsxXOpYqGaoCg3CvvlgHeAjK...\' at line 1")'}
+2024-04-02 17:49:45.153 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_fhdwFOKqpaa01pSNamUjRR2aEuMgiZFO3u3keLAcsThV5jSzvFL_BXkrGCr1siJ3y4b...\' at line 1")'}
+2024-04-02 17:50:06.724 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_f2KL3WWicESPcxQJ8RRoSGKHN-B6rvtzDjB_lCszjgwdM4oCVpcwycg-3lle5_qVN6g...\' at line 1")'}
+2024-04-02 17:50:37.528 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_gVOAO0FcuUUy_gFTImghFy7F-swC-jRJnD-l5H-K7tDNkaU9ZJLUMpxQpsHRJ9044Sp...\' at line 1")'}
+2024-04-02 17:50:55.721 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_gnGgIyJ6vHyvwyEmVHHu4IXYuDbr-sTIODPFYqVRPTmoPWATWLxRFxsau5zkUqz9xcS...\' at line 1")'}
+2024-04-02 17:51:45.112 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_hZPD097HTA948-sO_ruxDRBgROsR4EkiTQMnlKjMw6SEKPWSkrXH1GkRGCiqSxRa90t...\' at line 1")'}
+2024-04-02 17:52:16.769 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'gAAAAABmC_h41R0YcGjRaqN1Qnma-lFWSthO9CuLupdasmeepavcjM4nl8ug9ngYyhgtTMS4Ct1J6...\' at line 1")'}
+2024-04-02 17:53:00.598 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 17:53:51.707 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 17:53:52.897 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 17:53:53.731 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 17:53:54.579 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 17:55:00.083 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:55:01.574 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:55:21.166 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:55:22.863 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:55:23.870 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:55:50.566 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:55:51.467 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:55:52.234 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:55:53.281 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:55:53.703 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:55:54.781 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:56:00.986 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:56:58.652 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:57:04.806 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:57:13.448 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:57:14.404 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:57:39.513 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 17:57:40.437 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:03:17.055 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:04:16.330 ERROR json_response.py json_response - response_exception:{'message': 'Object of type bytes is not JSON serializable'}
+2024-04-02 18:04:37.549 ERROR json_response.py json_response - response_exception:{'message': "'bytes' object has no attribute 'encode'"}
+2024-04-02 18:05:41.978 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:05:42.992 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:06:07.313 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:06:08.368 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:06:09.132 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:06:29.169 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:06:30.050 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:06:30.788 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:06:32.892 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:06:33.416 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:06:45.928 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:06:46.914 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:06:47.687 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:06:48.252 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:08:06.970 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:08:08.118 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:09:02.968 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:09:17.528 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:09:18.889 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:10:10.423 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:10:11.605 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:10:12.375 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:10:13.058 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:10:31.715 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:10:52.041 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:11:00.200 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:11:12.985 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:11:31.948 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:11:49.948 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:12:10.481 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:12:23.776 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:12:57.493 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:13:17.388 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:13:27.320 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:13:29.375 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:17:17.976 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:17:49.712 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:18:05.779 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:18:23.706 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:18:58.514 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:18:59.522 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:19:55.701 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:20:34.291 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:21:29.935 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'decrypted_data' where it is not associated with a value"}
+2024-04-02 18:21:50.520 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'decoded_data' where it is not associated with a value"}
+2024-04-02 18:22:10.733 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:22:47.049 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:22:48.308 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:23:16.150 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:23:36.993 ERROR json_response.py json_response - response_exception:{'message': 'data must be bytes'}
+2024-04-02 18:24:04.006 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:24:05.107 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:24:47.053 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:24:48.253 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:25:08.005 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:25:09.097 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:25:37.874 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:25:38.961 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:26:10.324 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}
+2024-04-02 18:27:25.213 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:29:15.064 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:29:16.213 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:31:01.339 ERROR json_response.py json_response - response_exception:{'message': ''}
+2024-04-02 18:31:17.213 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'decode'"}

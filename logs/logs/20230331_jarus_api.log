@@ -1,0 +1,30 @@
+2023-03-31 09:21:14.173 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-31 09:21:14.176 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-31 10:16:37.755 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-03-31 10:16:42.608 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-03-31 10:16:45.638 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-03-31 10:18:52.917 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-03-31 12:08:14.751 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-03-31 12:08:14.764 ERROR json_response.py json_response - response_exception:{'message': 'Object of type JSONDecodeError is not JSON serializable'}
+2023-03-31 12:11:14.466 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode bytes in position 0-1: invalid continuation byte"}
+2023-03-31 12:11:14.466 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnicodeDecodeError is not JSON serializable'}
+2023-03-31 12:12:12.474 ERROR json_response.py json_response - response_exception:{'message': "'pod_upload'"}
+2023-03-31 12:12:12.481 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-31 15:16:55.602 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-31 15:16:55.620 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-31 15:20:11.049 ERROR json_response.py json_response - response_exception:{'message': "'final_state'"}
+2023-03-31 15:20:11.050 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-31 15:22:34.189 ERROR json_response.py json_response - response_exception:{'message': "'final_state'"}
+2023-03-31 15:22:34.209 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-31 15:27:56.247 ERROR json_response.py json_response - response_exception:{'message': "'final_state'"}
+2023-03-31 15:27:56.251 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-31 17:00:24.628 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-31 17:00:24.645 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-31 17:00:43.101 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-31 17:00:43.101 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-31 17:08:11.894 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-03-31 17:12:07.945 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-03-31 17:14:38.264 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-03-31 17:21:05.991 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-03-31 17:25:11.879 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-03-31 17:27:47.884 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}

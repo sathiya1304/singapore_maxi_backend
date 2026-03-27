@@ -1,0 +1,230 @@
+2024-12-07 09:39:03.185 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-07 09:39:03.251 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-07 09:50:09.423 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-07 09:50:09.495 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-07 09:55:46.010 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-07 09:55:46.063 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-07 11:45:34.504 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 11:45:34.567 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:16:19.831 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:16:19.887 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:20:26.364 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:20:26.423 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:24:50.233 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:24:50.292 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:26:38.498 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:26:38.559 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:28:15.761 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:28:15.816 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:32:24.726 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:32:24.802 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:35:16.384 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:35:16.439 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:36:18.519 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:36:18.585 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:37:51.218 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:37:51.344 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:38:57.182 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:38:57.238 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:45:02.296 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:45:02.360 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:45:21.207 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:45:21.271 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:45:47.232 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:45:47.285 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:46:52.676 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:46:52.755 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:47:25.678 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:47:25.870 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:47:52.576 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:47:52.655 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:48:49.053 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:48:49.116 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:48:53.422 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:48:53.477 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 12:53:04.507 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 12:55:57.109 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-12-07 13:02:59.839 ERROR json_response.py json_response - response_exception:{'message': "local variable 'get_user_based_count' referenced before assignment"}
+2024-12-07 13:03:04.143 ERROR json_response.py json_response - response_exception:{'message': "local variable 'get_user_based_count' referenced before assignment"}
+2024-12-07 13:03:07.664 ERROR json_response.py json_response - response_exception:{'message': "local variable 'get_user_based_count' referenced before assignment"}
+2024-12-07 13:07:43.757 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'fa4196ab\' in \'where clause\'")'}
+2024-12-07 13:08:13.019 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'fa4196ab\' in \'where clause\'")'}
+2024-12-07 13:08:14.457 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'fa4196ab\' in \'where clause\'")'}
+2024-12-07 13:08:27.413 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-12-07 13:10:22.493 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x81 in position 0: invalid start byte"}
+2024-12-07 13:10:22.545 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x81 in position 0: invalid start byte"}
+2024-12-07 14:30:13.535 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x81 in position 0: invalid start byte"}
+2024-12-07 14:30:13.591 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x81 in position 0: invalid start byte"}
+2024-12-07 14:31:00.507 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:31:41.719 ERROR json_response.py json_response - response_exception:{'message': "'builtin_function_or_method' object is not subscriptable"}
+2024-12-07 14:33:47.464 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:33:56.625 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:37:22.274 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:38:48.475 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:39:02.209 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:39:32.947 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:39:47.689 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:40:08.434 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:40:29.297 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:40:57.856 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-07 14:43:29.756 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x81 in position 0: invalid start byte"}
+2024-12-07 14:43:29.823 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x81 in position 0: invalid start byte"}
+2024-12-07 14:47:49.024 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x81 in position 0: invalid start byte"}
+2024-12-07 14:47:49.073 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x81 in position 0: invalid start byte"}
+2024-12-07 14:57:39.954 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 14:57:40.035 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 14:59:03.145 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 14:59:03.214 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 15:05:13.948 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 15:05:14.049 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x96 in position 0: invalid start byte"}
+2024-12-07 15:28:31.853 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:28:31.919 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:31:23.458 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:31:23.518 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:31:28.693 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:31:28.760 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:31:46.025 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:31:46.097 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:32:42.461 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:32:42.519 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:39:05.794 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:39:05.858 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:39:10.522 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:39:10.573 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:39:41.587 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:39:41.650 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 15:59:34.345 ERROR json_response.py json_response - response_exception:{'message': "'task_status'"}
+2024-12-07 16:08:50.133 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:08:50.186 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:08:56.045 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:08:56.103 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:09:38.851 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:09:38.908 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:10:06.227 ERROR json_response.py json_response - response_exception:{'message': "'pend_count'"}
+2024-12-07 16:10:24.796 ERROR json_response.py json_response - response_exception:{'message': "'pend_count'"}
+2024-12-07 16:10:37.879 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:10:37.929 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:11:13.396 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:11:13.467 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:11:36.815 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:11:36.886 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:15:50.977 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:15:51.036 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:18:19.160 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:18:19.372 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:18:36.561 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:18:36.625 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:20:13.739 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:20:13.812 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:20:33.006 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:20:33.106 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:20:59.404 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:20:59.483 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:23:47.959 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:23:48.023 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:25:41.494 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:25:41.556 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:26:07.212 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:26:07.275 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte"}
+2024-12-07 16:50:56.316 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte"}
+2024-12-07 16:50:56.378 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte"}
+2024-12-07 16:52:52.336 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte"}
+2024-12-07 16:52:52.388 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte"}
+2024-12-07 17:45:00.031 ERROR json_response.py json_response - response_exception:{'message': "local variable 'pro_count_query' referenced before assignment"}
+2024-12-07 17:53:50.864 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.employee_table\' doesn\'t exist")'}
+2024-12-07 17:59:05.572 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 17:59:05.632 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:05.901 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:05.921 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:05.952 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:05.984 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:10.103 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:10.163 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:10.166 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:10.218 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:37.178 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:37.183 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:37.237 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:00:37.237 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:01.845 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:01.916 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:01.928 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:01.980 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:01.981 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:02.027 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:29.630 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:29.638 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:29.692 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:29.693 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:29.755 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:29.803 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:33.014 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:33.022 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:33.076 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:33.078 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:33.136 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:33.182 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:50.563 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:50.617 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:51.711 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:51.719 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:51.765 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:51.784 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:51.827 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:02:51.875 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:01.561 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:01.619 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:25.740 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:25.748 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:25.799 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:25.799 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:25.860 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:25.906 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:35.467 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:35.480 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:35.541 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:35.542 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:54.672 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:03:54.725 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:04:32.527 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:04:32.535 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:04:32.583 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:04:32.585 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:04:32.631 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:04:32.679 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:05:27.225 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:05:27.231 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:05:27.292 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:05:27.294 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:05:27.355 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:05:27.419 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:10:04.294 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:10:04.295 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:10:04.349 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:10:04.349 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:11:30.599 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:11:30.603 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:11:30.651 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:11:30.654 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:12:42.892 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:12:42.949 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:13:50.584 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:13:50.631 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:14:19.969 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:14:20.032 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:15:06.036 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:15:06.095 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:15:16.994 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM employee_master\\n                WHERE 1=1   and employee_master.active_s...\' at line 2")'}
+2024-12-07 18:15:17.055 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM employee_master\\n                WHERE 1=1   and employee_master.active_s...\' at line 2")'}
+2024-12-07 18:15:23.570 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM employee_master\\n                WHERE 1=1   and employee_master.active_s...\' at line 2")'}
+2024-12-07 18:15:23.641 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM employee_master\\n                WHERE 1=1   and employee_master.active_s...\' at line 2")'}
+2024-12-07 18:16:42.787 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:16:42.852 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:17:25.707 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:17:25.764 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:17:29.994 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:17:30.051 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:17:50.101 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:17:50.159 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:19:59.794 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-07 18:19:59.899 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}

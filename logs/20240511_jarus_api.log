@@ -1,0 +1,8 @@
+2024-05-11 11:52:50.227 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'result' where it is not associated with a value"}
+2024-05-11 12:23:49.137 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-05-11 12:33:42.477 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-05-11 12:40:41.403 ERROR json_response.py json_response - response_exception:{'message': "string indices must be integers, not 'str'"}
+2024-05-11 12:41:45.020 ERROR json_response.py json_response - response_exception:{'message': "string indices must be integers, not 'str'"}
+2024-05-11 17:10:34.965 ERROR json_response.py json_response - response_exception:{'message': "'notes'"}
+2024-05-11 17:11:04.505 ERROR json_response.py json_response - response_exception:{'message': "'notes'"}
+2024-05-11 17:12:57.459 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}

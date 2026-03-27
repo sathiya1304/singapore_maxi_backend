@@ -1,0 +1,15 @@
+2024-04-13 10:04:34.612 ERROR json_response.py json_response - response_exception:{'message': "'address'"}
+2024-04-13 10:05:18.598 ERROR json_response.py json_response - response_exception:{'message': "'address'"}
+2024-04-13 12:15:05.822 ERROR json_response.py json_response - response_exception:{'message': "'str' object is not callable"}
+2024-04-13 12:18:15.309 ERROR json_response.py json_response - response_exception:{'message': "'str' object is not callable"}
+2024-04-13 12:32:27.286 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2024-04-13 12:41:40.521 ERROR json_response.py json_response - response_exception:{'message': 'invalid input syntax for type integer: "None"\nLINE 1: ...RgI\',\'2423e5bc-667f-44b4-88a6-cc62e50cb278\',\'shanan\',\'None\')\n                                                                ^\n'}
+2024-04-13 12:43:36.679 ERROR json_response.py json_response - response_exception:{'message': 'invalid input syntax for type integer: "None"\nLINE 1: ...ALx\',\'2423e5bc-667f-44b4-88a6-cc62e50cb278\',\'shanan\',\'None\')\n                                                                ^\n'}
+2024-04-13 12:47:00.930 ERROR json_response.py json_response - response_exception:{'message': 'column "none" does not exist\nLINE 1: ...HsyLY\',\'2423e5bc-667f-44b4-88a6-cc62e50cb278\',\'shanan\',None)\n                                                                  ^\n'}
+2024-04-13 12:49:38.475 ERROR json_response.py json_response - response_exception:{'message': 'column "none" does not exist\nLINE 1: ...qnDcD\',\'2423e5bc-667f-44b4-88a6-cc62e50cb278\',\'shanan\',None)\n                                                                  ^\n'}
+2024-04-13 12:53:26.561 ERROR json_response.py json_response - response_exception:{'message': 'invalid input syntax for type integer: "None"\nLINE 1: ...whB\',\'2423e5bc-667f-44b4-88a6-cc62e50cb278\',\'shanan\',\'None\')\n                                                                ^\n'}
+2024-04-13 15:01:42.769 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-04-13 15:34:01.608 ERROR json_response.py json_response - response_exception:{'message': 'column "as_default" of relation "company_type_master" does not exist\nLINE 1: ...to company_type_master (data_uniq_id,company_type,as_default...\n                                                             ^\n'}
+2024-04-13 15:47:25.873 ERROR json_response.py json_response - response_exception:{'message': 'Invalid type for utc_time. Must be str or datetime.'}
+2024-04-13 16:40:32.811 ERROR json_response.py json_response - response_exception:{'message': "'reg_status'"}
+2024-04-13 17:42:47.148 ERROR json_response.py json_response - response_exception:{'message': 'column "bussiness_nature" does not exist\nLINE 2: ...ation.company_type) as company_type_value,(select bussiness_...\n                                                             ^\nHINT:  Perhaps you meant to reference the column "business_nature_master.business_nature".\n'}

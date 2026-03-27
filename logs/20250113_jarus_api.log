@@ -1,0 +1,2 @@
+2025-01-13 10:50:36.848 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'enquiry_table.CreatedAt\' in \'where clause\'")'}
+2025-01-13 10:50:48.900 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'enquiry_table.CreatedAt\' in \'where clause\'")'}

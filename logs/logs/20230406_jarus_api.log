@@ -1,0 +1,67 @@
+2023-04-06 09:37:40.302 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'file'"}
+2023-04-06 09:37:40.306 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 09:39:02.425 ERROR json_response.py json_response - response_exception:{'message': "string indices must be integers, not 'str'"}
+2023-04-06 09:39:02.457 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-04-06 09:39:37.567 ERROR json_response.py json_response - response_exception:{'message': "string indices must be integers, not 'str'"}
+2023-04-06 09:39:37.572 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-04-06 09:40:00.804 ERROR json_response.py json_response - response_exception:{'message': "'name'"}
+2023-04-06 09:40:00.805 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-04-06 09:42:51.263 ERROR json_response.py json_response - response_exception:{'message': 'read'}
+2023-04-06 09:42:51.268 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnsupportedOperation is not JSON serializable'}
+2023-04-06 09:43:40.046 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'file'"}
+2023-04-06 09:43:40.049 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 09:43:59.097 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'read'"}
+2023-04-06 09:43:59.098 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 09:44:24.245 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'Screenshot (1).png'"}
+2023-04-06 09:44:24.259 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2023-04-06 09:54:06.148 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'files'"}
+2023-04-06 09:54:06.151 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:07:50.722 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-04-06 10:07:50.736 ERROR json_response.py json_response - response_exception:{'message': 'Object of type MultiValueDictKeyError is not JSON serializable'}
+2023-04-06 10:08:43.691 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-04-06 10:08:43.693 ERROR json_response.py json_response - response_exception:{'message': 'Object of type MultiValueDictKeyError is not JSON serializable'}
+2023-04-06 10:10:21.043 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-04-06 10:10:21.044 ERROR json_response.py json_response - response_exception:{'message': 'Object of type MultiValueDictKeyError is not JSON serializable'}
+2023-04-06 10:11:21.021 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-04-06 10:11:21.022 ERROR json_response.py json_response - response_exception:{'message': 'Object of type MultiValueDictKeyError is not JSON serializable'}
+2023-04-06 10:11:52.350 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-04-06 10:11:52.350 ERROR json_response.py json_response - response_exception:{'message': 'Object of type MultiValueDictKeyError is not JSON serializable'}
+2023-04-06 10:21:27.467 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'files'"}
+2023-04-06 10:21:27.471 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:23:21.026 ERROR json_response.py json_response - response_exception:{'message': 'expected str, bytes or os.PathLike object, not dict'}
+2023-04-06 10:23:21.030 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-04-06 10:31:49.480 ERROR json_response.py json_response - response_exception:{'message': 'expected str, bytes or os.PathLike object, not dict'}
+2023-04-06 10:31:49.483 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-04-06 10:33:48.001 ERROR json_response.py json_response - response_exception:{'message': "'dict' object has no attribute 'image'"}
+2023-04-06 10:33:48.014 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:34:48.431 ERROR json_response.py json_response - response_exception:{'message': "'dict' object has no attribute 'image'"}
+2023-04-06 10:34:48.442 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:36:15.747 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'image\': \'/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2lu...\' at line 1")'}
+2023-04-06 10:36:15.751 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-04-06 10:42:55.458 ERROR json_response.py json_response - response_exception:{'message': "'dict' object has no attribute 'read'"}
+2023-04-06 10:42:55.463 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:47:17.009 ERROR json_response.py json_response - response_exception:{'message': "'dict' object has no attribute 'read'"}
+2023-04-06 10:47:17.024 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:48:22.645 ERROR json_response.py json_response - response_exception:{'message': "'dict' object has no attribute 'read'"}
+2023-04-06 10:48:22.656 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:48:48.158 ERROR json_response.py json_response - response_exception:{'message': "'dict' object has no attribute 'read'"}
+2023-04-06 10:48:48.170 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:50:41.027 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'read'"}
+2023-04-06 10:50:41.029 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:52:41.213 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'read'"}
+2023-04-06 10:52:41.222 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:52:50.985 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'read'"}
+2023-04-06 10:52:50.987 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 10:55:23.683 ERROR json_response.py json_response - response_exception:{'message': 'BufferedWriter.write() takes exactly one argument (0 given)'}
+2023-04-06 10:55:23.694 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-04-06 11:39:11.412 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-04-06 12:31:41.032 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-04-06 12:31:52.626 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-04-06 16:10:48.602 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'order_number' where it is not associated with a value"}
+2023-04-06 16:10:48.614 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnboundLocalError is not JSON serializable'}
+2023-04-06 16:23:33.075 ERROR json_response.py json_response - response_exception:{'message': "'dict' object has no attribute 'balance'"}
+2023-04-06 16:23:33.084 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-04-06 16:27:16.455 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'str' and 'float'"}
+2023-04-06 16:27:16.459 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-04-06 16:28:34.795 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'str' and 'float'"}
+2023-04-06 16:28:34.795 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}

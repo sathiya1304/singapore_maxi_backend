@@ -1,0 +1,41 @@
+2023-10-18 10:06:09.836 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'shantthi_ceramics.user_matser\' doesn\'t exist")'}
+2023-10-18 10:09:05.025 ERROR json_response.py json_response - response_exception:{'message': "'show_password'"}
+2023-10-18 11:41:35.723 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-18 11:42:36.585 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'lead_id' where it is not associated with a value"}
+2023-10-18 12:59:53.699 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.created_date\' in \'field list\'")'}
+2023-10-18 13:00:27.624 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.created_date\' in \'field list\'")'}
+2023-10-18 13:00:57.659 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'info_table.info_table\' in \'where clause\'")'}
+2023-10-18 13:00:59.823 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'info_table.info_table\' in \'where clause\'")'}
+2023-10-18 14:08:48.240 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ref_customer_id as ref_customer_id,\\n                        customer_type_mas...\' at line 5")'}
+2023-10-18 14:09:20.970 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'.requirement as requirement,\\n                        DATE_FORMAT(info_table.c...\' at line 8")'}
+2023-10-18 14:09:23.194 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'.requirement as requirement,\\n                        DATE_FORMAT(info_table.c...\' at line 8")'}
+2023-10-18 14:10:10.435 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'ref_user_id\' in field list is ambiguous")'}
+2023-10-18 14:14:35.255 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'ref_user_id\' in field list is ambiguous")'}
+2023-10-18 14:15:32.535 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'ref_user_id\' in field list is ambiguous")'}
+2023-10-18 14:16:55.676 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'user_master.user_name as user_name,\\n                        ref_customer_id a...\' at line 4")'}
+2023-10-18 14:20:33.786 ERROR json_response.py json_response - response_exception:{'message': "'info_id'"}
+2023-10-18 14:21:04.814 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'where info_id = \'148897c0-fcca-4a41-ad88-37103b05e772\',ref_user_id = \'6ccefee...\' at line 1")'}
+2023-10-18 14:23:04.283 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'where info_id = \'148897c0-fcca-4a41-ad88-37103b05e772\',ref_user_id = \'6ccefee...\' at line 1")'}
+2023-10-18 14:30:46.790 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'info_table.requirement\' in \'where clause\'")'}
+2023-10-18 14:31:38.580 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-18 14:32:22.742 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-18 14:33:18.576 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-18 14:33:20.022 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-18 15:42:36.690 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-18 15:44:14.966 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-18 16:04:37.436 ERROR json_response.py json_response - response_exception:{'message': "'assign_date'"}
+2023-10-18 16:05:15.823 ERROR json_response.py json_response - response_exception:{'message': "'assign_time'"}
+2023-10-18 16:18:21.636 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 13 column 1 (char 379)'}
+2023-10-18 16:18:26.495 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-18 16:18:47.380 ERROR json_response.py json_response - response_exception:{'message': "'assign_time'"}
+2023-10-18 16:56:09.732 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-10-18 16:56:47.568 ERROR json_response.py json_response - response_exception:{'message': "'next'"}
+2023-10-18 16:57:00.496 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'success_message' where it is not associated with a value"}
+2023-10-18 16:58:10.667 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'assign_id' where it is not associated with a value"}
+2023-10-18 16:58:52.757 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'ref_user_id' where it is not associated with a value"}
+2023-10-18 17:00:04.285 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'assign_id' where it is not associated with a value"}
+2023-10-18 17:05:05.029 ERROR json_response.py json_response - response_exception:{'message': "'next'"}
+2023-10-18 17:10:30.399 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-10-18 17:18:08.754 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'assign_id' where it is not associated with a value"}
+2023-10-18 17:47:08.867 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-18 17:47:42.956 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}

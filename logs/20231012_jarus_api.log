@@ -1,0 +1,59 @@
+2023-10-12 10:16:15.177 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'stage_id' where it is not associated with a value"}
+2023-10-12 10:42:46.771 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-12 10:43:38.069 ERROR json_response.py json_response - response_exception:{'message': "'last_name'"}
+2023-10-12 10:44:36.667 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'sdgdcnbfmghm\', modified_date = now() where lead_id = \'303251f7-fd67-4205-bc4...\' at line 1")'}
+2023-10-12 10:45:33.935 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'sdgdcnbfmghm\', modified_date = now() where lead_id = \'303251f7-fd67-4205-bc4...\' at line 1")'}
+2023-10-12 11:04:44.264 ERROR json_response.py json_response - response_exception:{'message': "validate_mail_phone() missing 1 required positional argument: 'email'"}
+2023-10-12 11:13:50.119 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:23:30.995 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:23:55.004 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:26:09.969 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:26:10.867 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:27:36.346 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:27:57.145 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:28:53.055 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:29:19.422 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:30:46.851 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:31:33.851 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:35:29.114 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:38:08.813 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:38:55.266 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:42:59.630 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:51:28.789 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 11:53:03.577 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 12:33:51.138 ERROR json_response.py json_response - response_exception:{'message': "'additional_details'"}
+2023-10-12 12:39:02.127 ERROR json_response.py json_response - response_exception:{'message': "'customer_type'"}
+2023-10-12 12:39:11.058 ERROR json_response.py json_response - response_exception:{'message': "'customer_type'"}
+2023-10-12 12:40:14.803 ERROR json_response.py json_response - response_exception:{'message': "'customer_type'"}
+2023-10-12 12:42:05.260 ERROR json_response.py json_response - response_exception:{'message': "'customer_type'"}
+2023-10-12 13:02:02.491 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 13:08:56.765 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 13:11:40.969 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 13:12:16.980 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 14:45:01.354 ERROR json_response.py json_response - response_exception:{'message': "'stage_number'"}
+2023-10-12 14:49:49.925 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'site_staging' where it is not associated with a value"}
+2023-10-12 14:57:06.675 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 14:58:17.888 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 14:58:19.224 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 14:58:51.403 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 14:59:28.997 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 15:00:00.801 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2023-10-12 15:03:09.232 ERROR json_response.py json_response - response_exception:{'message': "'requirement'"}
+2023-10-12 15:06:38.114 ERROR json_response.py json_response - response_exception:{'message': "'requirement'"}
+2023-10-12 15:07:12.271 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-12 15:08:15.933 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-12 15:08:50.699 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-10-12 15:10:42.522 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-12 15:16:02.337 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-12 15:18:54.525 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-12 15:23:52.259 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-12 15:42:59.686 ERROR json_response.py json_response - response_exception:{'message': "'site_staging'"}
+2023-10-12 16:07:31.062 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-12 16:08:05.164 ERROR json_response.py json_response - response_exception:{'message': "'source_name'"}
+2023-10-12 16:51:33.242 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'.email,leads_table.pincode,leads_table.state,leads_table.city,leads_table.str...\' at line 4")'}
+2023-10-12 16:54:30.824 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'.email,leads_table.pincode,leads_table.state,leads_table.city,leads_table.str...\' at line 5")'}
+2023-10-12 16:58:12.722 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'.email,leads_table.pincode,leads_table.state,leads_table.city,leads_table.str...\' at line 5")'}
+2023-10-12 16:58:13.842 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'.email,leads_table.pincode,leads_table.state,leads_table.city,leads_table.str...\' at line 5")'}
+2023-10-12 17:02:27.665 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'shantthi_ceramics.vehicle_variants\' doesn\'t exist")'}
+2023-10-12 17:09:41.487 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-12 17:18:47.592 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}

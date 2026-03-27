@@ -1,0 +1,62 @@
+2024-04-11 09:18:42.677 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 09:18:53.971 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-11 09:18:56.541 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-11 09:19:16.845 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 09:21:18.994 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 09:30:51.256 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 09:46:00.112 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:05:38.580 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:07:14.219 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:08:41.614 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-11 10:09:35.893 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:20:19.381 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:27:14.006 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:29:06.361 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:33:35.175 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:41:25.074 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:41:37.884 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:43:32.233 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:45:13.795 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 10:49:05.598 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 11:03:30.435 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 11:08:15.725 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-04-11 11:09:00.767 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-11 11:17:14.143 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2024-04-11 11:55:05.024 ERROR json_response.py json_response - response_exception:{'message': 'column "thickness" of relation "thickness_master" does not exist\nLINE 1: insert into thickness_master (data_uniq_id,thickness,as_defa...\n                                                   ^\n'}
+2024-04-11 11:56:06.256 ERROR json_response.py json_response - response_exception:{'message': 'column "thickness" of relation "thickness_master" does not exist\nLINE 1: insert into thickness_master (data_uniq_id,thickness,as_defa...\n                                                   ^\n'}
+2024-04-11 11:57:19.176 ERROR json_response.py json_response - response_exception:{'message': 'column "thickness" of relation "thickness_master" does not exist\nLINE 1: insert into thickness_master (data_uniq_id,thickness,as_defa...\n                                                   ^\n'}
+2024-04-11 11:57:40.878 ERROR json_response.py json_response - response_exception:{'message': 'column "thickness" of relation "thickness_master" does not exist\nLINE 1: insert into thickness_master (data_uniq_id,thickness,as_defa...\n                                                   ^\n'}
+2024-04-11 13:13:05.924 ERROR json_response.py json_response - response_exception:{'message': 'argument of WHERE must be type boolean, not type character varying\nLINE 2: ...(select pallet_load from pallet_load_master where pallet_loa...\n                                                             ^\n'}
+2024-04-11 13:14:01.395 ERROR json_response.py json_response - response_exception:{'message': 'argument of WHERE must be type boolean, not type character varying\nLINE 2: ...(select pallet_load from pallet_load_master where pallet_loa...\n                                                             ^\n'}
+2024-04-11 13:20:48.045 ERROR json_response.py json_response - response_exception:{'message': 'relation "pallet_master" does not exist\nLINE 1: select * from pallet_master where data_uniq_id = \'M2YxNzE2ZG...\n                      ^\n'}
+2024-04-11 13:26:53.441 ERROR json_response.py json_response - response_exception:{'message': 'column pallet_load_config.pallet_load does not exist\nLINE 3:                 WHERE 1=1  AND pallet_load_config.pallet_loa...\n                                       ^\n'}
+2024-04-11 15:50:30.066 ERROR json_response.py json_response - response_exception:{'message': 'column "ref_length_id" of relation "pallet_rack_config" does not exist\nLINE 1: insert into pallet_rack_config (data_uniq_id,ref_length_id,r...\n                                                     ^\n'}
+2024-04-11 15:57:15.143 ERROR json_response.py json_response - response_exception:{'message': "'ref_length_id'"}
+2024-04-11 16:39:02.531 ERROR json_response.py json_response - response_exception:{'message': "local variable 'front_view_img_path' referenced before assignment"}
+2024-04-11 16:39:41.165 ERROR json_response.py json_response - response_exception:{'message': "local variable 'front_view_img_path' referenced before assignment"}
+2024-04-11 16:40:39.427 ERROR json_response.py json_response - response_exception:{'message': "local variable 'front_view_img_path' referenced before assignment"}
+2024-04-11 16:41:07.953 ERROR json_response.py json_response - response_exception:{'message': "local variable 'front_view_img_path' referenced before assignment"}
+2024-04-11 16:41:48.747 ERROR json_response.py json_response - response_exception:{'message': "local variable 'front_view_img_path' referenced before assignment"}
+2024-04-11 16:42:06.010 ERROR json_response.py json_response - response_exception:{'message': "local variable 'front_view_img_path' referenced before assignment"}
+2024-04-11 16:44:02.856 ERROR json_response.py json_response - response_exception:{'message': "local variable 'front_view_img_path' referenced before assignment"}
+2024-04-11 16:49:35.658 ERROR json_response.py json_response - response_exception:{'message': "local variable 'side_view_img_path' referenced before assignment"}
+2024-04-11 16:54:05.469 ERROR json_response.py json_response - response_exception:{'message': "argument should be a bytes-like object or ASCII string, not 'NoneType'"}
+2024-04-11 16:54:36.794 ERROR json_response.py json_response - response_exception:{'message': "argument should be a bytes-like object or ASCII string, not 'NoneType'"}
+2024-04-11 16:55:11.307 ERROR json_response.py json_response - response_exception:{'message': "argument should be a bytes-like object or ASCII string, not 'NoneType'"}
+2024-04-11 17:00:11.244 ERROR json_response.py json_response - response_exception:{'message': 'trailing junk after numeric literal at or near "3d"\nLINE 4: ...odified_by,front_view_img,side_view_img,top_view_img,3d_file\n                                                                ^\n'}
+2024-04-11 17:02:05.709 ERROR json_response.py json_response - response_exception:{'message': 'trailing junk after numeric literal at or near "3d"\nLINE 4: ...odified_by,front_view_img,side_view_img,top_view_img,3d_file\n                                                                ^\n'}
+2024-04-11 17:04:28.016 ERROR json_response.py json_response - response_exception:{'message': 'column "backstopper" does not exist\nLINE 7:                 4000, 1200,400,200,backstopper,200,12,\'Good ...\n                                           ^\n'}
+2024-04-11 17:06:06.897 ERROR json_response.py json_response - response_exception:{'message': 'column "backstopper" does not exist\nLINE 7:                 4000, 1200,400,200,"backstopper",200,12,\'Goo...\n                                           ^\n'}
+2024-04-11 17:16:20.915 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_bom_id' referenced before assignment"}
+2024-04-11 17:24:50.651 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-11 17:26:59.522 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-11 17:28:51.644 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-11 17:30:47.829 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-11 17:36:46.640 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "NoneType") to str'}
+2024-04-11 17:38:42.977 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-11 17:40:40.166 ERROR json_response.py json_response - response_exception:{'message': 'trailing junk after numeric literal at or near "3d"\nLINE 13: ...jpg\',top_view_img=\'media/component_image/top.jpg\',3d_file=\'m...\n                                                              ^\n'}
+2024-04-11 17:42:48.762 ERROR json_response.py json_response - response_exception:{'message': 'trailing junk after numeric literal at or near "3d"\nLINE 13: ...jpg\',top_view_img=\'media/component_image/top.jpg\',3d_file=\'m...\n                                                              ^\n'}
+2024-04-11 17:43:44.105 ERROR json_response.py json_response - response_exception:{'message': 'trailing junk after numeric literal at or near "3d"\nLINE 13: ...jpg\',top_view_img=\'media/component_image/top.jpg\',3d_file=\'m...\n                                                              ^\n'}
+2024-04-11 17:51:23.816 ERROR json_response.py json_response - response_exception:{'message': 'column "backstopper" does not exist\nLINE 13: ...   modified_by = \'1\',depth=400,height=200,upright=backstoppe...\n                                                              ^\n'}
+2024-04-11 17:52:14.019 ERROR json_response.py json_response - response_exception:{'message': 'column "backstopper" does not exist\nLINE 13: ...   modified_by = \'1\',depth=400,height=200,upright=backstoppe...\n                                                              ^\n'}
+2024-04-11 17:52:56.857 ERROR json_response.py json_response - response_exception:{'message': 'column "backstopper" does not exist\nLINE 13: ...   modified_by = \'1\',depth=400,height=200,upright=backstoppe...\n                                                              ^\n'}

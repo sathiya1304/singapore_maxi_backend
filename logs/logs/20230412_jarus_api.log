@@ -1,0 +1,21 @@
+2023-04-12 09:26:38.030 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-04-12 09:26:49.914 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-04-12 10:11:09.626 ERROR json_response.py json_response - response_exception:{'message': "'type_id_en'"}
+2023-04-12 10:11:09.630 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-04-12 10:14:00.309 ERROR json_response.py json_response - response_exception:{'message': "'type_id_en'"}
+2023-04-12 10:14:00.313 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-04-12 10:16:50.148 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-04-12 11:23:00.616 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-04-12 11:23:28.720 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-04-12 11:23:56.005 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-04-12 11:34:29.092 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'e8b27135\' in \'where clause\'")'}
+2023-04-12 11:34:29.094 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2023-04-12 11:34:40.646 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'e8b27135\' in \'where clause\'")'}
+2023-04-12 11:34:40.646 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2023-04-12 11:35:19.427 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'21b570d7\' in \'where clause\'")'}
+2023-04-12 11:35:19.428 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2023-04-12 11:38:46.272 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'e8b27135\' in \'where clause\'")'}
+2023-04-12 11:38:46.272 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2023-04-12 13:26:11.937 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-04-12 14:36:53.516 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-04-12 14:36:53.519 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}

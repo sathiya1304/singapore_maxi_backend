@@ -1,0 +1,164 @@
+2023-03-27 09:33:45.813 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-27 09:34:15.006 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-27 09:35:00.998 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-27 10:40:28.228 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 10:40:28.229 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 10:40:29.861 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 10:40:29.861 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 10:40:30.274 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 10:40:30.275 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 10:40:30.457 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 10:40:30.457 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 10:40:30.730 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 10:40:30.730 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 10:40:30.882 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 10:40:30.882 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 10:42:21.615 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 10:42:21.615 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 10:42:44.932 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 10:42:44.932 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 10:43:53.339 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 10:43:53.339 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 10:43:59.713 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 10:43:59.714 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 10:49:22.367 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:49:22.368 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 10:49:47.955 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:49:47.955 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 10:49:49.204 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:49:49.205 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 10:50:41.428 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:50:41.428 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 10:50:42.385 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:50:42.385 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 10:50:42.570 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:50:42.570 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 10:50:42.716 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:50:42.717 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 10:51:30.781 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:51:30.781 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 10:51:31.553 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:51:31.553 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 10:51:31.722 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:51:31.722 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 10:51:31.840 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 10:51:31.840 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:05:10.734 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:05:10.735 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:18:37.211 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 11:18:37.211 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 11:20:15.212 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 11:20:15.212 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 11:23:10.214 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:23:10.214 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:26:35.198 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:26:35.198 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:30:30.029 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:30:30.030 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:30:31.783 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:30:31.784 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:30:32.303 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:30:32.303 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:30:32.565 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:30:32.565 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:30:32.932 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:30:32.932 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:33:56.214 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:33:56.215 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:33:57.501 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:33:57.502 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:41:45.104 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:41:45.105 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:46:43.207 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:46:43.207 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:52:06.087 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:52:06.088 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:54:21.692 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:54:21.692 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:55:29.317 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:55:29.317 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:55:32.139 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:55:32.139 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:55:51.221 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:55:51.221 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 11:59:24.471 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 11:59:24.471 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 12:00:17.261 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 12:00:17.261 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 12:04:34.080 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 12:04:34.080 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 12:05:50.473 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 12:05:50.474 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 12:11:03.875 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 12:11:03.876 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 12:12:22.385 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 12:12:22.386 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 12:45:09.415 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 12:45:09.415 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 12:45:10.410 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 12:45:10.410 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 12:45:10.561 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-03-27 12:45:10.561 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-27 13:48:35.274 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-27 13:55:05.829 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-27 14:29:08.203 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 14:29:08.203 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 14:29:09.092 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 14:29:09.092 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 14:29:09.334 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 14:29:09.334 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 14:29:09.868 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 14:29:09.868 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 14:29:25.167 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 14:29:25.168 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 14:30:05.506 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 14:30:05.507 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:06:41.545 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:06:41.545 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:08:43.862 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:08:43.863 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:09:22.000 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:09:22.000 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:09:45.415 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:09:45.416 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:09:47.596 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:09:47.596 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:09:48.673 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:09:48.673 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:09:48.891 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:09:48.891 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:10:06.183 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:10:06.184 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:10:54.917 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:10:54.917 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:10:57.808 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:10:57.808 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:11:05.487 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:11:05.487 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:12:11.751 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:12:11.751 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:12:12.665 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:12:12.665 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:12:12.878 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:12:12.879 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:12:13.034 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:12:13.035 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:12:26.498 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:12:26.498 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:13:25.937 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:13:25.937 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:14:34.843 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:14:34.843 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:14:36.383 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:14:36.384 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:22:34.131 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:22:34.131 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:22:41.325 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:22:41.325 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 15:23:00.074 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-27 15:23:00.074 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-27 16:02:05.996 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-27 16:02:31.418 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-27 16:03:20.440 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-27 16:07:14.890 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-27 16:07:45.265 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}

@@ -1,0 +1,22 @@
+2023-03-07 17:17:30.889 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'<built-in function id>\' at line 1")'}
+2023-03-07 17:17:30.893 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-03-07 17:17:39.288 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'<built-in function id>\' at line 1")'}
+2023-03-07 17:17:39.290 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-03-07 17:17:47.228 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'<built-in function id>\' at line 1")'}
+2023-03-07 17:17:47.229 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-03-07 17:18:51.230 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'<built-in function id>\' at line 1")'}
+2023-03-07 17:18:51.232 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-03-07 17:19:37.522 ERROR json_response.py json_response - response_exception:{'message': "'list' object has no attribute 'user_id'"}
+2023-03-07 17:19:37.524 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-03-07 17:19:53.476 ERROR json_response.py json_response - response_exception:{'message': "'dict' object has no attribute 'user_id'"}
+2023-03-07 17:19:53.480 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-03-07 17:20:15.199 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-03-07 17:20:15.203 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-03-07 17:20:31.927 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'<built-in function id>\' at line 1")'}
+2023-03-07 17:20:31.932 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-03-07 17:21:11.736 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-03-07 17:21:11.739 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-03-07 17:21:16.388 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-03-07 17:21:16.389 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-03-07 17:21:36.187 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-03-07 17:21:36.191 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}

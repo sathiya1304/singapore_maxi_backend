@@ -1,0 +1,147 @@
+2024-05-14 09:10:27.182 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2024-05-14 09:20:20.579 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-05-14 09:21:23.872 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:21:23.909 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:21:23.942 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:21:24.009 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:30:55.175 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'stud_id' where it is not associated with a value"}
+2024-05-14 09:32:15.706 ERROR json_response.py json_response - response_exception:{'message': "name 'stud_id' is not defined"}
+2024-05-14 09:38:37.798 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2024-05-14 09:39:22.845 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:39:22.859 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:39:22.894 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:39:22.912 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:41:00.253 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:41:00.303 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:41:00.331 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:41:00.356 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:45:10.440 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2024-05-14 09:46:59.831 ERROR json_response.py json_response - response_exception:{'message': "'stud_id'"}
+2024-05-14 09:50:08.213 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:50:08.250 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:50:08.274 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:50:08.298 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:50:24.099 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:50:24.126 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:50:24.144 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:50:24.176 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 09:58:02.337 ERROR json_response.py json_response - response_exception:{'message': "'stud_id'"}
+2024-05-14 09:58:32.327 ERROR json_response.py json_response - response_exception:{'message': "'stud_id'"}
+2024-05-14 09:58:47.730 ERROR json_response.py json_response - response_exception:{'message': "'stud_id'"}
+2024-05-14 10:00:47.616 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 10:00:47.648 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 10:00:47.671 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 10:00:47.690 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 10:04:48.853 ERROR json_response.py json_response - response_exception:{'message': "'notes'"}
+2024-05-14 10:06:13.100 ERROR json_response.py json_response - response_exception:{'message': "'notes'"}
+2024-05-14 10:18:55.305 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 10:18:55.599 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 10:19:41.057 ERROR json_response.py json_response - response_exception:{'message': "'notes'"}
+2024-05-14 10:19:51.655 ERROR json_response.py json_response - response_exception:{'message': "'image_name'"}
+2024-05-14 10:32:33.967 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'DESC LIMIT 1\' at line 1")'}
+2024-05-14 11:08:45.138 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 11:08:45.190 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 11:30:10.060 ERROR json_response.py json_response - response_exception:{'message': '(1064, \'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \\\'= ""\\\' at line 1\')'}
+2024-05-14 12:35:50.011 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'datetime.datetime' and 'dict'"}
+2024-05-14 12:36:46.155 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'datetime.datetime' and 'dict'"}
+2024-05-14 12:40:38.815 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-05-14 12:41:12.419 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'datetime.datetime' and 'datetime.time'"}
+2024-05-14 12:42:43.257 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'datetime.datetime' and 'datetime.time'"}
+2024-05-14 12:56:47.499 ERROR json_response.py json_response - response_exception:{'message': 'strptime() argument 1 must be str, not datetime.time'}
+2024-05-14 13:06:26.216 ERROR json_response.py json_response - response_exception:{'message': 'strptime() argument 1 must be str, not datetime.time'}
+2024-05-14 13:07:00.654 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 13:10:25.037 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 13:11:30.313 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'datetime.datetime' and 'datetime.time'"}
+2024-05-14 13:17:55.303 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 13:18:26.887 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 13:18:55.542 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 13:20:23.233 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 13:25:25.387 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:50:57.257 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:50:57.288 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:53:09.586 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:53:09.603 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:53:50.288 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:53:50.313 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:56:57.103 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:56:57.139 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:58:06.577 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:59:03.463 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 14:59:20.726 ERROR json_response.py json_response - response_exception:{'message': 'hour must be in 0..23'}
+2024-05-14 15:05:54.110 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 15:05:54.159 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 15:07:43.447 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 15:07:43.472 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 15:26:22.455 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 15:26:22.528 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 15:30:07.742 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 15:30:07.781 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 16:05:30.422 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:05:30.466 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:06:08.312 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:06:08.871 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:14:45.589 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2024-05-14 16:22:19.122 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2024-05-14 16:23:15.894 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2024-05-14 16:23:15.929 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2024-05-14 16:23:44.603 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:23:52.021 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:23:52.048 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:28:45.993 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:28:46.032 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:32:35.409 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:32:35.458 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:32:43.440 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 16:32:43.458 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 16:33:49.902 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:33:49.956 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:34:26.057 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:34:26.083 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:34:30.550 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:36:15.916 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:37:04.411 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:37:07.978 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:38:50.975 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:39:34.487 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'img' where it is not associated with a value"}
+2024-05-14 16:42:59.580 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:42:59.692 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:46:33.313 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:46:33.472 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:47:11.265 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:47:11.281 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 16:49:47.483 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'attendance_table.created_date\' in \'order clause\'")'}
+2024-05-14 16:50:17.483 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'attendance_table.created_date\' in \'order clause\'")'}
+2024-05-14 16:50:19.740 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'attendance_table.created_date\' in \'order clause\'")'}
+2024-05-14 16:51:02.711 ERROR json_response.py json_response - response_exception:{'message': "'ref_student_id'"}
+2024-05-14 16:52:17.272 ERROR json_response.py json_response - response_exception:{'message': "'ref_student_id'"}
+2024-05-14 16:52:37.397 ERROR json_response.py json_response - response_exception:{'message': "'ref_student_id'"}
+2024-05-14 16:52:43.041 ERROR json_response.py json_response - response_exception:{'message': "'ref_student_id'"}
+2024-05-14 17:02:34.219 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 17:02:41.457 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 17:02:41.482 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM fee_collection WHERE 1=1    order by fee_collection.created_date DESC   ...\' at line 6")'}
+2024-05-14 17:09:15.024 ERROR json_response.py json_response - response_exception:{'message': "'>' not supported between instances of 'list' and 'datetime.timedelta'"}
+2024-05-14 17:13:35.733 ERROR json_response.py json_response - response_exception:{'message': "'>' not supported between instances of 'datetime.time' and 'datetime.timedelta'"}
+2024-05-14 17:15:46.940 ERROR json_response.py json_response - response_exception:{'message': "'datetime.time' object has no attribute 'split'"}
+2024-05-14 17:17:28.241 ERROR json_response.py json_response - response_exception:{'message': 'Object of type JsonResponse is not JSON serializable'}
+2024-05-14 17:19:13.578 ERROR json_response.py json_response - response_exception:{'message': 'Object of type JsonResponse is not JSON serializable'}
+2024-05-14 17:23:43.479 ERROR json_response.py json_response - response_exception:{'message': 'Object of type JsonResponse is not JSON serializable'}
+2024-05-14 17:24:20.147 ERROR json_response.py json_response - response_exception:{'message': 'strptime() argument 1 must be str, not datetime.time'}
+2024-05-14 17:35:57.492 ERROR json_response.py json_response - response_exception:{'message': 'strptime() argument 1 must be str, not datetime.time'}
+2024-05-14 17:42:06.350 ERROR json_response.py json_response - response_exception:{'message': "'>' not supported between instances of 'datetime.time' and 'datetime.timedelta'"}
+2024-05-14 17:43:11.027 ERROR json_response.py json_response - response_exception:{'message': "'>' not supported between instances of 'datetime.time' and 'datetime.timedelta'"}
+2024-05-14 17:49:10.846 ERROR json_response.py json_response - response_exception:{'message': 'strptime() argument 1 must be str, not datetime.time'}
+2024-05-14 17:49:13.589 ERROR json_response.py json_response - response_exception:{'message': 'strptime() argument 1 must be str, not datetime.time'}
+2024-05-14 17:50:37.558 ERROR json_response.py json_response - response_exception:{'message': "'>' not supported between instances of 'datetime.time' and 'datetime.timedelta'"}
+2024-05-14 17:50:42.566 ERROR json_response.py json_response - response_exception:{'message': "'>' not supported between instances of 'datetime.time' and 'datetime.timedelta'"}
+2024-05-14 17:50:54.660 ERROR json_response.py json_response - response_exception:{'message': "'>' not supported between instances of 'datetime.time' and 'datetime.timedelta'"}
+2024-05-14 17:53:05.704 ERROR json_response.py json_response - response_exception:{'message': 'strptime() argument 1 must be str, not datetime.time'}
+2024-05-14 17:56:17.379 ERROR json_response.py json_response - response_exception:{'message': "'>' not supported between instances of 'datetime.time' and 'datetime.timedelta'"}
+2024-05-14 18:10:34.731 ERROR json_response.py json_response - response_exception:{'message': "name 'checkout_time' is not defined"}
+2024-05-14 18:17:59.737 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'get_id' where it is not associated with a value"}
+2024-05-14 18:21:12.099 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'get_id' where it is not associated with a value"}
+2024-05-14 18:23:05.467 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'get_id' where it is not associated with a value"}
+2024-05-14 18:23:27.001 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'get_id' where it is not associated with a value"}
+2024-05-14 18:24:12.739 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'get_id' where it is not associated with a value"}
+2024-05-14 18:33:26.937 ERROR json_response.py json_response - response_exception:{'message': "'fee_year'"}
+2024-05-14 18:37:50.967 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-14 18:37:50.999 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}

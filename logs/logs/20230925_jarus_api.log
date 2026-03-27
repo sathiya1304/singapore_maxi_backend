@@ -1,0 +1,33 @@
+2023-09-25 09:17:11.247 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xef in position 0: invalid continuation byte"}
+2023-09-25 10:28:07.974 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-25 10:28:46.663 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'gb_associates.sarvay_table\' doesn\'t exist")'}
+2023-09-25 10:30:25.051 ERROR json_response.py json_response - response_exception:{'message': "name 'dtata' is not defined"}
+2023-09-25 10:31:05.529 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'= \'NOthing2\' where survey_id = \'500e5acd-c8f9-4bf8-ab67-b29a720bc5ca\'\' at line 1")'}
+2023-09-25 12:24:17.871 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-09-25 12:26:13.711 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-09-25 12:29:53.874 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-09-25 12:30:56.640 ERROR json_response.py json_response - response_exception:{'message': "name 'uuid' is not defined"}
+2023-09-25 12:56:57.309 ERROR json_response.py json_response - response_exception:{'message': "name 'created_date' is not defined"}
+2023-09-25 13:01:00.081 ERROR json_response.py json_response - response_exception:{'message': "name 'created_date' is not defined"}
+2023-09-25 13:10:07.862 ERROR json_response.py json_response - response_exception:{'message': "name 'created_date' is not defined"}
+2023-09-25 13:13:27.003 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'1ddc8585-8d9e-475f-9db6-9983e539fd8f\'\' at line 1")'}
+2023-09-25 13:14:50.252 ERROR json_response.py json_response - response_exception:{'message': "'variant_id'"}
+2023-09-25 13:15:17.704 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'modified_date\' in \'field list\'")'}
+2023-09-25 13:30:32.315 ERROR json_response.py json_response - response_exception:{'message': "local variable 'claim_name' referenced before assignment"}
+2023-09-25 13:33:13.371 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2023-09-25 13:33:52.623 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'{uid}\',\'{fn}\',\'{ln}\',\'{un}\',\'{pw}\',\'{spw}\',\'{phn}\',\'{mlid}\',\'{adrs}\',\'{usrt}\'...\' at line 4")'}
+2023-09-25 13:34:41.539 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'{uid}\',\'{fn}\',\'{ln}\',\'{un}\',\'{pw}\',\'{spw}\',\'{phn}\',\'{mlid}\',\'{adrs}\',\'{usrt}\'...\' at line 4")'}
+2023-09-25 13:34:48.786 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'{uid}\',\'{fn}\',\'{ln}\',\'{un}\',\'{pw}\',\'{spw}\',\'{phn}\',\'{mlid}\',\'{adrs}\',\'{usrt}\'...\' at line 4")'}
+2023-09-25 13:36:57.607 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'{uid}\',\'{fn}\',\'{ln}\',\'{un}\',\'{pw}\',\'{spw}\',\'{phn}\',\'{mlid}\',\'{adrs}\',\'{usrt}\'...\' at line 4")'}
+2023-09-25 13:36:58.674 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'{uid}\',\'{fn}\',\'{ln}\',\'{un}\',\'{pw}\',\'{spw}\',\'{phn}\',\'{mlid}\',\'{adrs}\',\'{usrt}\'...\' at line 4")'}
+2023-09-25 13:37:00.022 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'{uid}\',\'{fn}\',\'{ln}\',\'{un}\',\'{pw}\',\'{spw}\',\'{phn}\',\'{mlid}\',\'{adrs}\',\'{usrt}\'...\' at line 4")'}
+2023-09-25 14:35:28.079 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'{uid}\',\'{fn}\',\'{ln}\',\'{un}\',\'{pw}\',\'{spw}\',\'{phn}\',\'{mlid}\',\'{adrs}\',\'{usrt}\'...\' at line 4")'}
+2023-09-25 15:14:05.834 ERROR json_response.py json_response - response_exception:{'message': "'insured_id'"}
+2023-09-25 15:38:39.811 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'st.survay_id\' in \'on clause\'")'}
+2023-09-25 16:04:35.708 ERROR json_response.py json_response - response_exception:{'message': "'survey_id'"}
+2023-09-25 16:28:17.747 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-09-25 16:30:59.197 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'reference_no\' in \'field list\'")'}
+2023-09-25 16:31:59.327 ERROR json_response.py json_response - response_exception:{'message': "'ref_no'"}
+2023-09-25 16:45:39.622 ERROR json_response.py json_response - response_exception:{'message': "'name'"}
+2023-09-25 17:00:09.809 ERROR json_response.py json_response - response_exception:{'message': "'comm_details_id'"}
+2023-09-25 17:16:59.536 ERROR json_response.py json_response - response_exception:{'message': "'ref_mamager_id'"}

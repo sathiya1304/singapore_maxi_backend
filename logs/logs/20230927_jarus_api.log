@@ -1,0 +1,109 @@
+2023-09-27 09:19:15.943 ERROR json_response.py json_response - response_exception:{'message': "'search_input'"}
+2023-09-27 09:24:41.798 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ref_field_id = \'hyr93-yhe24\'\' at line 1")'}
+2023-09-27 09:27:43.026 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ref_manager_id=\'88a2d34f-c787-4774-9367-580ed8997dfe\'\' at line 1")'}
+2023-09-27 09:29:54.713 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ref_manager_id=\'88a2d34f-c787-4774-9367-580ed8997dfe\'\' at line 1")'}
+2023-09-27 09:46:00.627 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'claim_name\' in \'where clause\'")'}
+2023-09-27 09:46:07.610 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'claim_name\' in \'where clause\'")'}
+2023-09-27 09:46:08.770 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'claim_name\' in \'where clause\'")'}
+2023-09-27 09:46:17.223 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'claim_name\' in \'where clause\'")'}
+2023-09-27 09:59:31.605 ERROR json_response.py json_response - response_exception:{'message': "'misc_charge_type'"}
+2023-09-27 10:00:00.606 ERROR json_response.py json_response - response_exception:{'message': "'datas'"}
+2023-09-27 10:01:19.789 ERROR json_response.py json_response - response_exception:{'message': "'datas'"}
+2023-09-27 10:12:14.190 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ref_manager_id=\'88a2d34f-c787-4774-9367-580ed8997dfe\'\' at line 2")'}
+2023-09-27 10:14:33.553 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' ref_manager_id=\'88a2d34f-c787-4774-9367-580ed8997dfe\'\' at line 2")'}
+2023-09-27 11:06:24.803 ERROR json_response.py json_response - response_exception:{'message': "name 'uuid' is not defined"}
+2023-09-27 11:06:42.279 ERROR json_response.py json_response - response_exception:{'message': "'misc_charge'"}
+2023-09-27 11:06:53.159 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'created_date\' in \'field list\'")'}
+2023-09-27 12:20:57.566 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: '1060xew10.710121'"}
+2023-09-27 12:21:22.792 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for +: 'float' and 'str'"}
+2023-09-27 12:22:39.017 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: 'tppd_charges'"}
+2023-09-27 12:23:14.781 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'tppd_charges'"}
+2023-09-27 12:24:02.647 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: '60xew'"}
+2023-09-27 12:34:03.940 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-09-27 12:35:04.536 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-09-27 12:41:09.745 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-09-27 12:41:31.710 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 12:41:55.113 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 12:42:50.476 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-09-27 12:44:40.455 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-09-27 12:54:27.880 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-09-27 12:54:49.758 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 12:57:04.111 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 12:57:44.623 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 12:59:44.897 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 12:59:46.471 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 13:01:05.881 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 13:01:17.425 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-09-27 13:04:25.575 ERROR json_response.py json_response - response_exception:{'message': "'search_input'"}
+2023-09-27 13:07:33.348 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 13:09:41.012 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:06:18.825 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:07:12.809 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:10:31.645 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:11:39.921 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:14:42.983 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:15:17.939 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:15:55.951 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:15:57.243 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:16:09.180 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:16:10.536 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:17:58.872 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:18:00.114 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:20:05.346 ERROR json_response.py json_response - response_exception:{'message': "'type' object is not subscriptable"}
+2023-09-27 14:20:07.507 ERROR json_response.py json_response - response_exception:{'message': "'type' object is not subscriptable"}
+2023-09-27 14:20:20.980 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:21:01.010 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'fdfv'"}
+2023-09-27 14:21:11.769 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for +: 'int' and 'str'"}
+2023-09-27 14:21:38.863 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: '60xew'"}
+2023-09-27 14:21:53.202 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "int") to str'}
+2023-09-27 14:23:24.481 ERROR json_response.py json_response - response_exception:{'message': "'search_join'"}
+2023-09-27 14:23:29.256 ERROR json_response.py json_response - response_exception:{'message': "'search_join'"}
+2023-09-27 14:23:55.671 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:24:08.958 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.active_status\' in \'where clause\'")'}
+2023-09-27 14:24:22.823 ERROR json_response.py json_response - response_exception:{'message': "local variable 'excecute' referenced before assignment"}
+2023-09-27 14:24:42.723 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.created_date\' in \'order clause\'")'}
+2023-09-27 14:25:10.423 ERROR json_response.py json_response - response_exception:{'message': "'data_count'"}
+2023-09-27 14:25:43.612 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-09-27 14:27:54.413 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'-4,4\' at line 8")'}
+2023-09-27 14:33:46.894 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2023-09-27 14:40:12.923 ERROR json_response.py json_response - response_exception:{'message': "'from_date'"}
+2023-09-27 14:54:03.925 ERROR json_response.py json_response - response_exception:{'message': "local variable 'tppd_charges' referenced before assignment"}
+2023-09-27 15:03:23.698 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: 'tppd_charges'"}
+2023-09-27 15:07:13.804 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-27 15:08:38.185 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "float") to str'}
+2023-09-27 15:11:43.409 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-27 15:13:22.576 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-27 15:14:24.670 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-27 15:17:22.895 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-27 15:18:22.827 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-27 15:25:16.311 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-27 15:34:13.795 ERROR json_response.py json_response - response_exception:{'message': "'invoice_id'"}
+2023-09-27 15:34:42.841 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-27 15:36:32.756 ERROR json_response.py json_response - response_exception:{'message': "name 'city' is not defined"}
+2023-09-27 15:42:45.780 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-27 15:45:56.667 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-27 15:46:21.744 ERROR json_response.py json_response - response_exception:{'message': "could not convert string to float: ''"}
+2023-09-27 16:16:42.305 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-09-27 16:17:12.209 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-09-27 16:17:13.630 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-09-27 16:18:51.083 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-09-27 16:23:42.813 ERROR json_response.py json_response - response_exception:{'message': "'kbbkkb'"}
+2023-09-27 16:24:04.736 ERROR json_response.py json_response - response_exception:{'message': "'kbbkkb'"}
+2023-09-27 16:24:20.466 ERROR json_response.py json_response - response_exception:{'message': "''"}
+2023-09-27 16:25:22.972 ERROR json_response.py json_response - response_exception:{'message': "name 'string' is not defined"}
+2023-09-27 16:32:32.482 ERROR json_response.py json_response - response_exception:{'message': "<class 'str'>"}
+2023-09-27 16:32:57.281 ERROR json_response.py json_response - response_exception:{'message': "<class 'str'>"}
+2023-09-27 16:42:28.916 ERROR json_response.py json_response - response_exception:{'message': "local variable 'is_valid' referenced before assignment"}
+2023-09-27 16:47:44.634 ERROR json_response.py json_response - response_exception:{'message': "local variable 'is_valid' referenced before assignment"}
+2023-09-27 16:47:45.952 ERROR json_response.py json_response - response_exception:{'message': "local variable 'is_valid' referenced before assignment"}
+2023-09-27 16:55:40.484 ERROR json_response.py json_response - response_exception:{'message': "float() argument must be a string or a real number, not 'dict'"}
+2023-09-27 16:56:14.323 ERROR json_response.py json_response - response_exception:{'message': "float() argument must be a string or a real number, not 'dict'"}
+2023-09-27 16:56:15.698 ERROR json_response.py json_response - response_exception:{'message': "float() argument must be a string or a real number, not 'dict'"}
+2023-09-27 16:56:23.041 ERROR json_response.py json_response - response_exception:{'message': "float() argument must be a string or a real number, not 'dict'"}
+2023-09-27 16:56:24.376 ERROR json_response.py json_response - response_exception:{'message': "float() argument must be a string or a real number, not 'dict'"}
+2023-09-27 16:56:25.447 ERROR json_response.py json_response - response_exception:{'message': "float() argument must be a string or a real number, not 'dict'"}
+2023-09-27 16:57:41.144 ERROR json_response.py json_response - response_exception:{'message': "float() argument must be a string or a real number, not 'dict'"}
+2023-09-27 17:19:37.636 ERROR json_response.py json_response - response_exception:{'message': 'Object of type Match is not JSON serializable'}
+2023-09-27 17:21:05.472 ERROR json_response.py json_response - response_exception:{'message': "name 'Match' is not defined"}
+2023-09-27 17:27:02.637 ERROR json_response.py json_response - response_exception:{'message': "name 'x' is not defined"}
+2023-09-27 17:48:34.794 ERROR json_response.py json_response - response_exception:{'message': "name 'isfloat' is not defined"}

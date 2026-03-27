@@ -1,0 +1,30 @@
+2024-04-12 09:29:06.939 ERROR json_response.py json_response - response_exception:{'message': "local variable 'front_view_img_path' referenced before assignment"}
+2024-04-12 12:03:47.435 ERROR json_response.py json_response - response_exception:{'message': 'duplicate key value violates unique constraint "height_master_un"\nDETAIL:  Key (height)=(700) already exists.\n'}
+2024-04-12 12:30:11.889 ERROR json_response.py json_response - response_exception:{'message': "'status'"}
+2024-04-12 12:31:28.132 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-12 12:34:05.187 ERROR json_response.py json_response - response_exception:{'message': 'invalid input syntax for type double precision: "1,0000000"\nLINE 1: ...,\'hari@gmail.com\',\'8454d\',\'huge\',1,\'it\',\'service\',\'1,0000000...\n                                                             ^\n'}
+2024-04-12 13:06:03.202 ERROR json_response.py json_response - response_exception:{'message': "INSERT has more expressions than target columns\nLINE 1: ...03.108248', '2024-04-12 07:36:03.108248','1','1', 'anna naga...\n                                                             ^\n"}
+2024-04-12 13:07:22.233 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "values"\nLINE 1: ...2.144178\',\'1\',\'1\', address, city, pincode, state) values (\'a...\n                                                             ^\n'}
+2024-04-12 13:07:53.214 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "address"\nLINE 8:                 ), address, city, pincode, state) values (\'a...\n                           ^\n'}
+2024-04-12 13:10:52.326 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "values"\nLINE 8:                     address, city, pincode, state) values (\n                                                           ^\n'}
+2024-04-12 13:18:14.560 ERROR json_response.py json_response - response_exception:{'message': "INSERT has more expressions than target columns\nLINE 8:                     'anna nagar', 'cbe', '641604', 'tamilnad...\n                            ^\n"}
+2024-04-12 13:33:21.024 ERROR json_response.py json_response - response_exception:{'message': "local variable 'address' referenced before assignment"}
+2024-04-12 13:38:13.305 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "\'748\'"\nLINE 1: ...) values (\'92f583a1-1e60-44c2-92a2-0c646211fe17\',0\'748\', \'aj...\n                                                             ^\n'}
+2024-04-12 14:13:14.852 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2024-04-12 14:14:11.063 ERROR json_response.py json_response - response_exception:{'message': "'address'"}
+2024-04-12 15:46:46.212 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-12 15:49:30.078 ERROR json_response.py json_response - response_exception:{'message': "local variable 'aadhar' referenced before assignment"}
+2024-04-12 15:50:42.204 ERROR json_response.py json_response - response_exception:{'message': "local variable 'aadhar' referenced before assignment"}
+2024-04-12 15:57:16.285 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_uniq_id' referenced before assignment"}
+2024-04-12 15:57:45.705 ERROR json_response.py json_response - response_exception:{'message': "local variable 'gst' referenced before assignment"}
+2024-04-12 15:58:40.426 ERROR json_response.py json_response - response_exception:{'message': "local variable 'gst' referenced before assignment"}
+2024-04-12 16:00:09.833 ERROR json_response.py json_response - response_exception:{'message': "local variable 'gst' referenced before assignment"}
+2024-04-12 16:01:45.507 ERROR json_response.py json_response - response_exception:{'message': "local variable 'company_name' referenced before assignment"}
+2024-04-12 16:07:51.735 ERROR json_response.py json_response - response_exception:{'message': "local variable 'company_name' referenced before assignment"}
+2024-04-12 17:30:58.736 ERROR json_response.py json_response - response_exception:{'message': "'reg_type'"}
+2024-04-12 17:31:18.966 ERROR json_response.py json_response - response_exception:{'message': "'status'"}
+2024-04-12 17:31:57.602 ERROR json_response.py json_response - response_exception:{'message': 'column "gst" of relation "registration" does not exist\nLINE 1: ...uniq_id,aadhar,first_name,last_name,contact,email,gst,compan...\n                                                             ^\n'}
+2024-04-12 17:34:31.026 ERROR json_response.py json_response - response_exception:{'message': "'address'"}
+2024-04-12 17:35:56.097 ERROR json_response.py json_response - response_exception:{'message': "name 'status' is not defined"}
+2024-04-12 17:37:07.977 ERROR json_response.py json_response - response_exception:{'message': "'gst_no'"}
+2024-04-12 17:39:10.656 ERROR json_response.py json_response - response_exception:{'message': "'nature_b'"}

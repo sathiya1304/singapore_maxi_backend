@@ -1,0 +1,5 @@
+2024-07-05 15:09:55.496 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-07-05 15:10:25.034 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-07-05 15:23:56.467 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2024-07-05 15:24:41.774 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'join registration on attendance_table.ref_student_id = registration.data_uniq_id\' at line 1")'}
+2024-07-05 15:26:00.361 ERROR json_response.py json_response - response_exception:{'message': "name 'search_student' is not defined"}

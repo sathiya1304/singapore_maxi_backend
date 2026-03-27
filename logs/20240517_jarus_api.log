@@ -1,0 +1,82 @@
+2024-05-17 09:21:42.283 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 09:21:42.364 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 09:49:32.848 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 09:49:32.908 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 10:11:48.759 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 10:11:48.823 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 10:14:32.944 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 10:14:33.040 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 10:19:05.056 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-05-17 10:20:46.609 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-05-17 10:25:04.622 ERROR json_response.py json_response - response_exception:{'message': "'access'"}
+2024-05-17 10:28:55.243 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 10:28:55.261 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 10:34:06.235 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 10:34:06.253 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 10:35:47.393 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'where data_uniq_id = \'97a7da30-74ab-496c-93ad-17c49015d97d\'\' at line 1")'}
+2024-05-17 10:36:20.326 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'01\',\'01\')\' at line 3")'}
+2024-05-17 10:37:36.911 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'01\',\'01\')\' at line 3")'}
+2024-05-17 10:56:17.575 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'privilege.created_date\' in \'field list\'")'}
+2024-05-17 10:57:02.607 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'privilege.created_date\' in \'field list\'")'}
+2024-05-17 10:57:44.594 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'privilege.created_date\' in \'field list\'")'}
+2024-05-17 11:01:34.411 ERROR json_response.py json_response - response_exception:{'message': "'privilege'"}
+2024-05-17 11:01:34.414 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-05-17 11:01:34.827 ERROR json_response.py json_response - response_exception:{'message': "'privilege'"}
+2024-05-17 11:01:34.827 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-05-17 11:02:30.023 ERROR json_response.py json_response - response_exception:{'message': "'privilege'"}
+2024-05-17 11:02:30.026 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-05-17 11:02:30.409 ERROR json_response.py json_response - response_exception:{'message': "'privilege'"}
+2024-05-17 11:02:30.410 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-05-17 11:41:53.991 ERROR json_response.py json_response - response_exception:{'message': "'data_uniq_id'"}
+2024-05-17 11:50:34.366 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 11:50:34.399 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 12:08:34.817 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 12:08:34.873 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 12:16:52.441 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'registration.checkin_status\' in \'where clause\'")'}
+2024-05-17 12:16:54.088 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'registration.checkin_status\' in \'where clause\'")'}
+2024-05-17 12:17:05.285 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'registration.checkin_status\' in \'where clause\'")'}
+2024-05-17 12:17:09.348 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'registration.checkin_status\' in \'where clause\'")'}
+2024-05-17 12:17:17.966 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'registration.checkin_status\' in \'where clause\'")'}
+2024-05-17 12:17:18.028 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'registration.checkin_status\' in \'where clause\'")'}
+2024-05-17 12:21:52.309 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 12:21:52.323 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 12:31:55.313 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'registration.checkin_status\' in \'where clause\'")'}
+2024-05-17 12:32:21.236 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'att.ref_stud_id\' in \'where clause\'")'}
+2024-05-17 12:33:09.310 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'registration.data_uniq_id\' in \'where clause\'")'}
+2024-05-17 12:50:23.938 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'registration.data_uniq_id\' in \'where clause\'")'}
+2024-05-17 12:51:31.171 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-17 12:51:31.171 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-17 12:53:13.070 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-17 12:53:13.070 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-17 12:54:15.366 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-17 12:54:15.366 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-17 12:55:14.666 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-17 12:55:14.681 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-17 12:57:36.727 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-17 12:57:36.727 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-17 13:00:02.395 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 5 column 1 (char 4)'}
+2024-05-17 13:24:14.728 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'SELECT * \\n                                        FROM attendance_table  \\n   ...\' at line 5")'}
+2024-05-17 15:10:25.387 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:10:25.402 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:15:49.522 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\' at line 1")'}
+2024-05-17 15:17:48.957 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_uniq_id' referenced before assignment"}
+2024-05-17 15:19:20.296 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:19:20.323 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:19:49.891 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:19:49.907 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:24:24.954 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'2,\'2024-05-17 09:54:24.954765\',\'2024-05-17 09:54:24.954765\',\'01\',\'01\')\' at line 1")'}
+2024-05-17 15:41:10.620 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:41:10.665 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:44:17.109 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:44:17.168 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:50:26.740 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 15:50:26.787 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 16:05:29.830 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 16:05:29.884 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 16:32:33.304 ERROR json_response.py json_response - response_exception:{'message': '(1136, "Column count doesn\'t match value count at row 1")'}
+2024-05-17 18:16:14.775 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-05-17 18:16:38.717 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-05-17 18:16:43.740 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-05-17 18:16:59.341 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-05-17 18:42:42.510 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-05-17 18:42:42.526 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}

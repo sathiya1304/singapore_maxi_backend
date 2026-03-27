@@ -1,0 +1,58 @@
+2023-10-19 09:36:51.212 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-19 09:46:45.210 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-19 09:48:30.413 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-10-19 09:49:02.086 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-10-19 09:49:11.883 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_id'"}
+2023-10-19 09:53:27.814 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-19 09:54:09.079 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-19 10:59:04.749 ERROR json_response.py json_response - response_exception:{'message': "'user_state'"}
+2023-10-19 11:00:08.858 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-10-19 11:02:03.999 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 2)'}
+2023-10-19 11:03:12.841 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 2)'}
+2023-10-19 11:03:28.299 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 2)'}
+2023-10-19 11:03:39.334 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 2)'}
+2023-10-19 11:03:54.628 ERROR json_response.py json_response - response_exception:{'message': "'show_password'"}
+2023-10-19 11:04:57.601 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 2)'}
+2023-10-19 11:08:27.598 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 2)'}
+2023-10-19 11:18:05.548 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'state\' in \'field list\'")'}
+2023-10-19 11:30:46.378 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-10-19 11:49:24.033 ERROR json_response.py json_response - response_exception:{'message': "'stage_id'"}
+2023-10-19 11:52:03.836 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-10-19 12:03:03.273 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-10-19 12:10:21.252 ERROR json_response.py json_response - response_exception:{'message': "'customer_id'"}
+2023-10-19 12:11:30.625 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-19 12:12:30.499 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-10-19 12:14:02.338 ERROR json_response.py json_response - response_exception:{'message': "'customer_id'"}
+2023-10-19 12:16:27.623 ERROR json_response.py json_response - response_exception:{'message': "'lead_type'"}
+2023-10-19 12:18:08.245 ERROR json_response.py json_response - response_exception:{'message': "'source_id'"}
+2023-10-19 12:21:01.356 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-10-19 12:22:05.463 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'outbound_source\' in \'order clause\'")'}
+2023-10-19 12:24:46.036 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'outbound_source\' in \'order clause\'")'}
+2023-10-19 12:26:17.662 ERROR json_response.py json_response - response_exception:{'message': "'source_id'"}
+2023-10-19 12:27:06.301 ERROR json_response.py json_response - response_exception:{'message': "'lead_type'"}
+2023-10-19 12:33:43.364 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 23 column 1 (char 393)'}
+2023-10-19 12:33:50.106 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-19 12:43:27.646 ERROR json_response.py json_response - response_exception:{'message': "'ref_customer_type'"}
+2023-10-19 12:49:55.935 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-19 12:55:23.822 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-10-19 13:15:42.889 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'source_name,\\n                        email,pincode,state,city,street,DATE_FOR...\' at line 14")'}
+2023-10-19 13:17:21.736 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.user_name\' in \'field list\'")'}
+2023-10-19 13:18:43.312 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'first_name\' in field list is ambiguous")'}
+2023-10-19 13:18:44.530 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'first_name\' in field list is ambiguous")'}
+2023-10-19 13:20:21.484 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'last_name\' in field list is ambiguous")'}
+2023-10-19 13:20:42.920 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'first_name\' in field list is ambiguous")'}
+2023-10-19 13:22:32.416 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'email\' in field list is ambiguous")'}
+2023-10-19 13:24:51.993 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-10-19 13:25:26.503 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-10-19 14:44:47.393 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-10-19 14:51:03.367 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-19 15:11:17.170 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-10-19 15:12:26.447 ERROR json_response.py json_response - response_exception:{'message': "'next'"}
+2023-10-19 15:12:43.032 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-19 15:13:43.884 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-10-19 15:13:58.389 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-19 15:18:56.856 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-10-19 15:22:55.390 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-19 15:23:04.263 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-10-19 15:47:20.478 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-19 15:52:20.445 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.ref_stage_staging\' in \'field list\'")'}

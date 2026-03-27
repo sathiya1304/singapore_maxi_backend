@@ -1,0 +1,7 @@
+2024-12-04 15:48:02.064 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'s standard dummy text ever since the 1500s, when an unknown printer took a ga...\' at line 1")'}
+2024-12-04 15:49:50.488 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-04 15:49:50.539 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-04 17:32:11.194 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-04 17:32:11.276 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-04 17:34:12.246 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-04 17:34:12.297 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}

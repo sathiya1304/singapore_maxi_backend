@@ -1,0 +1,97 @@
+2024-09-30 11:38:46.383 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 11:38:46.401 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:08:30.120 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:08:30.152 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:08:38.505 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:08:40.242 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:08:42.359 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:08:50.749 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:09:09.664 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:09:18.472 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:09:45.341 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:10:14.653 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:10:26.485 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:12:32.413 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:13:17.878 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb2 in position 0: invalid start byte"}
+2024-09-30 12:13:17.905 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb2 in position 0: invalid start byte"}
+2024-09-30 12:16:50.492 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:16:50.504 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:16:53.201 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:16:53.215 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:17:09.491 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:19:43.401 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:19:43.417 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:19:45.158 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:20:44.986 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:20:47.148 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:21:35.928 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:21:37.209 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:21:38.185 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:21:41.893 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:21:41.908 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:21:46.116 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:21:48.219 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:21:59.015 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:22:02.997 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:22:05.113 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:22:50.811 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:22:52.308 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:22:53.116 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:23:00.187 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:23:00.202 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:23:01.039 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:24:28.045 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:24:28.059 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:24:30.939 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:24:42.184 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'ref_client_id' where it is not associated with a value"}
+2024-09-30 12:24:52.488 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'ref_client_id' where it is not associated with a value"}
+2024-09-30 12:26:23.718 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:29:33.212 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:29:33.229 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_table.task_status\' in \'where clause\'")'}
+2024-09-30 12:31:29.297 ERROR json_response.py json_response - response_exception:{'message': "'assigned_user'"}
+2024-09-30 12:31:29.312 ERROR json_response.py json_response - response_exception:{'message': "'assigned_user'"}
+2024-09-30 15:32:01.896 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 15:32:04.476 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 15:32:04.486 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 15:32:04.506 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 15:32:04.524 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 15:32:10.950 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 15:37:36.243 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 15:37:36.256 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 15:37:36.266 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 15:37:36.279 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:09:47.967 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:02.307 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:02.325 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:02.338 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:02.355 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:06.204 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:06.215 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:06.225 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:06.235 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:28.663 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:28.679 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:28.688 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:10:28.700 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:11:21.240 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:59:05.936 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:59:05.947 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:59:05.961 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:59:05.975 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:59:06.033 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 16:59:13.598 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:05:06.588 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:05:12.580 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:05:14.402 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:05:16.551 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:07:17.925 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb2 in position 0: invalid start byte"}
+2024-09-30 17:07:17.951 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb2 in position 0: invalid start byte"}
+2024-09-30 17:10:20.905 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb2 in position 0: invalid start byte"}
+2024-09-30 17:10:20.929 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb2 in position 0: invalid start byte"}
+2024-09-30 17:16:00.299 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:16:00.321 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:16:00.353 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:16:00.368 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:16:03.833 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:19:46.758 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}
+2024-09-30 17:19:52.230 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.work_order_table\' doesn\'t exist")'}

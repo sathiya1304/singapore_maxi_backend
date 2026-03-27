@@ -1,0 +1,6 @@
+2023-11-03 13:29:06.154 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-03 13:33:25.066 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-03 13:39:04.277 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'company\' in \'field list\'")'}
+2023-11-03 16:18:31.972 ERROR json_response.py json_response - response_exception:{'message': "'first_name'"}
+2023-11-03 16:21:43.171 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-11-03 16:43:24.283 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}

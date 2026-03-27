@@ -1,0 +1,32 @@
+2023-09-26 10:19:54.517 ERROR json_response.py json_response - response_exception:{'message': "'veh_id'"}
+2023-09-26 10:25:59.692 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'modified_date = now() where company_id = \'25e4d557-ec29-4d79-a9ca-deb95aaa6f5d\'\' at line 1")'}
+2023-09-26 11:05:34.339 ERROR json_response.py json_response - response_exception:{'message': "name 'company_id' is not defined"}
+2023-09-26 11:28:13.064 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-09-26 12:11:26.370 ERROR json_response.py json_response - response_exception:{'message': "'commission_type'"}
+2023-09-26 12:50:19.474 ERROR json_response.py json_response - response_exception:{'message': "name 'value' is not defined"}
+2023-09-26 12:51:48.958 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-09-26 12:52:21.368 ERROR json_response.py json_response - response_exception:{'message': "name 'value' is not defined"}
+2023-09-26 13:02:58.853 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-09-26 14:29:33.363 ERROR json_response.py json_response - response_exception:{'message': "name 'value' is not defined"}
+2023-09-26 14:34:44.531 ERROR json_response.py json_response - response_exception:{'message': '(2014, "Commands out of sync; you can\'t run this command now")'}
+2023-09-26 14:35:06.905 ERROR json_response.py json_response - response_exception:{'message': '(2014, "Commands out of sync; you can\'t run this command now")'}
+2023-09-26 14:38:57.040 ERROR json_response.py json_response - response_exception:{'message': '(2014, "Commands out of sync; you can\'t run this command now")'}
+2023-09-26 14:39:38.631 ERROR json_response.py json_response - response_exception:{'message': '(2014, "Commands out of sync; you can\'t run this command now")'}
+2023-09-26 14:49:55.586 ERROR json_response.py json_response - response_exception:{'message': "'commission'"}
+2023-09-26 14:50:36.269 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'commission_type\' in \'field list\'")'}
+2023-09-26 15:10:09.508 ERROR json_response.py json_response - response_exception:{'message': "name 'value' is not defined"}
+2023-09-26 15:39:28.296 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'=\'88a2d34f-c787-4774-9367-580ed8997dfe\',comm_details_id,ref_field_id,commissi...\' at line 1")'}
+2023-09-26 16:02:54.817 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-09-26 16:18:07.429 ERROR json_response.py json_response - response_exception:{'message': "name 'var' is not defined"}
+2023-09-26 16:43:07.084 ERROR json_response.py json_response - response_exception:{'message': "'comm_details_id'"}
+2023-09-26 16:43:38.786 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-09-26 17:20:00.985 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'2\' at line 8")'}
+2023-09-26 17:44:37.822 ERROR json_response.py json_response - response_exception:{'message': "'comm_details_id'"}
+2023-09-26 17:54:25.115 ERROR json_response.py json_response - response_exception:{'message': "'comm_details_id'"}
+2023-09-26 18:00:52.482 ERROR json_response.py json_response - response_exception:{'message': "'search_input'"}
+2023-09-26 18:00:57.482 ERROR json_response.py json_response - response_exception:{'message': "'search_input'"}
+2023-09-26 18:02:46.766 ERROR json_response.py json_response - response_exception:{'message': "'search_input'"}
+2023-09-26 18:04:19.485 ERROR json_response.py json_response - response_exception:{'message': "'search_input'"}
+2023-09-26 18:04:48.265 ERROR json_response.py json_response - response_exception:{'message': "'search_input'"}
+2023-09-26 18:05:22.496 ERROR json_response.py json_response - response_exception:{'message': "'search_input'"}
+2023-09-26 18:06:26.549 ERROR json_response.py json_response - response_exception:{'message': "'search_input'"}

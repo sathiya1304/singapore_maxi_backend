@@ -1,0 +1,93 @@
+2024-04-15 09:40:43.885 ERROR json_response.py json_response - response_exception:{'message': "'length'"}
+2024-04-15 09:41:39.248 ERROR json_response.py json_response - response_exception:{'message': "'length'"}
+2024-04-15 09:41:59.663 ERROR json_response.py json_response - response_exception:{'message': "'length'"}
+2024-04-15 09:42:37.917 ERROR json_response.py json_response - response_exception:{'message': "JsonResponse.__init__() got multiple values for argument 'safe'"}
+2024-04-15 09:43:29.054 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 2, got 1)'}
+2024-04-15 09:43:54.227 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 2, got 1)'}
+2024-04-15 09:44:17.001 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 2, got 1)'}
+2024-04-15 09:44:53.542 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 2, got 1)'}
+2024-04-15 09:48:38.392 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 2, got 1)'}
+2024-04-15 09:49:02.241 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 2, got 1)'}
+2024-04-15 09:49:26.359 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 2, got 1)'}
+2024-04-15 09:51:58.197 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 2, got 1)'}
+2024-04-15 09:52:26.665 ERROR json_response.py json_response - response_exception:{'message': 'too many values to unpack (expected 2)'}
+2024-04-15 09:53:01.991 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 2, got 1)'}
+2024-04-15 09:56:38.477 ERROR json_response.py json_response - response_exception:{'message': 'invalid input syntax for type integer: "length"\nLINE 1: SELECT * FROM length_master WHERE 400 = \'length\' \n                                                ^\n'}
+2024-04-15 10:11:46.147 ERROR json_response.py json_response - response_exception:{'message': "'length'"}
+2024-04-15 10:12:11.109 ERROR json_response.py json_response - response_exception:{'message': "'length'"}
+2024-04-15 10:13:17.267 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:13:41.559 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:14:33.035 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:15:16.816 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:15:52.771 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:16:30.955 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:17:25.624 ERROR json_response.py json_response - response_exception:{'message': "'module' object is not callable"}
+2024-04-15 10:18:20.828 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:19:39.571 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:20:09.254 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:20:55.110 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:21:20.262 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:22:55.704 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 10:23:14.410 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2024-04-15 10:26:40.748 ERROR json_response.py json_response - response_exception:{'message': "name 'check_existing_data' is not defined"}
+2024-04-15 10:50:56.516 ERROR json_response.py json_response - response_exception:{'message': 'column "corporation" does not exist\nLINE 1: ...T * FROM company_type_master WHERE company_type = corporatio...\n                                                             ^\n'}
+2024-04-15 10:51:43.750 ERROR json_response.py json_response - response_exception:{'message': 'column "corporation" does not exist\nLINE 1: ...T * FROM company_type_master WHERE company_type = corporatio...\n                                                             ^\n'}
+2024-04-15 10:52:37.087 ERROR json_response.py json_response - response_exception:{'message': "'reg_type'"}
+2024-04-15 10:52:50.585 ERROR json_response.py json_response - response_exception:{'message': 'column "corporation" does not exist\nLINE 1: ...T * FROM company_type_master WHERE company_type = corporatio...\n                                                             ^\n'}
+2024-04-15 10:53:58.885 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x9a in position 1: invalid start byte"}
+2024-04-15 11:04:53.397 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2024-04-15 11:09:54.336 ERROR json_response.py json_response - response_exception:{'message': 'connection to server at "192.168.29.26", port 5432 failed: Connection timed out (0x0000274C/10060)\n\tIs the server running on that host and accepting TCP/IP connections?\n'}
+2024-04-15 11:11:36.823 ERROR json_response.py json_response - response_exception:{'message': 'connection to server at "192.168.29.26", port 5432 failed: Connection timed out (0x0000274C/10060)\n\tIs the server running on that host and accepting TCP/IP connections?\n'}
+2024-04-15 11:11:52.362 ERROR json_response.py json_response - response_exception:{'message': 'connection to server at "192.168.29.26", port 5432 failed: Connection timed out (0x0000274C/10060)\n\tIs the server running on that host and accepting TCP/IP connections?\n'}
+2024-04-15 11:13:33.785 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 11:46:58.852 ERROR json_response.py json_response - response_exception:{'message': 'Request body exceeded settings.DATA_UPLOAD_MAX_MEMORY_SIZE.'}
+2024-04-15 11:50:24.003 ERROR json_response.py json_response - response_exception:{'message': 'Request body exceeded settings.DATA_UPLOAD_MAX_MEMORY_SIZE.'}
+2024-04-15 12:03:32.844 ERROR json_response.py json_response - response_exception:{'message': 'Request body exceeded settings.DATA_UPLOAD_MAX_MEMORY_SIZE.'}
+2024-04-15 12:11:42.923 ERROR json_response.py json_response - response_exception:{'message': 'Request body exceeded settings.DATA_UPLOAD_MAX_MEMORY_SIZE.'}
+2024-04-15 12:39:01.713 ERROR json_response.py json_response - response_exception:{'message': 'Request body exceeded settings.DATA_UPLOAD_MAX_MEMORY_SIZE.'}
+2024-04-15 12:40:55.480 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-15 12:42:08.493 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-15 12:43:37.310 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-15 12:44:58.318 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-15 12:45:19.507 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-15 12:47:34.633 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-15 12:48:59.323 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-15 12:52:34.550 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-15 12:55:34.896 ERROR json_response.py json_response - response_exception:{'message': "'method' object is not subscriptable"}
+2024-04-15 12:56:21.955 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-15 12:56:55.761 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-15 12:57:19.939 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 12:57:52.711 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 12:59:33.545 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 13:05:05.750 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 13:06:08.212 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 13:06:22.257 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 13:07:08.173 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 13:08:22.992 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 13:10:34.810 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 13:12:28.690 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 13:13:48.849 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 13:14:38.678 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 13:15:58.205 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 14:18:09.402 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2024-04-15 14:47:58.639 ERROR json_response.py json_response - response_exception:{'message': "'list' object has no attribute 'name'"}
+2024-04-15 14:50:56.145 ERROR json_response.py json_response - response_exception:{'message': 'Object of type InMemoryUploadedFile is not JSON serializable'}
+2024-04-15 15:06:09.426 ERROR json_response.py json_response - response_exception:{'message': "local variable 'media_folder' referenced before assignment"}
+2024-04-15 15:17:04.752 ERROR json_response.py json_response - response_exception:{'message': "local variable 'media_folder' referenced before assignment"}
+2024-04-15 15:29:46.350 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 451: invalid start byte"}
+2024-04-15 15:30:10.758 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 451: invalid start byte"}
+2024-04-15 15:30:34.927 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 449: invalid start byte"}
+2024-04-15 15:31:11.534 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 449: invalid start byte"}
+2024-04-15 15:31:51.255 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 446: invalid start byte"}
+2024-04-15 15:32:46.062 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-04-15 15:32:59.426 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-04-15 15:33:36.174 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-04-15 15:34:52.930 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'name'"}
+2024-04-15 15:36:18.187 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'name'"}
+2024-04-15 15:36:41.857 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'name'"}
+2024-04-15 15:38:23.642 ERROR json_response.py json_response - response_exception:{'message': "local variable 'media_folder' referenced before assignment"}
+2024-04-15 15:39:12.717 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'name'"}
+2024-04-15 16:07:34.148 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2024-04-15 16:08:17.888 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-04-15 16:08:18.687 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-04-15 16:50:54.108 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}

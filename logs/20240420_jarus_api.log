@@ -1,0 +1,41 @@
+2024-04-20 09:39:07.519 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 7 column 1 (char 121)'}
+2024-04-20 10:05:47.002 ERROR json_response.py json_response - response_exception:{'message': 'column component_type_master.active_status does not exist\nLINE 3:                 WHERE 1=1  and component_type_master.active_...\n                                       ^\n'}
+2024-04-20 10:05:47.063 ERROR json_response.py json_response - response_exception:{'message': 'column component_type_master.active_status does not exist\nLINE 3:                 WHERE 1=1  and component_type_master.active_...\n                                       ^\n'}
+2024-04-20 11:15:24.221 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-20 11:25:08.581 ERROR json_response.py json_response - response_exception:{'message': "'user_name'"}
+2024-04-20 11:28:42.884 ERROR json_response.py json_response - response_exception:{'message': "'user_name'"}
+2024-04-20 12:05:10.651 ERROR json_response.py json_response - response_exception:{'message': 'column "s_no" does not exist\nLINE 3:                 WHERE 1=1    order by s_no asc   LIMIT 15 OF...\n                                              ^\nHINT:  Perhaps you meant to reference the column "registration.gst_no".\n'}
+2024-04-20 12:05:12.536 ERROR json_response.py json_response - response_exception:{'message': 'column "s_no" does not exist\nLINE 3:                 WHERE 1=1    order by s_no desc   LIMIT 15 O...\n                                              ^\nHINT:  Perhaps you meant to reference the column "registration.gst_no".\n'}
+2024-04-20 15:11:39.039 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_uniq_id' referenced before assignment"}
+2024-04-20 15:11:59.559 ERROR json_response.py json_response - response_exception:{'message': "local variable 'data_uniq_id' referenced before assignment"}
+2024-04-20 15:31:41.042 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:31:41.059 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:31:42.070 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:31:42.086 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:31:42.409 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:31:42.409 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:31:44.968 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:31:44.970 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:31:45.236 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:31:45.237 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:31:47.902 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:31:47.903 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:31:48.169 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:31:48.170 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:52:49.122 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:52:49.125 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:52:49.643 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:52:49.643 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:52:49.894 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:52:49.894 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:53:00.307 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:53:00.308 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 15:53:00.703 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-20 15:53:00.703 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-20 16:45:44.534 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-20 16:45:50.136 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-20 16:45:52.863 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-20 16:45:53.946 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-20 16:45:54.275 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-20 16:45:54.439 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-20 16:45:54.660 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}

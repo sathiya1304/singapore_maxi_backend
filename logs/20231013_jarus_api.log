@@ -1,0 +1,48 @@
+2023-10-13 10:03:26.861 ERROR json_response.py json_response - response_exception:{'message': "Expecting ':' delimiter: line 7 column 1 (char 156)"}
+2023-10-13 10:03:37.425 ERROR json_response.py json_response - response_exception:{'message': "'followup_action'"}
+2023-10-13 10:05:51.741 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'stage_id' where it is not associated with a value"}
+2023-10-13 10:09:18.844 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-13 10:09:42.037 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'stage_id' where it is not associated with a value"}
+2023-10-13 10:11:01.800 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-13 10:35:46.565 ERROR json_response.py json_response - response_exception:{'message': "'status'"}
+2023-10-13 11:11:35.612 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-13 11:12:03.101 ERROR json_response.py json_response - response_exception:{'message': '(1136, "Column count doesn\'t match value count at row 1")'}
+2023-10-13 11:13:25.652 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'modified_date = now() where assign_id = \'b7573bb2-118d-4131-bed4-f5fca0b2fcfa\'\' at line 1")'}
+2023-10-13 11:35:41.325 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.stage_id\' in \'where clause\'")'}
+2023-10-13 11:36:54.475 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-13 11:40:51.709 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-13 11:41:06.480 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-13 11:41:54.555 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-13 11:46:11.601 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-13 11:46:12.706 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-13 11:46:35.244 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-13 12:04:50.826 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'assign_lead_table\'")'}
+2023-10-13 12:23:24.433 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-13 12:27:36.762 ERROR json_response.py json_response - response_exception:{'message': "'status'"}
+2023-10-13 13:46:27.967 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'status' where it is not associated with a value"}
+2023-10-13 13:46:45.802 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'status' where it is not associated with a value"}
+2023-10-13 13:46:46.947 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'status' where it is not associated with a value"}
+2023-10-13 13:51:15.560 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'status' where it is not associated with a value"}
+2023-10-13 13:51:35.902 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'status' where it is not associated with a value"}
+2023-10-13 15:55:46.012 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'DESC\' at line 6")'}
+2023-10-13 16:21:15.564 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'priority_type' where it is not associated with a value"}
+2023-10-13 16:21:55.601 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' priority_type = \'1\'\' at line 1")'}
+2023-10-13 16:22:25.096 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' priority_type = \'1\' ,\' at line 1")'}
+2023-10-13 16:22:53.277 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' priority_type = \'1\'\' at line 1")'}
+2023-10-13 16:26:09.291 ERROR json_response.py json_response - response_exception:{'message': "'priority_type'"}
+2023-10-13 16:26:11.111 ERROR json_response.py json_response - response_exception:{'message': "'priority_type'"}
+2023-10-13 16:26:24.737 ERROR json_response.py json_response - response_exception:{'message': "'priority_type'"}
+2023-10-13 16:43:43.209 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.city\' in \'where clause\'")'}
+2023-10-13 16:58:11.987 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-13 16:58:28.723 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_id\' in \'where clause\'")'}
+2023-10-13 17:00:13.549 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-13 17:03:02.167 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tup\' in \'where clause\'")'}
+2023-10-13 17:04:12.664 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-13 17:04:45.057 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-13 17:05:45.720 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-13 17:07:37.326 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-13 17:07:41.140 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-13 17:07:47.990 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-13 17:12:10.349 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-13 17:14:14.402 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tup\' in \'where clause\'")'}
+2023-10-13 17:14:48.468 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}

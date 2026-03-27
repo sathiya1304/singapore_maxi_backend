@@ -1,0 +1,7 @@
+2024-12-30 13:03:49.398 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'head_sts' where it is not associated with a value"}
+2024-12-30 13:04:39.344 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'head_sts' where it is not associated with a value"}
+2024-12-30 13:05:26.561 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'head_sts' where it is not associated with a value"}
+2024-12-30 13:06:05.959 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'head_sts' where it is not associated with a value"}
+2024-12-30 13:07:51.511 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'head_sts\' in \'field list\'")'}
+2024-12-30 13:10:22.682 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'success_message' where it is not associated with a value"}
+2024-12-30 13:23:10.108 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'ref_team_id' where it is not associated with a value"}

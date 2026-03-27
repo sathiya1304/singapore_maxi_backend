@@ -1,0 +1,32 @@
+2024-08-03 12:42:36.976 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-03 12:42:37.057 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-03 12:49:38.908 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-03 12:49:38.984 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-03 12:50:35.302 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-03 12:50:35.366 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-03 12:52:07.992 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-03 12:52:08.058 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-03 13:02:59.754 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:02:59.785 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:03:51.926 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:03:51.939 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:04:19.383 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:04:19.392 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:06:01.531 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:06:01.532 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:19:09.298 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:19:09.310 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:24:57.887 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:24:57.895 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:26:06.577 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:26:07.089 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:26:17.390 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:26:17.904 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:26:18.241 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:26:31.531 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:26:31.543 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:27:06.037 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:27:06.064 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:27:13.069 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:27:13.089 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-08-03 13:27:15.883 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}

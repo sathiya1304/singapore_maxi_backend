@@ -1,0 +1,90 @@
+2023-11-17 09:25:48.673 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-17 09:26:37.166 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-17 09:27:24.568 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-17 09:27:30.259 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-17 09:27:30.298 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-17 09:27:30.373 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-17 09:34:02.457 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execution' referenced before assignment"}
+2023-11-17 09:40:49.010 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execution' referenced before assignment"}
+2023-11-17 09:45:22.133 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-17 09:46:49.355 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execution' referenced before assignment"}
+2023-11-17 09:54:09.240 ERROR json_response.py json_response - response_exception:{'message': "'stage'"}
+2023-11-17 10:02:55.923 ERROR json_response.py json_response - response_exception:{'message': "'stage'"}
+2023-11-17 10:06:45.501 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-17 10:08:55.202 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-17 10:09:48.416 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-17 10:20:06.850 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:25:01.647 ERROR json_response.py json_response - response_exception:{'message': "'assign_lead_table'"}
+2023-11-17 10:25:18.454 ERROR json_response.py json_response - response_exception:{'message': "'assign_lead_table'"}
+2023-11-17 10:25:34.567 ERROR json_response.py json_response - response_exception:{'message': "'assign_lead_table'"}
+2023-11-17 10:26:28.661 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:26:29.962 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:28:27.492 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:29:44.923 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_id\' in \'field list\'")'}
+2023-11-17 10:33:20.549 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:35:44.743 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:36:39.562 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:37:53.696 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:38:51.433 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:39:00.660 ERROR json_response.py json_response - response_exception:{'message': "name 'assign_id' is not defined"}
+2023-11-17 10:40:57.249 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:41:20.046 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-11-17 10:45:43.517 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-17 11:05:55.415 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-11-17 11:05:58.673 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-11-17 11:06:46.248 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-11-17 11:06:47.472 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-11-17 11:07:52.483 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-11-17 11:55:41.193 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_lead_id\' in \'where clause\'")'}
+2023-11-17 11:59:12.779 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_lead_id\' in \'where clause\'")'}
+2023-11-17 12:20:16.769 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:21:00.254 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:21:26.856 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:21:28.357 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:22:01.960 ERROR json_response.py json_response - response_exception:{'message': "name 'lead_assign_id' is not defined"}
+2023-11-17 12:22:03.448 ERROR json_response.py json_response - response_exception:{'message': "name 'lead_assign_id' is not defined"}
+2023-11-17 12:23:32.795 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:23:34.316 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:25:13.551 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:25:39.849 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:26:16.238 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-11-17 12:26:17.747 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-11-17 12:26:23.730 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-11-17 12:26:59.124 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:27:00.483 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:27:13.099 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 12:27:14.103 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 13:04:46.972 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 13:05:51.848 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 13:05:53.118 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 13:06:47.473 ERROR json_response.py json_response - response_exception:{'message': "local variable 'resp_sql' referenced before assignment"}
+2023-11-17 13:07:28.323 ERROR json_response.py json_response - response_exception:{'message': "local variable 'resp' referenced before assignment"}
+2023-11-17 13:07:45.925 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 13:08:36.289 ERROR json_response.py json_response - response_exception:{'message': "'lead_assign_id'"}
+2023-11-17 13:09:15.955 ERROR json_response.py json_response - response_exception:{'message': "local variable 'resp_sql' referenced before assignment"}
+2023-11-17 13:09:36.519 ERROR json_response.py json_response - response_exception:{'message': "local variable 'page' referenced before assignment"}
+2023-11-17 13:09:56.888 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_join' referenced before assignment"}
+2023-11-17 13:10:45.749 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_join' referenced before assignment"}
+2023-11-17 13:11:16.146 ERROR json_response.py json_response - response_exception:{'message': "local variable 'extra_order' referenced before assignment"}
+2023-11-17 13:11:32.240 ERROR json_response.py json_response - response_exception:{'message': "'extra_order'"}
+2023-11-17 13:11:48.119 ERROR json_response.py json_response - response_exception:{'message': "local variable 'resp' referenced before assignment"}
+2023-11-17 13:12:00.218 ERROR json_response.py json_response - response_exception:{'message': "local variable 'count' referenced before assignment"}
+2023-11-17 13:14:03.999 ERROR json_response.py json_response - response_exception:{'message': "local variable 'assign_id' referenced before assignment"}
+2023-11-17 13:14:51.456 ERROR json_response.py json_response - response_exception:{'message': "local variable 'assign_id' referenced before assignment"}
+2023-11-17 13:20:11.164 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 13:22:07.982 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_join' referenced before assignment"}
+2023-11-17 13:22:34.995 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_join' referenced before assignment"}
+2023-11-17 13:22:36.440 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_join' referenced before assignment"}
+2023-11-17 15:35:37.931 ERROR json_response.py json_response - response_exception:{'message': "'cancel'"}
+2023-11-17 15:36:43.109 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 15:37:06.552 ERROR json_response.py json_response - response_exception:{'message': "local variable 'assign_id' referenced before assignment"}
+2023-11-17 17:54:34.803 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 17:54:37.850 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 17:55:06.835 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 17:55:10.126 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 17:55:11.877 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 17:55:11.936 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-17 18:23:44.968 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'shantthi_ceramics.users_login_table\' doesn\'t exist")'}
+2023-11-17 18:23:44.968 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-11-17 18:24:44.968 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'shantthi_ceramics.users_login_table\' doesn\'t exist")'}
+2023-11-17 18:24:44.969 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}

@@ -1,0 +1,49 @@
+2024-10-08 09:24:22.129 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'notes\' in \'field list\'")'}
+2024-10-08 09:26:12.272 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_client_name\' in \'field list\'")'}
+2024-10-08 09:27:48.872 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:28:07.175 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:28:07.237 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:28:07.298 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:28:07.358 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:28:15.073 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:28:15.127 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:28:15.192 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:28:15.265 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:29:22.114 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:29:22.172 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:29:22.229 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:29:22.298 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:29:29.588 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:30:02.106 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:30:02.164 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:30:02.226 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:30:02.289 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:30:03.145 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:31:08.058 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:31:22.182 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:31:26.135 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:32:09.928 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:32:13.439 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:32:13.499 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:32:13.560 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:32:13.625 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:32:14.345 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:32:50.032 ERROR json_response.py json_response - response_exception:{'message': '(1062, "Duplicate entry \'Test kkk\' for key \'PRIMARY\'")'}
+2024-10-08 09:33:11.362 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:34:17.424 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:34:17.485 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:34:17.546 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:34:17.594 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:35:17.143 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.project_master\' doesn\'t exist")'}
+2024-10-08 09:40:25.800 ERROR json_response.py json_response - response_exception:{'message': '(1062, "Duplicate entry \'Test kkk\' for key \'PRIMARY\'")'}
+2024-10-08 09:41:10.558 ERROR json_response.py json_response - response_exception:{'message': '(1062, "Duplicate entry \'Test kkk\' for key \'PRIMARY\'")'}
+2024-10-08 09:42:28.390 ERROR json_response.py json_response - response_exception:{'message': '(1062, "Duplicate entry \'Test kkk\' for key \'PRIMARY\'")'}
+2024-10-08 09:44:11.302 ERROR json_response.py json_response - response_exception:{'message': '(1062, "Duplicate entry \'Spectransys\' for key \'PRIMARY\'")'}
+2024-10-08 09:50:55.300 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte"}
+2024-10-08 09:50:55.375 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte"}
+2024-10-08 10:04:35.567 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-10-08 10:04:35.617 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-10-08 10:04:35.648 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-10-08 10:04:35.670 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-10-08 10:04:59.626 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'label\': \'Spectransys\', \'value\': \'YzlkMGNkZDktOGJlMS00MWFjLWE2YWMtYWMzOTEyNThl...\' at line 1")'}
+2024-10-08 10:11:55.827 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'label\': \'Ishana Corporation\', \'value\': \'OGZkNTBiMDktODI3MS00YTYzLWI3ZGUtMzhkZ...\' at line 1")'}

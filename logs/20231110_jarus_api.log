@@ -1,0 +1,36 @@
+2023-11-10 09:45:09.008 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.date_difference\' in \'field list\'")'}
+2023-11-10 09:46:58.524 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM assign_lead_table AS alt\\n\\n                            WHERE alt.ref_lead...\' at line 21")'}
+2023-11-10 10:47:52.286 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM assign_lead_table\\n                                            WHERE DATE...\' at line 5")'}
+2023-11-10 10:51:09.256 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM assign_lead_table\\n                                            WHERE DATE...\' at line 5")'}
+2023-11-10 14:34:14.666 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_join' referenced before assignment"}
+2023-11-10 14:35:07.847 ERROR json_response.py json_response - response_exception:{'message': "local variable 'count_join' referenced before assignment"}
+2023-11-10 14:35:26.221 ERROR json_response.py json_response - response_exception:{'message': "local variable 'count_join' referenced before assignment"}
+2023-11-10 14:35:29.209 ERROR json_response.py json_response - response_exception:{'message': "local variable 'count_join' referenced before assignment"}
+2023-11-10 14:36:16.914 ERROR json_response.py json_response - response_exception:{'message': "name 'order_by' is not defined"}
+2023-11-10 14:38:22.285 ERROR json_response.py json_response - response_exception:{'message': "name 'order_field' is not defined"}
+2023-11-10 14:39:07.223 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-11-10 14:40:06.844 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_type' referenced before assignment"}
+2023-11-10 14:49:43.531 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_status\' in \'where clause\'")'}
+2023-11-10 15:22:33.164 ERROR json_response.py json_response - response_exception:{'message': "name 'query' is not defined"}
+2023-11-10 15:25:28.945 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute' referenced before assignment"}
+2023-11-10 15:26:06.261 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute1' referenced before assignment"}
+2023-11-10 15:26:07.311 ERROR json_response.py json_response - response_exception:{'message': "local variable 'execute1' referenced before assignment"}
+2023-11-10 15:29:06.194 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-11-10 15:29:26.636 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-11-10 15:31:13.468 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-11-10 15:31:48.755 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-11-10 15:33:04.845 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-11-10 15:37:08.444 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-11-10 15:37:44.559 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-11-10 15:40:36.912 ERROR json_response.py json_response - response_exception:{'message': "local variable 'response' referenced before assignment"}
+2023-11-10 15:52:52.734 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query1' referenced before assignment"}
+2023-11-10 17:55:37.465 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-11-10 17:59:24.094 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-10 18:00:59.718 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-10 18:01:00.898 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-10 18:02:07.433 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-10 18:03:05.989 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-10 18:03:31.483 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-10 18:04:17.619 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-10 18:04:18.743 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-10 18:04:35.665 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}

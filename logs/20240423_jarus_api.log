@@ -1,0 +1,21 @@
+2024-04-23 09:51:20.427 ERROR json_response.py json_response - response_exception:{'message': 'connection to server at "192.168.29.26", port 5432 failed: Connection timed out (0x0000274C/10060)\n\tIs the server running on that host and accepting TCP/IP connections?\n'}
+2024-04-23 09:53:40.186 ERROR json_response.py json_response - response_exception:{'message': 'connection to server at "192.168.29.26", port 5432 failed: Connection timed out (0x0000274C/10060)\n\tIs the server running on that host and accepting TCP/IP connections?\n'}
+2024-04-23 09:53:40.202 ERROR json_response.py json_response - response_exception:{'message': 'connection to server at "192.168.29.26", port 5432 failed: Connection timed out (0x0000274C/10060)\n\tIs the server running on that host and accepting TCP/IP connections?\n'}
+2024-04-23 09:53:40.202 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2024-04-23 09:59:20.931 ERROR json_response.py json_response - response_exception:{'message': 'column "MESH DECKING" does not exist\nLINE 1: ...one\',top_view_img = \'None\' where component_name = "MESH DECK...\n                                                             ^\n'}
+2024-04-23 10:04:34.670 ERROR json_response.py json_response - response_exception:{'message': 'column "MESH DECKING" does not exist\nLINE 1: ...one\',top_view_img = \'None\' where component_name = "MESH DECK...\n                                                             ^\n'}
+2024-04-23 10:49:30.431 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-23 10:49:30.431 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-23 10:49:31.144 ERROR json_response.py json_response - response_exception:{'message': 'HTTP status code must be an integer from 100 to 599.'}
+2024-04-23 10:49:31.146 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2024-04-23 11:15:56.526 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-23 12:02:46.124 ERROR json_response.py json_response - response_exception:{'message': 'column "user_id" does not exist\nLINE 1:  select * from user_master where user_id = \'3a90cecb-dd29-47...\n                                         ^\n'}
+2024-04-23 12:55:02.274 ERROR json_response.py json_response - response_exception:{'message': "send_sms() got an unexpected keyword argument 'dest'"}
+2024-04-23 15:24:55.275 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-04-23 15:24:55.340 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-04-23 15:24:55.399 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-04-23 15:24:55.456 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-04-23 17:28:48.613 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-04-23 17:28:48.691 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-04-23 17:28:48.790 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-04-23 17:28:48.855 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}

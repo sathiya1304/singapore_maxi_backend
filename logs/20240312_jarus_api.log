@@ -1,0 +1,4 @@
+2024-03-12 16:25:01.296 ERROR json_response.py json_response - response_exception:{'message': "name 'assign_time' is not defined"}
+2024-03-12 16:25:31.524 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'notes\' in \'field list\'")'}
+2024-03-12 16:39:26.448 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'=\'2024-03-12 11:09:26.435998\',ref_conclusion = 1 where data_uniq_id = \'e0d0ab...\' at line 1")'}
+2024-03-12 17:02:45.797 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'date_difference\' in \'field list\'")'}

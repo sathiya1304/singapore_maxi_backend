@@ -1,0 +1,9 @@
+2024-09-28 15:41:54.783 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'list_by' where it is not associated with a value"}
+2024-09-28 15:42:36.955 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'list_by' where it is not associated with a value"}
+2024-09-28 15:42:38.667 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'list_by' where it is not associated with a value"}
+2024-09-28 15:43:21.276 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'task_table.data_uniq_id\' in \'where clause\'")'}
+2024-09-28 16:04:33.953 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf5 in position 0: invalid start byte"}
+2024-09-28 16:04:33.966 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf5 in position 0: invalid start byte"}
+2024-09-28 16:04:42.433 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf5 in position 0: invalid start byte"}
+2024-09-28 16:04:43.531 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf5 in position 0: invalid start byte"}
+2024-09-28 16:04:43.996 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf5 in position 0: invalid start byte"}

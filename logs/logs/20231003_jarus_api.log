@@ -1,0 +1,187 @@
+2023-10-03 09:20:47.794 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 09:22:02.273 ERROR json_response.py json_response - response_exception:{'message': "'toll_charges'"}
+2023-10-03 09:22:29.735 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 09:22:47.556 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-03 09:27:38.352 ERROR json_response.py json_response - response_exception:{'message': "'vehicle_reg_no'"}
+2023-10-03 09:27:50.279 ERROR json_response.py json_response - response_exception:{'message': "'vehicle_reg_no'"}
+2023-10-03 09:37:34.588 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_manager_id' referenced before assignment"}
+2023-10-03 09:39:53.420 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_manager_id' referenced before assignment"}
+2023-10-03 09:39:54.831 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_manager_id' referenced before assignment"}
+2023-10-03 09:40:04.291 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_manager_id' referenced before assignment"}
+2023-10-03 09:40:05.338 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_manager_id' referenced before assignment"}
+2023-10-03 09:41:40.204 ERROR json_response.py json_response - response_exception:{'message': "local variable 'generated_id' referenced before assignment"}
+2023-10-03 09:41:41.426 ERROR json_response.py json_response - response_exception:{'message': "local variable 'generated_id' referenced before assignment"}
+2023-10-03 09:42:27.458 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-03 09:42:28.841 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-03 09:43:03.719 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-03 09:43:04.776 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-03 09:43:25.679 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-03 09:44:51.955 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-03 09:44:53.103 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-03 09:46:49.852 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-03 09:46:51.063 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-10-03 09:48:45.261 ERROR json_response.py json_response - response_exception:{'message': "'invoice_number'"}
+2023-10-03 09:48:46.323 ERROR json_response.py json_response - response_exception:{'message': "'invoice_number'"}
+2023-10-03 09:49:09.551 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ref_manager\': \'8791e937-a455-44af-8a11-06bfc79d11c0\'}]\',\'4fa0e16e-4b1f-4546-b...\' at line 2")'}
+2023-10-03 09:51:50.148 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ref_manager\': \'8791e937-a455-44af-8a11-06bfc79d11c0\'}]\',\'4fa0e16e-4b1f-4546-b...\' at line 2")'}
+2023-10-03 09:56:22.244 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ref_manager\': \'8791e937-a455-44af-8a11-06bfc79d11c0\'}]\',\'4fa0e16e-4b1f-4546-b...\' at line 2")'}
+2023-10-03 09:57:42.522 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'4fa0e16e-4b1f-4546-bc65-afa7357d6258\';\',\'4fa0e16e-4b1f-4546-bc65-afa7357d6258...\' at line 2")'}
+2023-10-03 09:57:43.907 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'4fa0e16e-4b1f-4546-bc65-afa7357d6258\';\',\'4fa0e16e-4b1f-4546-bc65-afa7357d6258...\' at line 2")'}
+2023-10-03 09:57:50.647 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ref_manager\': \'8791e937-a455-44af-8a11-06bfc79d11c0\'}]\',\'4fa0e16e-4b1f-4546-b...\' at line 2")'}
+2023-10-03 09:59:46.802 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ref_manager\': \'8791e937-a455-44af-8a11-06bfc79d11c0\'}]\',\'4fa0e16e-4b1f-4546-b...\' at line 2")'}
+2023-10-03 10:13:22.733 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:13:24.161 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:14:14.627 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 10:14:23.970 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 10:15:12.681 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 10:15:51.184 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:19:01.781 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:26:19.801 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:26:20.947 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:27:12.951 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:27:14.008 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:31:10.172 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:31:11.260 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:33:17.927 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:34:39.485 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:34:40.522 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:35:38.719 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:37:17.496 ERROR json_response.py json_response - response_exception:{'message': "'invoice_number'"}
+2023-10-03 10:49:50.132 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:52:17.771 ERROR json_response.py json_response - response_exception:{'message': "name 'year_month' is not defined"}
+2023-10-03 10:52:18.997 ERROR json_response.py json_response - response_exception:{'message': "name 'year_month' is not defined"}
+2023-10-03 10:53:57.769 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:53:58.776 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 10:55:51.613 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:03:25.107 ERROR json_response.py json_response - response_exception:{'message': "time data '23-10' does not match format '%y%m'"}
+2023-10-03 11:03:26.958 ERROR json_response.py json_response - response_exception:{'message': "time data '23-10' does not match format '%y%m'"}
+2023-10-03 11:03:42.653 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:03:43.850 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:04:45.945 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:05:10.760 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:05:11.903 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:06:24.960 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:06:26.392 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:07:14.792 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:12:02.929 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:12:04.345 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:12:35.484 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:14:56.405 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:14:57.404 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:17:12.079 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:17:14.278 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:17:15.477 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:18:24.430 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:18:25.405 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:18:34.716 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:18:35.835 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:19:00.492 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:21:35.144 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:22:05.559 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:23:06.745 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:24:00.292 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:24:01.768 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:28:36.481 ERROR json_response.py json_response - response_exception:{'message': "local variable 'last_generated_id' referenced before assignment"}
+2023-10-03 11:28:37.688 ERROR json_response.py json_response - response_exception:{'message': "local variable 'last_generated_id' referenced before assignment"}
+2023-10-03 11:28:50.779 ERROR json_response.py json_response - response_exception:{'message': "local variable 'last_generated_id' referenced before assignment"}
+2023-10-03 11:29:17.371 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:30:29.697 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:31:22.961 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:31:24.240 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:32:08.891 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:33:36.943 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:33:38.199 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:34:32.262 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:37:15.944 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:37:37.090 ERROR json_response.py json_response - response_exception:{'message': "'JsonResponse' object has no attribute 'data'"}
+2023-10-03 11:38:07.388 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'data'"}
+2023-10-03 11:38:49.826 ERROR json_response.py json_response - response_exception:{'message': 'Object of type function is not JSON serializable'}
+2023-10-03 11:39:59.565 ERROR json_response.py json_response - response_exception:{'message': "name 'month' is not defined"}
+2023-10-03 11:41:52.194 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-10-03 11:44:53.014 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-10-03 11:46:36.918 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-10-03 11:47:13.550 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-10-03 11:47:14.635 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-10-03 11:48:25.922 ERROR json_response.py json_response - response_exception:{'message': "name 'query' is not defined"}
+2023-10-03 11:48:27.308 ERROR json_response.py json_response - response_exception:{'message': "name 'query' is not defined"}
+2023-10-03 11:50:31.495 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-10-03 11:50:32.669 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-10-03 11:50:50.419 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:50:52.054 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 11:53:45.499 ERROR json_response.py json_response - response_exception:{'message': "'misc'"}
+2023-10-03 12:32:42.488 ERROR json_response.py json_response - response_exception:{'message': "'showpassword'"}
+2023-10-03 12:33:29.021 ERROR json_response.py json_response - response_exception:{'message': "'picode'"}
+2023-10-03 12:34:28.026 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_adjuster_id' referenced before assignment"}
+2023-10-03 12:34:29.683 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_adjuster_id' referenced before assignment"}
+2023-10-03 12:43:44.789 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'st.created_date\' in \'where clause\'")'}
+2023-10-03 12:45:23.567 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'st.created_date\' in \'where clause\'")'}
+2023-10-03 12:45:36.641 ERROR json_response.py json_response - response_exception:{'message': "name 'order_by' is not defined"}
+2023-10-03 12:47:00.207 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'vehicle_id\' in \'field list\'")'}
+2023-10-03 12:47:01.469 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'vehicle_id\' in \'field list\'")'}
+2023-10-03 12:51:33.410 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'vehicle_id\' in \'field list\'")'}
+2023-10-03 14:25:21.707 ERROR json_response.py json_response - response_exception:{'message': "'user_code'"}
+2023-10-03 14:28:23.068 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'where user_id = \'88a2d34f-c787-4774-9367-580ed8997dfe\'\' at line 2")'}
+2023-10-03 14:30:34.295 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'vehicle_id\' in \'field list\'")'}
+2023-10-03 14:31:14.374 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'vehicle_master.created_date\' in \'field list\'")'}
+2023-10-03 14:31:15.657 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'vehicle_master.created_date\' in \'field list\'")'}
+2023-10-03 14:39:08.426 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'1\', \'0\'))  order by invoice_table.created_date DESC\' at line 3")'}
+2023-10-03 14:40:53.336 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'1\', \'0\'))  order by invoice_table.created_date DESC\' at line 3")'}
+2023-10-03 14:42:31.540 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'1\', \'0\'))  order by invoice_table.created_date DESC\' at line 3")'}
+2023-10-03 14:42:34.074 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'1\', \'0\'))  order by invoice_table.created_date DESC\' at line 3")'}
+2023-10-03 14:46:03.217 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 14:46:04.579 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 14:51:19.315 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 14:51:58.077 ERROR json_response.py json_response - response_exception:{'message': "name 'sql' is not defined"}
+2023-10-03 14:53:53.693 ERROR json_response.py json_response - response_exception:{'message': "name 'sql' is not defined"}
+2023-10-03 14:54:01.431 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 14:54:51.417 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 14:54:52.334 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 14:57:39.098 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 14:57:40.029 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-03 14:57:40.276 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-10-03 14:58:13.137 ERROR json_response.py json_response - response_exception:{'message': "name 'math' is not defined"}
+2023-10-03 15:02:57.316 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' invoice_table.ref_manager_id REGEXP \'943fcf1d-507a-46be-940a-1e09c8071254\'  ...\' at line 4")'}
+2023-10-03 15:03:23.852 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' invoice_table.ref_manager_id REGEXP \'INV-23-10-00001\'   order by ref_manager...\' at line 4")'}
+2023-10-03 15:07:50.493 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' invoice_table.ref_manager_id REGEXP \'INV-23-10-00001\'   order by ref_manager...\' at line 4")'}
+2023-10-03 15:07:52.943 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' invoice_table.ref_manager_id REGEXP \'INV-23-10-00001\'   order by ref_manager...\' at line 4")'}
+2023-10-03 15:07:54.281 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' invoice_table.ref_manager_id REGEXP \'INV-23-10-00001\'   order by ref_manager...\' at line 4")'}
+2023-10-03 15:09:28.606 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' invoice_table.ref_manager_id REGEXP \'8791e937-a455-44af-8a11-06bfc79d11c0\'  ...\' at line 4")'}
+2023-10-03 15:12:11.512 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' invoice_table.ref_manager_id REGEXP \'8791e937-a455-44af-8a11-06bfc79d11c0\'  ...\' at line 4")'}
+2023-10-03 15:14:39.810 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_manager_id' is not defined"}
+2023-10-03 15:15:07.647 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' invoice_table.ref_manager_id REGEXP \'8791e937-a455-44af-8a11-06bfc79d11c0\'  ...\' at line 4")'}
+2023-10-03 15:15:08.835 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' invoice_table.ref_manager_id REGEXP \'8791e937-a455-44af-8a11-06bfc79d11c0\'  ...\' at line 4")'}
+2023-10-03 15:16:48.707 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_manager_id' is not defined"}
+2023-10-03 15:27:15.435 ERROR json_response.py json_response - response_exception:{'message': "'tppd_charges'"}
+2023-10-03 15:30:35.951 ERROR json_response.py json_response - response_exception:{'message': "'tppd_charges'"}
+2023-10-03 15:30:40.647 ERROR json_response.py json_response - response_exception:{'message': "'tppd_charges'"}
+2023-10-03 16:02:10.974 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_manager_id' is not defined"}
+2023-10-03 16:17:48.194 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'id\': \'83530822-7890-4077-9d9f-4094ed2e1f3e\'}\',\'1\',now())\' at line 2")'}
+2023-10-03 16:20:13.104 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-10-03 16:33:41.768 ERROR json_response.py json_response - response_exception:{'message': "'comm_details_id'"}
+2023-10-03 16:35:55.778 ERROR json_response.py json_response - response_exception:{'message': "name 'survey_id' is not defined"}
+2023-10-03 16:36:10.853 ERROR json_response.py json_response - response_exception:{'message': "name 'survey_id' is not defined"}
+2023-10-03 16:39:11.525 ERROR json_response.py json_response - response_exception:{'message': "name 'misc_charge_type' is not defined"}
+2023-10-03 16:40:22.574 ERROR json_response.py json_response - response_exception:{'message': "name 'misc_charge_type' is not defined"}
+2023-10-03 16:45:00.716 ERROR json_response.py json_response - response_exception:{'message': "name 'misc_charge_type' is not defined"}
+2023-10-03 16:46:41.078 ERROR json_response.py json_response - response_exception:{'message': "name 'misc_charge_type' is not defined"}
+2023-10-03 16:47:48.691 ERROR json_response.py json_response - response_exception:{'message': "name 'misc_charge_type' is not defined"}
+2023-10-03 16:48:19.869 ERROR json_response.py json_response - response_exception:{'message': "name 'misc_charge_type' is not defined"}
+2023-10-03 16:55:22.813 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-10-03 17:09:03.301 ERROR json_response.py json_response - response_exception:{'message': "'misc_charge'"}
+2023-10-03 17:09:05.023 ERROR json_response.py json_response - response_exception:{'message': "'misc_charge'"}
+2023-10-03 17:16:01.488 ERROR json_response.py json_response - response_exception:{'message': "'misc'"}
+2023-10-03 17:16:03.303 ERROR json_response.py json_response - response_exception:{'message': "'misc'"}
+2023-10-03 17:19:13.714 ERROR json_response.py json_response - response_exception:{'message': "'misc'"}
+2023-10-03 17:19:15.022 ERROR json_response.py json_response - response_exception:{'message': "'misc'"}
+2023-10-03 17:19:46.056 ERROR json_response.py json_response - response_exception:{'message': "'misc'"}
+2023-10-03 17:23:02.399 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'-110,10\' at line 3")'}
+2023-10-03 17:25:44.954 ERROR json_response.py json_response - response_exception:{'message': "'misc'"}
+2023-10-03 17:38:58.786 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 17:40:32.129 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 17:40:33.132 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 17:55:47.781 ERROR json_response.py json_response - response_exception:{'message': "local variable 'man_det' referenced before assignment"}
+2023-10-03 17:55:53.597 ERROR json_response.py json_response - response_exception:{'message': "local variable 'man_det' referenced before assignment"}
+2023-10-03 17:56:33.774 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'88a2d34f-c787-4774-9367-580ed8997dfe\' at line 1")'}
+2023-10-03 17:56:59.297 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'88a2d34f-c787-4774-9367-580ed8997dfe\' at line 1")'}
+2023-10-03 17:57:43.775 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-03 17:58:10.782 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}

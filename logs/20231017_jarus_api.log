@@ -1,0 +1,30 @@
+2023-10-17 10:03:52.760 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'site_stage_masters.site_stage\' in \'where clause\'")'}
+2023-10-17 10:35:27.149 ERROR json_response.py json_response - response_exception:{'message': "'lead_type'"}
+2023-10-17 10:44:31.010 ERROR json_response.py json_response - response_exception:{'message': "'inbound'"}
+2023-10-17 10:45:00.568 ERROR json_response.py json_response - response_exception:{'message': "'outbound'"}
+2023-10-17 10:45:33.729 ERROR json_response.py json_response - response_exception:{'message': "'inbound'"}
+2023-10-17 10:45:41.458 ERROR json_response.py json_response - response_exception:{'message': "'outbound'"}
+2023-10-17 10:47:53.947 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'inbound' where it is not associated with a value"}
+2023-10-17 10:49:01.578 ERROR json_response.py json_response - response_exception:{'message': "'lead_type'"}
+2023-10-17 10:49:07.427 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'inbound' where it is not associated with a value"}
+2023-10-17 10:50:08.435 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'inbound' where it is not associated with a value"}
+2023-10-17 10:50:34.641 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'inbound' where it is not associated with a value"}
+2023-10-17 10:51:29.856 ERROR json_response.py json_response - response_exception:{'message': "'outbound'"}
+2023-10-17 11:14:13.440 ERROR json_response.py json_response - response_exception:{'message': '(1136, "Column count doesn\'t match value count at row 1")'}
+2023-10-17 11:16:02.767 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-17 11:22:55.337 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_type'"}
+2023-10-17 11:28:04.520 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 6 column 1 (char 152)'}
+2023-10-17 11:28:38.726 ERROR json_response.py json_response - response_exception:{'message': "'lead_type'"}
+2023-10-17 11:28:56.380 ERROR json_response.py json_response - response_exception:{'message': "'inbound_source'"}
+2023-10-17 11:29:54.775 ERROR json_response.py json_response - response_exception:{'message': "'inbound_source'"}
+2023-10-17 11:30:48.082 ERROR json_response.py json_response - response_exception:{'message': "'source'"}
+2023-10-17 11:33:18.724 ERROR json_response.py json_response - response_exception:{'message': "'source_id'"}
+2023-10-17 11:33:24.175 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 5 column 5 (char 128)"}
+2023-10-17 12:16:37.652 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-17 12:22:08.785 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'customer_lead_source.inbound_source\' in \'field list\'")'}
+2023-10-17 12:23:09.222 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'customer_lead_source.inbound_source\' in \'where clause\'")'}
+2023-10-17 12:54:31.795 ERROR json_response.py json_response - response_exception:{'message': "'show_password'"}
+2023-10-17 15:35:19.028 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-17 15:54:51.287 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-10-17 15:55:54.204 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2023-10-17 16:26:58.161 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for &: 'str' and 'RegexFlag'"}

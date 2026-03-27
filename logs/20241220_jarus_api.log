@@ -1,0 +1,17 @@
+2024-12-20 09:34:17.793 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-12-20 09:56:13.963 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'ref_team_id' where it is not associated with a value"}
+2024-12-20 10:40:46.887 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'team_name\' in \'field list\'")'}
+2024-12-20 10:45:33.335 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'query' where it is not associated with a value"}
+2024-12-20 15:24:05.802 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-20 15:24:47.600 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-20 15:25:12.093 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-20 15:25:48.196 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-20 15:25:49.379 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-20 15:26:10.016 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-20 15:26:35.019 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-20 15:28:49.923 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd9 in position 3: invalid continuation byte"}
+2024-12-20 15:29:11.413 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xef in position 0: invalid continuation byte"}
+2024-12-20 16:40:11.877 ERROR json_response.py json_response - response_exception:{'message': "'ref_employee_name'"}
+2024-12-20 16:47:05.036 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'ref_team_id' where it is not associated with a value"}
+2024-12-20 16:48:02.687 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'ref_team_id' where it is not associated with a value"}
+2024-12-20 16:48:17.670 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'ref_team_id' where it is not associated with a value"}

@@ -1,0 +1,14 @@
+2023-03-23 09:19:01.171 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-23 09:19:01.171 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-23 09:19:38.886 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-23 09:19:52.376 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-23 13:56:05.086 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-23 13:57:47.612 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-23 14:44:22.992 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-03-23 14:44:23.000 ERROR json_response.py json_response - response_exception:{'message': 'Object of type JSONDecodeError is not JSON serializable'}
+2023-03-23 14:49:50.046 ERROR json_response.py json_response - response_exception:{'message': "'order_notes'"}
+2023-03-23 14:49:50.046 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-23 14:50:30.361 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'oreder_notes\' in \'field list\'")'}
+2023-03-23 14:50:30.362 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2023-03-23 15:12:18.232 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd7 in position 0: unexpected end of data"}
+2023-03-23 15:12:18.233 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnicodeDecodeError is not JSON serializable'}

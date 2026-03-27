@@ -1,0 +1,67 @@
+2024-12-05 10:24:03.250 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:24:03.351 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:25:10.273 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:25:10.354 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:28:02.891 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:28:02.967 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:28:56.412 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-05 10:30:17.019 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:30:17.076 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:34:32.254 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:34:32.316 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:37:13.606 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:37:13.683 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:37:23.843 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:37:23.905 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:37:41.016 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:37:41.139 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:37:43.470 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:37:43.538 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:38:28.540 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:38:28.669 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:38:33.514 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:38:33.577 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:45:27.324 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:45:27.378 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:46:14.375 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-05 10:51:31.203 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 10:51:31.266 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:02:04.101 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:02:04.186 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:03:17.670 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:03:17.739 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:03:23.605 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:03:23.667 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:04:03.879 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:04:03.979 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:04:52.128 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:04:52.192 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:05:34.602 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:05:34.684 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:07:19.519 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:07:19.583 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:07:34.718 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:07:34.794 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:27:57.024 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-05 11:51:13.176 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:51:13.235 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:52:28.052 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-12-05 11:53:14.077 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 11:53:14.136 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa8 in position 0: invalid start byte"}
+2024-12-05 13:07:50.739 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 13:07:50.826 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 13:20:30.459 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 13:20:30.521 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 13:20:35.050 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 13:20:35.110 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 13:21:09.928 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 13:21:10.009 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 13:25:00.258 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 13:25:00.337 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 16:04:56.351 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 16:04:56.407 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x91 in position 0: invalid start byte"}
+2024-12-05 17:32:43.123 ERROR json_response.py json_response - response_exception:{'message': "'project_type'"}
+2024-12-05 17:36:57.146 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'label\': \'Test kkk\', \'value\': \'Yzg0ODkyMzUtN2M5Ny00ODBmLWI2ZGYtOTg5NDU2YzdhZmM...\' at line 1")'}
+2024-12-05 17:37:28.293 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'label\': \'Test kkk\', \'value\': \'Yzg0ODkyMzUtN2M5Ny00ODBmLWI2ZGYtOTg5NDU2YzdhZmM...\' at line 1")'}
+2024-12-05 17:42:41.129 ERROR json_response.py json_response - response_exception:{'message': "'project_type'"}
+2024-12-05 17:44:38.678 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'label\': \'Test kkk\', \'value\': \'Yzg0ODkyMzUtN2M5Ny00ODBmLWI2ZGYtOTg5NDU2YzdhZmM...\' at line 1")'}

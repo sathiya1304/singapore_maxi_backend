@@ -1,0 +1,93 @@
+2025-01-09 11:12:20.584 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:12:20.650 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:12:36.670 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:12:36.729 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:14:40.908 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2025-01-09 11:14:40.960 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2025-01-09 11:15:34.984 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:15:35.024 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:17:14.863 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:17:14.895 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:18:07.430 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:18:07.514 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:18:39.138 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2025-01-09 11:18:39.224 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2025-01-09 11:28:41.757 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2025-01-09 11:28:41.821 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2025-01-09 11:28:58.763 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:28:58.823 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:32:07.993 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'pages.created_date\' in \'order clause\'")'}
+2025-01-09 11:32:08.003 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:32:08.030 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'pages.created_date\' in \'order clause\'")'}
+2025-01-09 11:32:08.033 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:32:49.402 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'pages.created_date\' in \'order clause\'")'}
+2025-01-09 11:32:49.412 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:32:49.440 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'pages.created_date\' in \'order clause\'")'}
+2025-01-09 11:32:49.449 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:33:02.512 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'pages.created_date\' in \'order clause\'")'}
+2025-01-09 11:33:02.526 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:33:02.574 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'pages.created_date\' in \'order clause\'")'}
+2025-01-09 11:33:02.584 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:35:05.098 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:35:05.143 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:36:51.460 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:36:51.520 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:38:41.444 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:38:41.489 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:40:18.665 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:40:18.730 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.media\' doesn\'t exist")'}
+2025-01-09 11:44:39.536 ERROR json_response.py json_response - response_exception:{'message': 'check_existing_value() takes from 3 to 4 positional arguments but 6 were given'}
+2025-01-09 11:44:45.874 ERROR json_response.py json_response - response_exception:{'message': 'check_existing_value() takes from 3 to 4 positional arguments but 6 were given'}
+2025-01-09 11:51:35.082 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:51:35.466 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:51:38.281 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:51:39.399 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:51:39.582 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:51:39.799 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:51:49.285 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 11:54:54.513 ERROR json_response.py json_response - response_exception:{'message': "'user_time_zone'"}
+2025-01-09 12:14:22.263 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa1 in position 0: invalid start byte"}
+2025-01-09 12:16:50.778 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.uniquepagename\' doesn\'t exist")'}
+2025-01-09 12:17:00.859 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.uniquepagename\' doesn\'t exist")'}
+2025-01-09 12:17:07.764 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.uniquepagename\' doesn\'t exist")'}
+2025-01-09 12:29:09.417 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'star_runway.uniquecontentblockname\' doesn\'t exist")'}
+2025-01-09 12:55:28.540 ERROR json_response.py json_response - response_exception:{'message': "'CreatedAt'"}
+2025-01-09 12:55:28.592 ERROR json_response.py json_response - response_exception:{'message': "'CreatedAt'"}
+2025-01-09 12:56:28.807 ERROR json_response.py json_response - response_exception:{'message': "'CreatedAt'"}
+2025-01-09 12:56:28.846 ERROR json_response.py json_response - response_exception:{'message': "'CreatedAt'"}
+2025-01-09 13:20:08.174 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'enquiry_table.CreatedAt\' in \'where clause\'")'}
+2025-01-09 13:20:16.169 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'enquiry_table.CreatedAt\' in \'where clause\'")'}
+2025-01-09 13:20:35.150 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'enquiry_table.CreatedAt\' in \'where clause\'")'}
+2025-01-09 13:20:38.758 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'enquiry_table.CreatedAt\' in \'where clause\'")'}
+2025-01-09 13:20:46.496 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'enquiry_table.CreatedAt\' in \'where clause\'")'}
+2025-01-09 15:56:19.767 ERROR json_response.py json_response - response_exception:{'message': "'CreatedAt'"}
+2025-01-09 15:56:32.831 ERROR json_response.py json_response - response_exception:{'message': "'CreatedAt'"}
+2025-01-09 15:56:32.861 ERROR json_response.py json_response - response_exception:{'message': "'CreatedAt'"}
+2025-01-09 15:57:32.171 ERROR json_response.py json_response - response_exception:{'message': "'CreatedAt'"}
+2025-01-09 15:57:32.213 ERROR json_response.py json_response - response_exception:{'message': "'CreatedAt'"}
+2025-01-09 15:59:12.388 ERROR json_response.py json_response - response_exception:{'message': "password_validation() missing 1 required positional argument: 'field_name'"}
+2025-01-09 15:59:31.254 ERROR json_response.py json_response - response_exception:{'message': "password_validation() missing 1 required positional argument: 'field_name'"}
+2025-01-09 16:08:06.958 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2025-01-09 16:10:58.185 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2025-01-09 16:12:56.871 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:12:58.758 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:13:31.837 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2025-01-09 16:15:14.240 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:15:45.968 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2025-01-09 16:16:35.083 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2025-01-09 16:17:07.506 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:17:13.048 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:17:21.163 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:17:21.204 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:18:07.977 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:18:31.847 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:23:25.838 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:23:25.871 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:29:49.993 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:29:50.051 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:45:12.114 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:45:12.191 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:46:50.986 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:46:51.029 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:46:55.350 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-09 16:47:00.470 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}

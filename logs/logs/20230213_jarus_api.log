@@ -1,0 +1,7 @@
+2023-02-13 16:47:31.349 ERROR json_response.py json_response - response_exception:{'message': "'test'"}
+2023-02-13 16:51:15.411 ERROR json_response.py json_response - response_exception:{'message': "'test'"}
+2023-02-13 16:51:54.851 ERROR json_response.py json_response - response_exception:{'message': "'col1'"}
+2023-02-13 16:53:16.625 ERROR json_response.py json_response - response_exception:{'message': "'col1'"}
+2023-02-13 16:54:17.447 ERROR json_response.py json_response - response_exception:{'message': "'col1'"}
+2023-02-13 16:54:50.712 ERROR json_response.py json_response - response_exception:{'message': 'column "col_1" of relation "demo" does not exist\nLINE 1: INSERT INTO public.demo (col_1) VALUES(\'d\');\n                                 ^\n'}
+2023-02-13 17:00:05.355 ERROR json_response.py json_response - response_exception:{'message': 'column "col_1" of relation "demo" does not exist\nLINE 1: INSERT INTO public.demo (col_1) VALUES(\'d\');\n                                 ^\n'}

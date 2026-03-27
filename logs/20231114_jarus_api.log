@@ -1,0 +1,90 @@
+2023-11-14 09:21:20.328 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-14 09:23:53.896 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-14 09:24:10.097 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_user_id' is not defined"}
+2023-11-14 09:24:25.969 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-14 09:24:51.668 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_user_id' is not defined"}
+2023-11-14 09:29:26.170 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_user_id\' in \'field list\'")'}
+2023-11-14 09:29:44.681 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_user_id\' in \'field list\'")'}
+2023-11-14 09:29:45.932 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_user_id\' in \'field list\'")'}
+2023-11-14 09:32:31.603 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_user_id' is not defined"}
+2023-11-14 09:34:50.694 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_user_id' is not defined"}
+2023-11-14 09:36:37.019 ERROR json_response.py json_response - response_exception:{'message': "name 'ref_user_id' is not defined"}
+2023-11-14 09:38:15.216 ERROR json_response.py json_response - response_exception:{'message': "local variable 'assigning_user_id' referenced before assignment"}
+2023-11-14 09:57:42.359 ERROR json_response.py json_response - response_exception:{'message': "'8cdfe1b8-a274-4129-8d07-089d062fea3c'"}
+2023-11-14 09:57:56.848 ERROR json_response.py json_response - response_exception:{'message': "'8cdfe1b8-a274-4129-8d07-089d062fea3c'"}
+2023-11-14 10:40:28.763 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'from assign_lead_table where ref_lead_id = \'330087fa-4bea-4bb7-9854-76ee1ea6b...\' at line 1")'}
+2023-11-14 10:45:28.432 ERROR json_response.py json_response - response_exception:{'message': "local variable 'assigning_user_id' referenced before assignment"}
+2023-11-14 11:18:49.728 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_user_id\' in \'field list\'")'}
+2023-11-14 11:20:38.123 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-14 11:21:20.701 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-14 11:21:49.084 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-14 11:22:18.217 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-14 11:25:47.875 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-14 11:27:04.355 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-14 11:33:19.098 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-14 11:34:58.864 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-14 11:35:21.110 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-14 12:48:06.821 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM assign_lead_table AS alt\\n\\n                            LEFT JOIN relation...\' at line 23")'}
+2023-11-14 12:49:14.370 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.ref_user_id\' in \'field list\'")'}
+2023-11-14 12:50:57.322 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'relationship_table.ref_lead_id\' in \'on clause\'")'}
+2023-11-14 13:12:11.752 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM assign_lead_table AS alt\\n\\n                            LEFT JOIN relation...\' at line 25")'}
+2023-11-14 13:14:08.912 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'relationship_table.ref_from_id\' in \'field list\'")'}
+2023-11-14 13:23:37.665 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM assign_lead_table AS alt\\n\\n                            WHERE alt.ref_lead...\' at line 21")'}
+2023-11-14 14:32:26.268 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_id\' in \'field list\'")'}
+2023-11-14 14:32:42.741 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_id\' in \'field list\'")'}
+2023-11-14 14:34:07.310 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_id\' in \'field list\'")'}
+2023-11-14 14:41:04.883 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'leads_table\'")'}
+2023-11-14 14:41:41.367 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'leads_table\'")'}
+2023-11-14 14:41:43.890 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'leads_table\'")'}
+2023-11-14 14:42:03.486 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'leads_table\'")'}
+2023-11-14 14:42:22.839 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'leads_table\'")'}
+2023-11-14 14:42:43.399 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM leads_table \\n\\n                        lEFT JOIN user_master ON user_mast...\' at line 29")'}
+2023-11-14 14:42:50.967 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.leads_table.active_status\' in \'field list\'")'}
+2023-11-14 14:43:54.248 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'.ref_from_id as ref_from_id,\\n                        relationship_table.ref_t...\' at line 28")'}
+2023-11-14 14:44:02.372 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'leads_table\'")'}
+2023-11-14 14:44:35.488 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'leads_table\'")'}
+2023-11-14 14:46:21.769 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\\n                        relationship_table.ref_to_id as ref_to_id,\\n         ...\' at line 29")'}
+2023-11-14 14:47:08.863 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\\n                        relationship_table.ref_to_id as ref_to_id,\\n         ...\' at line 29")'}
+2023-11-14 14:54:09.850 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_from_id.user_name\' in \'field list\'")'}
+2023-11-14 15:00:28.419 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'ON user_master.user_id = leads_table.ref_user_id\\n                        lEFT...\' at line 35")'}
+2023-11-14 15:08:48.378 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.ref_user_id2\' in \'on clause\'")'}
+2023-11-14 15:10:07.376 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.ref_user_id\' in \'on clause\'")'}
+2023-11-14 15:10:30.328 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'usm.user_id1\' in \'on clause\'")'}
+2023-11-14 15:16:19.021 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'user_master\'")'}
+2023-11-14 15:16:50.254 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'usm\'")'}
+2023-11-14 15:16:51.192 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'usm\'")'}
+2023-11-14 15:17:06.402 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.ref_user_id\' in \'on clause\'")'}
+2023-11-14 15:46:50.203 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'user_master\'")'}
+2023-11-14 15:47:17.272 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.us\' in \'field list\'")'}
+2023-11-14 15:47:18.300 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.us\' in \'field list\'")'}
+2023-11-14 15:47:40.901 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.us\' in \'field list\'")'}
+2023-11-14 15:48:28.133 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.ref_user_id\' in \'on clause\'")'}
+2023-11-14 15:48:29.210 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.ref_user_id\' in \'on clause\'")'}
+2023-11-14 15:54:28.850 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user\' in \'on clause\'")'}
+2023-11-14 15:58:07.768 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.user_name\' in \'field list\'")'}
+2023-11-14 16:00:27.028 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.user_name\' in \'field list\'")'}
+2023-11-14 16:00:28.330 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.user_name\' in \'field list\'")'}
+2023-11-14 16:01:24.864 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us1.user_name\' in \'field list\'")'}
+2023-11-14 16:02:01.785 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.user_name\' in \'field list\'")'}
+2023-11-14 16:02:02.960 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.user_name\' in \'field list\'")'}
+2023-11-14 16:02:17.693 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us1.user_name\' in \'field list\'")'}
+2023-11-14 16:02:26.706 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us1.user_id\' in \'on clause\'")'}
+2023-11-14 16:03:52.995 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'as us.user_id\\n\\n\\n                \\n                        WHERE leads_table.le...\' at line 41")'}
+2023-11-14 16:04:13.447 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'as us.user_id\\n\\n\\n                \\n                        WHERE leads_table.le...\' at line 41")'}
+2023-11-14 16:05:23.309 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'as user_master.user_id\\n\\n\\n                \\n                        WHERE leads...\' at line 41")'}
+2023-11-14 16:05:45.635 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.user_name\' in \'field list\'")'}
+2023-11-14 16:05:46.845 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'us.user_name\' in \'field list\'")'}
+2023-11-14 16:12:34.118 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'usm.user_name\' in \'field list\'")'}
+2023-11-14 16:36:47.291 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'relationship_table.ref_from_id\' in \'field list\'")'}
+2023-11-14 16:38:09.615 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'relationship_table.ref_from_id\' in \'field list\'")'}
+2023-11-14 16:47:03.743 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'relationship_table.ref_to_id\' in \'on clause\'")'}
+2023-11-14 16:47:29.118 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'relationship_table.ref_to_id\' in \'field list\'")'}
+2023-11-14 16:47:30.172 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'relationship_table.ref_to_id\' in \'field list\'")'}
+2023-11-14 16:47:44.762 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'relationship_table.ref_from_id\' in \'field list\'")'}
+2023-11-14 16:47:56.574 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'rt.ref_from_id\' in \'on clause\'")'}
+2023-11-14 16:49:38.950 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'FROM leads_table\\n\\n                        lEFT JOIN user_master ON user_maste...\' at line 30")'}
+2023-11-14 16:52:45.562 ERROR json_response.py json_response - response_exception:{'message': "local variable 'lead_id' referenced before assignment"}
+2023-11-14 17:33:44.882 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-14 18:01:12.635 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'where ref_lead_id = \'0011d6a2-963d-4948-85d2-3bb83136e8ee\'\' at line 5")'}
+2023-11-14 18:02:30.367 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'created_date\' in order clause is ambiguous")'}
+2023-11-14 18:02:31.732 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'created_date\' in order clause is ambiguous")'}

@@ -1,0 +1,3 @@
+2023-06-14 09:45:54.743 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-06-14 12:01:33.112 ERROR json_response.py json_response - response_exception:{'message': 'str.replace() takes no keyword arguments'}
+2023-06-14 12:01:33.124 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}

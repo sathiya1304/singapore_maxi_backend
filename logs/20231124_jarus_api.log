@@ -1,0 +1,45 @@
+2023-11-24 11:04:04.482 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-24 11:18:49.735 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-24 11:18:57.264 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-24 11:18:57.315 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-24 11:25:20.839 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-24 11:25:20.887 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-24 11:54:35.376 ERROR json_response.py json_response - response_exception:{'message': "''"}
+2023-11-24 11:54:36.896 ERROR json_response.py json_response - response_exception:{'message': "''"}
+2023-11-24 11:55:58.845 ERROR json_response.py json_response - response_exception:{'message': "''"}
+2023-11-24 11:55:59.942 ERROR json_response.py json_response - response_exception:{'message': "''"}
+2023-11-24 12:01:47.407 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-24 12:03:20.913 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-24 12:06:29.197 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-24 12:06:30.433 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-24 14:46:44.949 ERROR json_response.py json_response - response_exception:{'message': "'barnd_name'"}
+2023-11-24 14:46:45.890 ERROR json_response.py json_response - response_exception:{'message': "'barnd_name'"}
+2023-11-24 14:46:48.745 ERROR json_response.py json_response - response_exception:{'message': "'barnd_name'"}
+2023-11-24 14:47:37.101 ERROR json_response.py json_response - response_exception:{'message': "'barnd_name'"}
+2023-11-24 14:50:10.179 ERROR json_response.py json_response - response_exception:{'message': "local variable 'img_path' referenced before assignment"}
+2023-11-24 14:53:44.506 ERROR json_response.py json_response - response_exception:{'message': "name 'bar_logo' is not defined"}
+2023-11-24 14:54:35.225 ERROR json_response.py json_response - response_exception:{'message': '(1136, "Column count doesn\'t match value count at row 1")'}
+2023-11-24 15:22:33.169 ERROR json_response.py json_response - response_exception:{'message': "'product_image_path'"}
+2023-11-24 16:16:56.410 ERROR json_response.py json_response - response_exception:{'message': "'stage'"}
+2023-11-24 16:30:03.833 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-11-24 16:30:37.494 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-11-24 16:30:42.600 ERROR json_response.py json_response - response_exception:{'message': "local variable 'event_name' referenced before assignment"}
+2023-11-24 16:35:41.972 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-24 16:36:22.086 ERROR json_response.py json_response - response_exception:{'message': "'event_name'"}
+2023-11-24 16:36:45.276 ERROR json_response.py json_response - response_exception:{'message': "'event_location'"}
+2023-11-24 16:46:49.908 ERROR json_response.py json_response - response_exception:{'message': "'stage'"}
+2023-11-24 16:46:58.800 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 10 column 1 (char 230)'}
+2023-11-24 16:50:53.086 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-11-24 16:51:00.502 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 10 column 1 (char 109)'}
+2023-11-24 16:51:04.784 ERROR json_response.py json_response - response_exception:{'message': "'qr_name'"}
+2023-11-24 16:51:14.446 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 10 column 1 (char 175)'}
+2023-11-24 16:51:18.545 ERROR json_response.py json_response - response_exception:{'message': "'event_name'"}
+2023-11-24 16:51:26.682 ERROR json_response.py json_response - response_exception:{'message': "'event_location'"}
+2023-11-24 17:04:42.861 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'um.active_status\' in \'where clause\'")'}
+2023-11-24 17:11:44.186 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 10 column 1 (char 175)'}
+2023-11-24 17:11:54.206 ERROR json_response.py json_response - response_exception:{'message': "'event_name'"}
+2023-11-24 17:12:08.020 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 10 column 1 (char 213)'}
+2023-11-24 17:15:16.093 ERROR json_response.py json_response - response_exception:{'message': "'unique_data_id'"}
+2023-11-24 18:08:49.624 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-11-24 18:15:06.403 ERROR json_response.py json_response - response_exception:{'message': "local variable 'qurey' referenced before assignment"}
+2023-11-24 18:16:57.863 ERROR json_response.py json_response - response_exception:{'message': ''}

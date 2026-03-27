@@ -1,0 +1,46 @@
+2023-10-25 09:13:41.590 ERROR json_response.py json_response - response_exception:{'message': "'username'"}
+2023-10-25 11:37:32.398 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-25 12:00:45.110 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-25 12:10:38.266 ERROR json_response.py json_response - response_exception:{'message': "'username'"}
+2023-10-25 12:11:20.949 ERROR json_response.py json_response - response_exception:{'message': "'otp'"}
+2023-10-25 12:12:43.862 ERROR json_response.py json_response - response_exception:{'message': "'new_password'"}
+2023-10-25 12:14:18.524 ERROR json_response.py json_response - response_exception:{'message': "'confirm_password'"}
+2023-10-25 12:14:39.196 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'showpassword\' in \'field list\'")'}
+2023-10-25 13:10:53.454 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-25 13:11:23.865 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-10-25 13:11:39.517 ERROR json_response.py json_response - response_exception:{'message': "'current_password'"}
+2023-10-25 13:11:59.251 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-10-25 13:12:48.120 ERROR json_response.py json_response - response_exception:{'message': "'showpassword'"}
+2023-10-25 13:13:22.801 ERROR json_response.py json_response - response_exception:{'message': "'new_password'"}
+2023-10-25 13:13:37.630 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 8 column 1 (char 95)'}
+2023-10-25 13:13:45.070 ERROR json_response.py json_response - response_exception:{'message': "'confirm_password'"}
+2023-10-25 13:24:17.190 ERROR json_response.py json_response - response_exception:{'message': "'current_password'"}
+2023-10-25 14:55:01.985 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-25 14:55:12.396 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-25 16:12:46.193 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-10-25 16:13:05.927 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 22 column 1 (char 406)'}
+2023-10-25 16:14:47.995 ERROR json_response.py json_response - response_exception:{'message': "'additional_details'"}
+2023-10-25 17:18:54.493 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-25 17:28:44.580 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_id'"}
+2023-10-25 17:53:29.059 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-25 18:03:21.012 ERROR json_response.py json_response - response_exception:{'message': "'user_name'"}
+2023-10-25 18:05:54.847 ERROR json_response.py json_response - response_exception:{'message': "'user_name'"}
+2023-10-25 18:06:10.287 ERROR json_response.py json_response - response_exception:{'message': "'user_name'"}
+2023-10-25 18:09:39.908 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-25 18:09:39.909 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-25 18:09:40.019 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-25 18:09:40.019 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-25 18:09:49.513 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-25 18:09:49.513 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-25 18:09:49.562 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-25 18:09:49.562 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-25 18:09:59.538 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-25 18:09:59.538 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-25 18:10:09.530 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-25 18:10:09.530 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-25 18:10:19.526 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-25 18:10:19.526 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-25 18:10:29.981 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-25 18:10:29.981 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-25 18:10:39.969 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-25 18:10:39.969 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}

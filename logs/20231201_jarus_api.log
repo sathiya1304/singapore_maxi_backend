@@ -1,0 +1,31 @@
+2023-12-01 15:16:52.557 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-12-01 15:16:58.975 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-12-01 15:17:13.867 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-12-01 15:17:44.138 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-12-01 15:17:54.457 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-12-01 15:29:48.787 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-12-01 15:53:53.164 ERROR json_response.py json_response - response_exception:{'message': '(1136, "Column count doesn\'t match value count at row 1")'}
+2023-12-01 15:54:49.013 ERROR json_response.py json_response - response_exception:{'message': '(1136, "Column count doesn\'t match value count at row 1")'}
+2023-12-01 15:56:59.190 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'where ref_lead_id = \'0ea5193f-148a-4ff0-ae7a-a76972341844\'\' at line 12")'}
+2023-12-01 16:05:01.806 ERROR json_response.py json_response - response_exception:{'message': "'created_by'"}
+2023-12-01 16:05:07.999 ERROR json_response.py json_response - response_exception:{'message': "'created_by'"}
+2023-12-01 16:32:52.084 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-12-01 16:32:57.364 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-12-01 16:40:03.362 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-12-01 16:40:11.283 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-12-01 18:10:59.410 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-12-01 18:17:39.367 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:17:39.367 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:17:39.400 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:17:48.194 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:17:48.198 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:17:48.231 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:19:30.884 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:19:30.895 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:19:30.930 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:20:49.739 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:20:49.747 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:20:49.785 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:32:23.833 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:32:23.836 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}
+2023-12-01 18:32:23.869 ERROR json_response.py json_response - response_exception:{'message': "local variable 'order_field' referenced before assignment"}

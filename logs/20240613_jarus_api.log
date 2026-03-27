@@ -1,0 +1,10 @@
+2024-06-13 12:50:33.672 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-06-13 12:50:33.739 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-06-13 12:50:53.728 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-06-13 12:50:53.806 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-06-13 13:21:04.654 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}
+2024-06-13 13:21:39.776 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}
+2024-06-13 13:24:01.810 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-06-13 13:24:16.521 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-06-13 13:25:39.714 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}
+2024-06-13 13:27:49.984 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}

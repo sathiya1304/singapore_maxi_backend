@@ -1,0 +1,139 @@
+2024-08-09 11:54:29.101 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'email\' in \'where clause\'")'}
+2024-08-09 11:54:42.140 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'email\' in \'where clause\'")'}
+2024-08-09 11:56:02.038 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege\' doesn\'t exist")'}
+2024-08-09 11:56:02.039 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2024-08-09 11:56:02.182 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 11:56:02.192 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 11:56:02.573 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege\' doesn\'t exist")'}
+2024-08-09 11:56:02.574 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2024-08-09 11:56:02.693 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege\' doesn\'t exist")'}
+2024-08-09 11:56:02.693 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2024-08-09 11:56:02.808 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege\' doesn\'t exist")'}
+2024-08-09 11:56:02.809 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2024-08-09 11:57:48.548 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege\' doesn\'t exist")'}
+2024-08-09 11:57:48.551 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2024-08-09 11:57:48.998 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege\' doesn\'t exist")'}
+2024-08-09 11:57:48.999 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2024-08-09 11:57:49.125 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege\' doesn\'t exist")'}
+2024-08-09 11:57:49.126 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2024-08-09 11:57:49.250 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege\' doesn\'t exist")'}
+2024-08-09 11:57:49.251 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2024-08-09 12:06:09.398 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 12:06:09.411 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 12:07:19.657 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 12:07:19.666 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 12:10:39.007 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 12:10:39.015 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 12:11:13.168 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 12:11:13.177 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 12:15:58.976 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:15:58.987 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:16:27.907 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:16:27.917 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:17:50.614 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:17:50.626 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:17:51.905 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:21:44.641 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'@123\',\\n                \'pbkdf2_sha256$720000$9K4fw2UVjGzI21IfqN2P92$KzV+0jZa5...\' at line 2")'}
+2024-08-09 12:21:50.865 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:21:50.873 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:21:58.935 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:22:10.171 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'@123\',\\n                \'pbkdf2_sha256$720000$X5dkh6kNiJzfNmQm5nZZsm$1FN07l9vH...\' at line 2")'}
+2024-08-09 12:23:26.368 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:23:27.697 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:23:39.616 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:25:59.003 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:26:03.859 ERROR json_response.py json_response - response_exception:{'message': "password_validation() missing 1 required positional argument: 'field_name'"}
+2024-08-09 12:26:53.799 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:29:08.545 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:29:36.556 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 12:35:46.177 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 12:35:46.186 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.registration\' doesn\'t exist")'}
+2024-08-09 12:35:52.553 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.competition\' doesn\'t exist")'}
+2024-08-09 12:35:52.556 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:35:52.563 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.competition\' doesn\'t exist")'}
+2024-08-09 12:35:52.565 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:36:03.637 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:36:05.070 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:39:03.135 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:40:26.686 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:41:04.655 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:41:19.685 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:41:19.696 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:41:21.012 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:42:38.705 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:42:38.714 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:42:41.149 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:43:12.625 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:43:12.634 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:43:13.646 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:43:53.574 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:43:53.583 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:43:54.662 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:45:34.453 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:45:41.219 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.compt_registration\' doesn\'t exist")'}
+2024-08-09 12:50:46.695 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.competition\' doesn\'t exist")'}
+2024-08-09 12:51:06.300 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.competition\' doesn\'t exist")'}
+2024-08-09 12:51:06.309 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.competition\' doesn\'t exist")'}
+2024-08-09 12:51:07.091 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.competition\' doesn\'t exist")'}
+2024-08-09 12:51:50.055 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.paymode_master\' doesn\'t exist")'}
+2024-08-09 12:51:50.063 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.paymode_master\' doesn\'t exist")'}
+2024-08-09 12:51:53.098 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.paymode_master\' doesn\'t exist")'}
+2024-08-09 12:52:09.662 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.paymode_master\' doesn\'t exist")'}
+2024-08-09 14:54:19.053 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 14:54:39.339 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 15:00:19.182 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.attendance_table\' doesn\'t exist")'}
+2024-08-09 15:00:19.197 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.attendance_table\' doesn\'t exist")'}
+2024-08-09 15:05:26.487 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 15:05:26.500 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 15:06:14.127 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 15:06:14.971 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 15:06:19.716 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 15:07:13.199 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 15:15:35.943 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 15:15:35.953 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 15:15:37.654 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 15:15:43.613 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 15:31:41.800 ERROR json_response.py json_response - response_exception:{'message': "'project_code'"}
+2024-08-09 16:02:36.887 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-08-09 16:02:36.902 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-08-09 16:02:45.053 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-08-09 16:03:11.465 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-08-09 16:05:36.140 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-08-09 16:05:36.152 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-08-09 16:05:37.609 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-08-09 16:05:53.550 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-08-09 16:06:37.660 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-08-09 16:06:46.257 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-08-09 16:07:23.942 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:07:23.952 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:07:26.181 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:07:51.295 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:08:21.729 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:09:05.124 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:09:05.132 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:09:38.202 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:09:38.213 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:10:12.463 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:10:12.474 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-08-09 16:47:55.596 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.attendance_table\' doesn\'t exist")'}
+2024-08-09 16:47:55.610 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.attendance_table\' doesn\'t exist")'}
+2024-08-09 16:55:34.066 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.attendance_table\' doesn\'t exist")'}
+2024-08-09 16:55:34.075 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.attendance_table\' doesn\'t exist")'}
+2024-08-09 17:04:24.776 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:04:24.784 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:11:25.027 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:11:25.035 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:11:26.553 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:11:37.460 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:12:09.397 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:12:22.860 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:12:24.427 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:12:45.013 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:14:34.602 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:14:34.613 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:14:56.225 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:15:46.412 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:41:59.605 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 17:41:59.614 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 18:10:33.245 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-09 18:10:33.253 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}

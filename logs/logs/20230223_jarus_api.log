@@ -1,0 +1,28 @@
+2023-02-23 09:22:14.307 ERROR json_response.py json_response - response_exception:{'message': "'cus_name'"}
+2023-02-23 09:39:56.213 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'quantity_list' where it is not associated with a value"}
+2023-02-23 09:43:33.051 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2023-02-23 09:44:00.359 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'product_count' where it is not associated with a value"}
+2023-02-23 09:45:31.810 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-23 09:47:43.479 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-23 09:49:01.407 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'user_name' where it is not associated with a value"}
+2023-02-23 10:09:01.070 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 7 column 9 (char 202)"}
+2023-02-23 10:24:57.941 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'responce' where it is not associated with a value"}
+2023-02-23 10:43:05.395 ERROR json_response.py json_response - response_exception:{'message': "name 'rec' is not defined"}
+2023-02-23 10:44:55.556 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-02-23 10:48:42.162 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 7 column 9 (char 206)"}
+2023-02-23 11:06:55.256 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 9 column 30 (char 270)'}
+2023-02-23 11:07:49.331 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 13 column 13 (char 380)'}
+2023-02-23 11:08:53.510 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'gst' where it is not associated with a value"}
+2023-02-23 11:10:10.350 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-02-23 11:10:42.971 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-02-23 11:11:05.314 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}
+2023-02-23 11:13:18.628 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}
+2023-02-23 11:18:10.356 ERROR json_response.py json_response - response_exception:{'message': "'product_name'"}
+2023-02-23 11:19:43.096 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'total_price' where it is not associated with a value"}
+2023-02-23 11:44:43.155 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 7 column 9 (char 204)"}
+2023-02-23 14:43:53.568 ERROR json_response.py json_response - response_exception:{'message': "'rqty'"}
+2023-02-23 15:54:17.359 ERROR json_response.py json_response - response_exception:{'message': 'column "product_id" does not exist\nLINE 1: ...ate public.order_table set reserver_qty = 5 where product_id...\n                                                             ^\n'}
+2023-02-23 15:55:44.214 ERROR json_response.py json_response - response_exception:{'message': 'column "product_name" does not exist\nLINE 1: ...ate public.order_table set reserver_qty = 5 where product_na...\n                                                             ^\n'}
+2023-02-23 15:56:42.453 ERROR json_response.py json_response - response_exception:{'message': 'column "ginger" does not exist\nLINE 1: ...duct_table set reserver_qty = 5 where product_name = Ginger;\n                                                                ^\n'}
+2023-02-23 16:00:54.013 ERROR json_response.py json_response - response_exception:{'message': "'order_id'"}
+2023-02-23 16:42:49.092 ERROR json_response.py json_response - response_exception:{'message': "'qty'"}

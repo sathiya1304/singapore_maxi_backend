@@ -1,0 +1,75 @@
+2024-05-09 10:46:29.720 ERROR json_response.py json_response - response_exception:{'message': "'ref_compt_id'"}
+2024-05-09 10:53:37.490 ERROR json_response.py json_response - response_exception:{'message': "'eligibility'"}
+2024-05-09 14:56:01.191 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'stud_id\' in \'field list\'")'}
+2024-05-09 14:57:07.959 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'stud_id\' in \'field list\'")'}
+2024-05-09 14:57:39.802 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'stud_id\' in \'field list\'")'}
+2024-05-09 14:58:11.516 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2024-05-09 14:59:46.033 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2024-05-09 15:00:41.722 ERROR json_response.py json_response - response_exception:{'message': "'stud_id'"}
+2024-05-09 15:01:44.610 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-05-09 15:14:32.373 ERROR json_response.py json_response - response_exception:{'message': "int() argument must be a string, a bytes-like object or a real number, not 'list'"}
+2024-05-09 15:16:02.763 ERROR json_response.py json_response - response_exception:{'message': 'invalid literal for int() with base 10: \'sonResponse status_code=200, "application/json">\''}
+2024-05-09 15:16:05.443 ERROR json_response.py json_response - response_exception:{'message': 'invalid literal for int() with base 10: \'sonResponse status_code=200, "application/json">\''}
+2024-05-09 15:23:23.158 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2024-05-09 15:25:22.333 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2024-05-09 16:08:10.924 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-05-09 16:13:22.238 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-09 16:14:10.707 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
+2024-05-09 16:16:46.891 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-09 16:17:11.534 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-09 16:25:56.562 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_name\' in \'field list\'")'}
+2024-05-09 16:53:34.516 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'orstudent_metrics.notes REGEXP \'place\' )\' at line 3")'}
+2024-05-09 16:55:04.328 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'orstudent_metrics.notes REGEXP \'place\' )\' at line 3")'}
+2024-05-09 18:28:17.243 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:17.243 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:17.243 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:17.259 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:21.930 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:21.930 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:21.930 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:21.930 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:41.948 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:41.948 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:42.963 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:43.007 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:43.007 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:56.384 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:56.384 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:56.384 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:28:56.384 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:16.409 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:16.424 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:17.456 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:17.472 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:17.472 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:28.119 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:28.135 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:28.151 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:28.151 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:48.178 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:48.193 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:49.176 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:49.176 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:49.192 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:59.782 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:59.817 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:59.817 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:29:59.829 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:30:19.780 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:30:19.801 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:30:20.860 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:30:20.860 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:30:20.875 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:00.320 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:00.320 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:00.320 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:00.336 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:20.346 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:20.377 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:21.360 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:21.379 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:21.395 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:37.403 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:41.393 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:57.449 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-05-09 18:31:57.496 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}

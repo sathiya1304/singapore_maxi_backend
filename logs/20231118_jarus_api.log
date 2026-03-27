@@ -1,0 +1,27 @@
+2023-11-18 10:06:46.894 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.date_difference\' in \'field list\'")'}
+2023-11-18 10:06:53.607 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.date_difference\' in \'field list\'")'}
+2023-11-18 10:07:15.332 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.date_difference\' in \'field list\'")'}
+2023-11-18 10:07:17.432 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.date_difference\' in \'field list\'")'}
+2023-11-18 10:07:17.462 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.date_difference\' in \'field list\'")'}
+2023-11-18 10:07:19.496 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.date_difference\' in \'field list\'")'}
+2023-11-18 10:07:20.713 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.date_difference\' in \'field list\'")'}
+2023-11-18 10:07:20.731 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.date_difference\' in \'field list\'")'}
+2023-11-18 10:07:38.844 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.date_difference\' in \'field list\'")'}
+2023-11-18 10:07:38.858 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'alt.date_difference\' in \'field list\'")'}
+2023-11-18 10:17:15.045 ERROR json_response.py json_response - response_exception:{'message': "'stage'"}
+2023-11-18 12:19:56.946 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-18 12:20:32.400 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \') VALUES (\\n                                                                  ...\' at line 11")'}
+2023-11-18 12:21:00.098 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \') VALUES (\\n                                                                  ...\' at line 11")'}
+2023-11-18 12:21:02.098 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \') VALUES (\\n                                                                  ...\' at line 11")'}
+2023-11-18 12:37:40.309 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-18 12:43:59.585 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_id\' in \'field list\'")'}
+2023-11-18 14:59:10.489 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'last_follwups.lead_status\' in \'where clause\'")'}
+2023-11-18 15:00:58.916 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'last_follwups.status\' in \'where clause\'")'}
+2023-11-18 15:02:20.220 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'last_follwups.status\' in \'where clause\'")'}
+2023-11-18 15:28:15.451 ERROR json_response.py json_response - response_exception:{'message': "'stage'"}
+2023-11-18 16:53:44.196 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-18 16:53:52.907 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-18 16:59:04.221 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-11-18 17:06:23.867 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-18 17:26:39.904 ERROR json_response.py json_response - response_exception:{'message': "name 'get_all_sql' is not defined"}
+2023-11-18 17:26:43.651 ERROR json_response.py json_response - response_exception:{'message': "name 'get_all_sql' is not defined"}

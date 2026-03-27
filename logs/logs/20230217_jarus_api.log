@@ -1,0 +1,49 @@
+2023-02-17 09:49:23.886 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "*"\nLINE 1: DELETE * FROM public.product_table WHERE id IN (\',\'.join({16...\n               ^\n'}
+2023-02-17 09:51:31.393 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "."\nLINE 1: DELETE FROM public.product_table WHERE id IN (\',\'.join({161,...\n                                                         ^\n'}
+2023-02-17 09:52:58.624 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "{"\nLINE 1: DELETE FROM public.product_table WHERE id IN ({161, 162, 163...\n                                                      ^\n'}
+2023-02-17 10:02:52.027 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near ")"\nLINE 1: DELETE FROM public.product_table WHERE id IN (220,);\n                                                          ^\n'}
+2023-02-17 10:17:50.521 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near ")"\nLINE 1: DELETE FROM public.product_table WHERE id IN (141,);\n                                                          ^\n'}
+2023-02-17 10:27:14.805 ERROR json_response.py json_response - response_exception:{'message': "'set'"}
+2023-02-17 11:23:05.068 ERROR json_response.py json_response - response_exception:{'message': "name 'requset_body' is not defined"}
+2023-02-17 11:23:36.061 ERROR json_response.py json_response - response_exception:{'message': "'active_status'"}
+2023-02-17 11:27:54.381 ERROR json_response.py json_response - response_exception:{'message': "name 'sql1' is not defined"}
+2023-02-17 11:54:51.314 ERROR json_response.py json_response - response_exception:{'message': 'column "w6d09zvpyw" does not exist\nLINE 1: ...ustomer_master (cus_id,cus_name,phone_no) VALUES (w6d09zVPYW...\n                                                             ^\n'}
+2023-02-17 11:58:20.265 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "csYnSSLGI"\nLINE 1: ...stomer_master (cus_id,cus_name,phone_no) VALUES (8csYnSSLGI,...\n                                                             ^\n'}
+2023-02-17 12:06:15.791 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-02-17 12:06:48.990 ERROR json_response.py json_response - response_exception:{'message': "'cus_id'"}
+2023-02-17 12:07:50.389 ERROR json_response.py json_response - response_exception:{'message': "'cus_id'"}
+2023-02-17 12:13:12.288 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 4 column 9 (char 38)"}
+2023-02-17 12:13:21.784 ERROR json_response.py json_response - response_exception:{'message': "string indices must be integers, not 'str'"}
+2023-02-17 12:14:26.183 ERROR json_response.py json_response - response_exception:{'message': "string indices must be integers, not 'str'"}
+2023-02-17 12:21:13.657 ERROR json_response.py json_response - response_exception:{'message': "'cus_name'"}
+2023-02-17 12:22:59.850 ERROR json_response.py json_response - response_exception:{'message': "operator does not exist: character varying = integer\nLINE 1: ... cus_name = 'Rahul', phone_no = 8798767124 where cus_id = 1;\n                                                                   ^\nHINT:  No operator matches the given name and argument types. You might need to add explicit type casts.\n"}
+2023-02-17 12:23:50.613 ERROR json_response.py json_response - response_exception:{'message': "operator does not exist: character varying = integer\nLINE 1: ... cus_name = 'Rahul', phone_no = 8798767124 where cus_id = 1;\n                                                                   ^\nHINT:  No operator matches the given name and argument types. You might need to add explicit type casts.\n"}
+2023-02-17 12:34:02.788 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 3 column 18 (char 27)'}
+2023-02-17 12:53:09.295 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 4 column 9 (char 49)"}
+2023-02-17 13:00:01.249 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'message' where it is not associated with a value"}
+2023-02-17 14:12:45.815 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-17 14:12:45.815 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-17 14:15:08.933 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-17 14:15:08.933 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-17 14:17:28.538 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-17 14:17:28.538 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-02-17 15:36:08.919 ERROR json_response.py json_response - response_exception:{'message': "'cus_id'"}
+2023-02-17 15:38:48.342 ERROR json_response.py json_response - response_exception:{'message': "name 'mes' is not defined"}
+2023-02-17 15:53:57.616 ERROR json_response.py json_response - response_exception:{'message': "name 'sql1' is not defined"}
+2023-02-17 15:54:16.346 ERROR json_response.py json_response - response_exception:{'message': 'unterminated quoted string at or near "\'milk"\nLINE 1: ...uct_id from public.product_master where product_name = \'milk\n                                                                  ^\n'}
+2023-02-17 15:55:41.928 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}
+2023-02-17 16:06:37.815 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}
+2023-02-17 16:12:01.046 ERROR json_response.py json_response - response_exception:{'message': 'Replacement index 0 out of range for positional args tuple'}
+2023-02-17 16:14:34.111 ERROR json_response.py json_response - response_exception:{'message': 'Replacement index 0 out of range for positional args tuple'}
+2023-02-17 16:15:15.424 ERROR json_response.py json_response - response_exception:{'message': 'Replacement index 0 out of range for positional args tuple'}
+2023-02-17 16:21:35.664 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'response' where it is not associated with a value"}
+2023-02-17 16:22:17.017 ERROR json_response.py json_response - response_exception:{'message': "name 'rec' is not defined"}
+2023-02-17 17:07:05.383 ERROR json_response.py json_response - response_exception:{'message': 'column "batch" of relation "stock_batch" does not exist\nLINE 1:  insert into public.stock_batch (product_id,price,batch) val...\n                                                          ^\n'}
+2023-02-17 17:15:29.344 ERROR json_response.py json_response - response_exception:{'message': "name 'pritn' is not defined"}
+2023-02-17 17:19:06.648 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 5 column 9 (char 46)"}
+2023-02-17 17:26:58.101 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-02-17 17:35:31.737 ERROR json_response.py json_response - response_exception:{'message': "'str' object is not callable"}
+2023-02-17 17:52:18.160 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}
+2023-02-17 17:54:47.730 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}
+2023-02-17 17:57:19.321 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}
+2023-02-17 18:00:55.119 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}

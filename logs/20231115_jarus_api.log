@@ -1,0 +1,100 @@
+2023-11-15 10:01:22.405 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'relationship_table.ref_from_id\' in \'where clause\'")'}
+2023-11-15 10:02:32.773 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'relationship_table.ref_from_id\' in \'where clause\'")'}
+2023-11-15 10:05:56.727 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'LEFT JOIN relationship_table as rlt ON rlt.ref_lead_id = leads_table.lead_id\'...\' at line 37")'}
+2023-11-15 10:05:58.011 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'LEFT JOIN relationship_table as rlt ON rlt.ref_lead_id = leads_table.lead_id\'...\' at line 37")'}
+2023-11-15 10:06:45.751 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'LEFT JOIN relationship_table as rlt ON rlt.ref_lead_id = leads_table.lead_id ...\' at line 37")'}
+2023-11-15 10:06:46.794 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'LEFT JOIN relationship_table as rlt ON rlt.ref_lead_id = leads_table.lead_id ...\' at line 37")'}
+2023-11-15 10:07:43.958 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'LEFT JOIN relationship_table as rlt ON rlt.ref_lead_id = leads_table.lead_id ...\' at line 37")'}
+2023-11-15 10:07:44.909 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'LEFT JOIN relationship_table as rlt ON rlt.ref_lead_id = leads_table.lead_id ...\' at line 37")'}
+2023-11-15 10:09:32.189 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table LEFT JOIN relationship_table as rlt ON rlt.ref_lead...\' at line 37")'}
+2023-11-15 10:09:33.193 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table LEFT JOIN relationship_table as rlt ON rlt.ref_lead...\' at line 37")'}
+2023-11-15 10:15:04.859 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:18:10.120 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:18:20.554 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:24:19.147 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:30:41.244 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:31:30.769 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:33:00.008 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:33:27.603 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:33:47.150 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:33:48.200 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:33:51.907 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:36:09.139 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:38:06.422 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:38:25.189 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:38:32.629 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:39:53.492 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:40:34.877 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:40:54.032 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:41:05.364 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:41:21.287 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:42:29.143 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-11-15 10:53:45.277 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table LEFT JOIN relationship_table as rlt ON rlt.ref_lead...\' at line 37")'}
+2023-11-15 11:27:44.681 ERROR json_response.py json_response - response_exception:{'message': "name 'format_query' is not defined"}
+2023-11-15 11:28:09.790 ERROR json_response.py json_response - response_exception:{'message': "name 'format_query' is not defined"}
+2023-11-15 12:00:25.711 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-15 12:17:42.645 ERROR json_response.py json_response - response_exception:{'message': "'extra_order'"}
+2023-11-15 12:18:03.060 ERROR json_response.py json_response - response_exception:{'message': "'extra_order'"}
+2023-11-15 12:18:15.263 ERROR json_response.py json_response - response_exception:{'message': "'extra_order'"}
+2023-11-15 12:18:30.269 ERROR json_response.py json_response - response_exception:{'message': "'extra_order'"}
+2023-11-15 12:19:15.593 ERROR json_response.py json_response - response_exception:{'message': "'extra_order'"}
+2023-11-15 12:33:33.541 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.ref_user_id\' in \'field list\'")'}
+2023-11-15 12:51:28.392 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and user_type in (3,4)\' at line 1")'}
+2023-11-15 12:51:35.144 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and user_type in (3,4)\' at line 1")'}
+2023-11-15 12:51:55.878 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and user_type in (3,4)\' at line 1")'}
+2023-11-15 12:52:03.090 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and user_type in (3,4)\' at line 1")'}
+2023-11-15 12:52:20.890 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and user_type in (3,4)\' at line 1")'}
+2023-11-15 12:52:56.651 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and user_type in (3,4)\' at line 1")'}
+2023-11-15 12:54:37.486 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 12:54:42.882 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 12:56:34.677 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 12:56:41.010 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 12:57:02.224 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 12:57:33.628 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 12:58:00.230 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 12:58:01.333 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 12:58:46.578 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 13:14:07.842 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-15 13:24:00.119 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_type' referenced before assignment"}
+2023-11-15 13:24:10.384 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_type' referenced before assignment"}
+2023-11-15 13:24:11.504 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_type' referenced before assignment"}
+2023-11-15 13:24:56.350 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_type' referenced before assignment"}
+2023-11-15 13:25:35.647 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 13:25:48.902 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 13:25:55.693 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 13:26:04.369 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 13:26:16.076 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 13:26:22.822 ERROR json_response.py json_response - response_exception:{'message': "name 'get_type' is not defined"}
+2023-11-15 13:28:24.990 ERROR json_response.py json_response - response_exception:{'message': "'followup_notes'"}
+2023-11-15 13:35:27.928 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-15 15:08:41.754 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-15 15:08:54.323 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-15 15:09:13.571 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-15 15:11:04.912 ERROR json_response.py json_response - response_exception:{'message': "local variable 'user_id' referenced before assignment"}
+2023-11-15 15:11:51.306 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2023-11-15 15:12:11.022 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.user_id\' in \'where clause\'")'}
+2023-11-15 15:13:57.903 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select user_name from user_master where ref_manager_id = \'c06b7e1e-8850-4c7e-...\' at line 4")'}
+2023-11-15 15:14:02.137 ERROR json_response.py json_response - response_exception:{'message': "'followup_notes'"}
+2023-11-15 15:14:46.116 ERROR json_response.py json_response - response_exception:{'message': "'followup_notes'"}
+2023-11-15 15:14:52.846 ERROR json_response.py json_response - response_exception:{'message': "'followup_notes'"}
+2023-11-15 15:17:24.103 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2023-11-15 15:19:50.224 ERROR json_response.py json_response - response_exception:{'message': "'followup_notes'"}
+2023-11-15 15:21:20.126 ERROR json_response.py json_response - response_exception:{'message': "'followup_notes'"}
+2023-11-15 15:22:10.198 ERROR json_response.py json_response - response_exception:{'message': "'assigning_user_id'"}
+2023-11-15 15:31:49.171 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.ref_manager_id\' in \'where clause\'")'}
+2023-11-15 15:33:44.581 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.ref_manager_id\' in \'where clause\'")'}
+2023-11-15 15:42:26.055 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.ref_manager_id\' in \'where clause\'")'}
+2023-11-15 15:43:36.955 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-15 15:43:42.825 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-15 15:43:51.355 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-15 15:44:05.424 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-15 15:44:18.255 ERROR json_response.py json_response - response_exception:{'message': "name 'search_query' is not defined"}
+2023-11-15 15:44:43.462 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-11-15 15:49:15.682 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.ref_manager_id\' in \'where clause\'")'}
+2023-11-15 15:51:54.296 ERROR json_response.py json_response - response_exception:{'message': "local variable 'match_id' referenced before assignment"}
+2023-11-15 15:54:13.496 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.ref_manager_id\' in \'where clause\'")'}
+2023-11-15 16:04:11.522 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'shantthi_ceramics.um\' doesn\'t exist")'}
+2023-11-15 17:09:13.826 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-11-15 17:09:51.255 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-11-15 17:26:38.424 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \':%i %p\') as assign_time,\\n                            alt.status as status,\\n  ...\' at line 11")'}
+2023-11-15 17:33:47.530 ERROR json_response.py json_response - response_exception:{'message': "'manager_id'"}

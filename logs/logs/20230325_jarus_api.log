@@ -1,0 +1,12 @@
+2023-03-25 12:39:35.358 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-25 12:40:12.853 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-25 12:42:03.106 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-03-25 12:42:03.107 ERROR json_response.py json_response - response_exception:{'message': 'Object of type MultiValueDictKeyError is not JSON serializable'}
+2023-03-25 13:44:55.331 ERROR json_response.py json_response - response_exception:{'message': "'order_id'"}
+2023-03-25 13:44:55.340 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-25 17:14:53.888 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-03-25 17:14:53.904 ERROR json_response.py json_response - response_exception:{'message': 'Object of type IndexError is not JSON serializable'}
+2023-03-25 17:15:21.423 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: '400.50'"}
+2023-03-25 17:15:21.423 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}
+2023-03-25 17:17:56.165 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: '400.50'"}
+2023-03-25 17:17:56.166 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}

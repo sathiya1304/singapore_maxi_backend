@@ -1,0 +1,425 @@
+2024-08-13 09:31:09.003 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.attendance_table\' doesn\'t exist")'}
+2024-08-13 09:31:09.017 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.attendance_table\' doesn\'t exist")'}
+2024-08-13 09:41:44.732 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 09:41:44.734 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.client_contact_table\' doesn\'t exist")'}
+2024-08-13 09:41:44.742 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 09:41:44.747 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.client_contact_table\' doesn\'t exist")'}
+2024-08-13 09:44:44.621 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 09:44:44.623 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.client_contact_table\' doesn\'t exist")'}
+2024-08-13 09:44:44.629 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 09:44:44.632 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.client_contact_table\' doesn\'t exist")'}
+2024-08-13 10:15:48.704 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:15:48.710 ERROR json_response.py json_response - response_exception:{'message': "'sales_person_id'"}
+2024-08-13 10:15:48.716 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:15:48.723 ERROR json_response.py json_response - response_exception:{'message': "'sales_person_id'"}
+2024-08-13 10:18:04.707 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:18:04.717 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:33:34.412 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:33:34.711 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:33:34.759 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:33:34.809 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:33:34.867 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:33:34.904 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:34:39.881 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:34:39.960 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:34:40.023 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:34:40.100 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:34:40.182 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:34:40.193 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:36:47.178 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:36:47.237 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:36:47.253 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:37:05.283 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:37:05.378 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:37:05.459 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:37:05.571 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:37:05.636 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:37:05.659 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:39:23.557 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:39:23.656 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:39:23.708 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:39:23.826 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:39:23.828 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:39:23.906 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:44:02.445 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:44:02.549 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:44:02.563 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:44:02.702 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:44:02.723 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:44:02.795 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:44:22.738 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:44:22.843 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:44:22.859 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:44:22.996 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:44:23.000 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:44:23.060 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:46:33.067 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:46:33.166 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:46:33.179 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:46:33.309 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:46:33.319 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:46:33.406 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:49:08.240 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:49:08.331 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:49:08.343 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:49:08.490 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:49:08.492 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:49:08.576 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:49:36.149 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:49:36.241 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:49:36.256 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:49:36.430 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:49:36.430 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:49:36.495 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:15.348 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:15.357 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:16.966 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:17.052 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:51:17.109 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:17.159 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:51:17.202 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:17.243 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:48.181 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:48.192 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:49.424 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:49.498 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:51:49.555 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:49.627 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:51:49.689 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:51:49.704 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:53:11.848 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:53:11.951 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:53:11.968 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:53:12.124 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:53:12.129 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:53:12.214 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:59:44.402 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:59:44.508 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:59:44.525 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:59:44.657 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 10:59:44.657 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 10:59:44.751 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:05:04.738 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:05:04.839 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:05:04.855 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:05:05.003 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:05:05.011 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:05:05.104 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:05:54.239 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:05:54.329 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:05:54.339 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:05:54.492 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:05:54.498 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:05:54.573 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:06:52.672 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:06:52.777 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:06:52.789 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:06:52.946 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:06:52.948 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:06:53.051 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:09:34.411 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:09:34.499 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:09:34.513 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:09:34.654 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:09:34.656 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:09:34.736 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:13:11.480 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:13:11.567 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:13:11.633 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:13:11.690 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:13:11.773 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:13:11.785 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:22:05.091 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:22:05.224 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:22:05.241 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:22:05.451 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:22:05.497 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:22:05.595 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:25:23.623 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:25:23.755 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:25:23.854 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:25:23.922 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:25:24.047 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:25:24.074 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:25:36.340 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:25:36.447 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:25:36.461 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:25:36.597 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:25:36.598 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:25:36.681 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:26:43.126 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:26:43.224 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:26:43.240 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:26:43.386 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:26:43.403 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:26:43.481 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department\' in \'field list\'")'}
+2024-08-13 11:28:25.383 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:28:25.509 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:28:31.193 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:28:31.327 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:30:16.028 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:30:16.233 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:31:47.440 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:31:47.446 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:31:47.463 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:31:47.472 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:31:47.546 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:31:47.559 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:31:47.578 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:31:47.579 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:31:47.604 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:31:47.618 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:32:42.335 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.country_master\' doesn\'t exist")'}
+2024-08-13 11:32:42.335 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:32:42.348 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:32:42.351 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:32:42.450 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_management.country_master\' doesn\'t exist")'}
+2024-08-13 11:32:42.452 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:32:42.462 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:32:42.469 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:32:42.481 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:32:42.493 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:34:40.031 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:34:40.042 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:34:40.043 ERROR json_response.py json_response - response_exception:{'message': "'modified_date'"}
+2024-08-13 11:34:40.056 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:34:40.148 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:34:40.154 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:34:40.155 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:34:40.159 ERROR json_response.py json_response - response_exception:{'message': "'modified_date'"}
+2024-08-13 11:34:40.168 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:34:40.179 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:37:44.101 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:37:44.134 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:37:44.143 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:37:44.233 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:37:44.256 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:37:44.261 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:37:44.278 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:37:44.285 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2024-08-13 11:38:22.264 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:38:22.269 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:38:22.299 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:38:22.393 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:38:22.397 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:38:22.408 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:38:22.437 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:38:22.456 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:39:50.591 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:39:50.624 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:39:50.630 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:39:50.783 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:39:50.784 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 11:39:50.785 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:39:50.832 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:39:50.845 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:41:49.310 ERROR json_response.py json_response - response_exception:{'message': "'first_name'"}
+2024-08-13 11:42:02.877 ERROR json_response.py json_response - response_exception:{'message': "'first_name'"}
+2024-08-13 11:43:22.637 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-08-13 11:49:24.476 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-08-13 11:50:55.570 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-08-13 11:51:55.195 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (89) cannot be 1 more than a multiple of 4'}
+2024-08-13 11:54:57.279 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-08-13 11:56:23.522 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-08-13 11:59:25.164 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (93) cannot be 1 more than a multiple of 4'}
+2024-08-13 12:02:29.178 ERROR json_response.py json_response - response_exception:{'message': "'dict' object has no attribute 'designation'"}
+2024-08-13 12:16:51.147 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2024-08-13 12:18:19.110 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'7458965412\',\'7458965412\',\'maya@gmail.com\',\'test address\',\'3593808900652275\',...\' at line 1")'}
+2024-08-13 12:20:58.656 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'7458965412\',\'7458965412\',\'maya@gmail.com\',\'test address\',\'3593808900652275\',...\' at line 1")'}
+2024-08-13 12:21:37.924 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'7458965412\',\'7458965412\',\'maya@gmail.com\',\'test address\',\'3593808900652275\',...\' at line 1")'}
+2024-08-13 12:23:17.340 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'7458965412\',\'7458965412\',\'maya@gmail.com\',\'test address\',\'3593808900652275\',...\' at line 1")'}
+2024-08-13 12:25:05.466 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\\n        \'7458965412\',\\n        \'7458965412\',\\n        \'maya@gmail.com\',\\n      ...\' at line 7")'}
+2024-08-13 12:31:33.977 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'7458965412\',\'7458965412\',\'maya@gmail.com\',\'test address\',\'3593808900652275\',...\' at line 1")'}
+2024-08-13 12:35:31.694 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'7458965412\',\'7458965412\',\'maya@gmail.com\',\'test address\',\'3593808900652275\',...\' at line 1")'}
+2024-08-13 12:36:14.128 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'7458965412\',\'7458965412\',\'maya@gmail.com\',\'test address\',\'3593808900652275\',...\' at line 1")'}
+2024-08-13 12:37:19.451 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'7458965412\',\'7458965412\',\'maya@gmail.com\',\'test address\',\'3593808900652275\',...\' at line 1")'}
+2024-08-13 12:38:48.877 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'7458965412\',\'7458965412\',\'maya@gmail.com\',\'test address\',\'3593808900652275\',...\' at line 1")'}
+2024-08-13 12:39:02.640 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 12:39:02.706 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 12:39:02.774 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 12:39:02.777 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 12:39:02.814 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 12:39:02.850 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 12:39:02.865 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 12:39:02.878 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 12:41:27.880 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'74589654125\',\'7458965412\',\'masha@gmail.com\',\'address\',\'3593808900652275\',\'10...\' at line 1")'}
+2024-08-13 12:49:24.935 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'74589654125\',\'7458965412\',\'masha@gmail.com\',\'address\',\'3593808900652275\',\'10...\' at line 1")'}
+2024-08-13 12:49:57.774 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'74589654125\',\'7458965412\',\'masha@gmail.com\',\'address\',\'3593808900652275\',\'10...\' at line 1")'}
+2024-08-13 12:50:58.602 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'74589654125\',\'7458965412\',\'masha@gmail.com\',\'address\',\'3593808900652275\',\'10...\' at line 1")'}
+2024-08-13 12:56:05.758 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'74589654125\',\'7458965412\',\'masha@gmail.com\',\'address\',\'3593808900652275\',\'10...\' at line 1")'}
+2024-08-13 13:13:16.453 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'74589654125\',\'7458965412\',\'masha@gmail.com\',\'address\',\'3593808900652275\',\'10...\' at line 1")'}
+2024-08-13 13:15:16.075 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'74589654125\',\'7458965412\',\'masha@gmail.com\',\'address\',\'3593808900652275\',\'10...\' at line 1")'}
+2024-08-13 13:25:24.892 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:25:24.930 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 13:25:24.944 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:25:25.069 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:25:25.081 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 13:25:25.116 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:25:25.131 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:25:25.139 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:27:30.969 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:27:30.993 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 13:27:31.000 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:27:31.113 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:27:31.125 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:27:31.127 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 13:27:31.155 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:27:31.165 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:57:49.421 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:57:49.432 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 13:57:49.459 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:57:49.590 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:57:49.593 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 13:57:49.622 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:57:49.643 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 13:57:49.661 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:12:49.087 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:12:49.129 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:12:49.201 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:12:49.229 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:12:49.252 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:12:49.282 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:12:49.297 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:12:49.307 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:20:32.671 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:20:32.700 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:20:32.705 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:20:32.807 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:20:32.835 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:20:32.836 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:20:32.849 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:20:32.863 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:08.206 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:08.235 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:21:08.238 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:08.364 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:08.378 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:08.379 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:21:08.410 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:08.421 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:22.806 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:22.826 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:21:22.833 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:22.928 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:22.931 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:21:22.953 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:22.976 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:21:22.986 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:27:06.644 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:27:06.657 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:27:06.681 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:27:06.756 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:27:06.789 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:27:06.790 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:27:06.834 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:27:06.840 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:34:04.803 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:34:04.827 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:34:04.834 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:34:04.946 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:34:04.977 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:34:04.989 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:34:05.012 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:34:05.021 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:47:23.248 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:47:23.282 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:47:23.289 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:47:23.357 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:47:23.407 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:47:23.420 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:47:23.443 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:47:23.459 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:34.558 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:34.587 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:50:34.596 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:34.698 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:34.712 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:50:34.727 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:34.746 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:34.759 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:42.877 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:42.931 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:50:42.937 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:43.026 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:43.054 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 15:50:43.073 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:43.094 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 15:50:43.103 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:08:02.275 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xc3 in position 1: invalid continuation byte"}
+2024-08-13 17:10:57.485 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:10:57.493 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:10:57.521 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:10:57.641 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:10:57.652 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:10:57.653 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:10:57.682 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:10:57.696 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:25:48.717 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:25:48.741 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:25:48.754 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:25:48.799 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:25:48.848 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:25:48.849 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:25:48.881 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:25:48.895 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:28:41.436 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:28:41.486 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:28:41.487 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:28:41.516 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:28:41.596 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:28:41.598 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:28:41.622 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:28:41.645 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:31:57.561 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:31:57.565 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:31:57.610 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:31:57.720 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:31:57.722 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:31:57.756 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:31:57.778 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:31:57.792 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:32:05.885 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:32:05.913 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:32:05.919 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:32:06.017 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:32:06.044 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:32:06.045 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:32:06.057 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:32:06.069 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:36:51.507 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:36:51.529 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:36:51.536 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:36:51.639 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:36:51.651 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:36:51.654 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:36:51.682 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:36:51.690 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:41:16.732 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-08-13 17:43:06.648 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-08-13 17:44:04.851 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-08-13 17:48:17.823 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:48:17.846 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:48:17.851 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:48:17.953 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:48:17.980 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 17:48:17.981 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:48:17.995 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 17:48:18.004 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:09:40.860 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 18:09:40.972 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 18:09:43.192 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 18:09:43.328 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 18:11:17.122 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:11:17.130 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 18:11:17.155 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:11:17.290 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:11:17.292 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'department_master.created_by\' in \'where clause\'")'}
+2024-08-13 18:11:17.321 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:11:17.342 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:11:17.352 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:15:15.966 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:15:15.973 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:15:16.004 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:15:16.008 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:15:16.040 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-13 18:15:16.050 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}

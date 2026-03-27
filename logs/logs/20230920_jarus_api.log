@@ -1,0 +1,10 @@
+2023-09-20 15:49:10.603 ERROR json_response.py json_response - response_exception:{'message': "'name'"}
+2023-09-20 15:54:54.499 ERROR json_response.py json_response - response_exception:{'message': "authorize() missing 1 required positional argument: 'access_token'"}
+2023-09-20 15:55:31.461 ERROR json_response.py json_response - response_exception:{'message': "name 'aut' is not defined"}
+2023-09-20 16:02:02.654 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'show_password\' in \'where clause\'")'}
+2023-09-20 17:00:21.225 ERROR json_response.py json_response - response_exception:{'message': "'Settings' object has no attribute 'AUTH_KEY'"}
+2023-09-20 17:00:21.228 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-09-20 17:01:47.796 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_access_token\' in \'where clause\'")'}
+2023-09-20 17:02:12.177 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_access_token\' in \'field list\'")'}
+2023-09-20 17:55:00.157 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-09-20 17:59:56.286 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}

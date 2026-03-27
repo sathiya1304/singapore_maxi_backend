@@ -1,0 +1,48 @@
+2023-10-27 09:34:26.161 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-27 09:34:52.187 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-27 09:35:25.750 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-27 09:36:47.697 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'c72fbf31\' in \'where clause\'")'}
+2023-10-27 09:37:23.780 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.created_date\' in \'order clause\'")'}
+2023-10-27 09:47:32.755 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_id'"}
+2023-10-27 10:40:34.592 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-10-27 10:40:38.377 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-10-27 11:12:13.891 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-10-27 11:12:20.369 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-10-27 11:12:37.146 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-10-27 11:37:41.093 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and um.active_status IN (1,0)  order by um.created_date DESC   limit 0,10\' at line 4")'}
+2023-10-27 11:37:48.878 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and um.active_status IN (1,0)  order by um.created_date DESC   limit 0,10\' at line 4")'}
+2023-10-27 12:33:07.165 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-10-27 12:37:46.063 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-10-27 13:26:41.790 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'(leads_table.created_date, \'%b %d, %Y | %l:%i %p\') as created_f_date,leads_ta...\' at line 25")'}
+2023-10-27 15:00:25.481 ERROR json_response.py json_response - response_exception:{'message': "'next'"}
+2023-10-27 15:00:40.711 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 18 column 1 (char 450)'}
+2023-10-27 15:00:45.641 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-10-27 15:01:03.635 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-27 15:01:14.771 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-27 16:40:42.979 ERROR json_response.py json_response - response_exception:{'message': "local variable 'lead_id' referenced before assignment"}
+2023-10-27 17:00:10.273 ERROR json_response.py json_response - response_exception:{'message': "'followup_status'"}
+2023-10-27 17:03:48.236 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-27 17:04:15.735 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-27 17:04:21.426 ERROR json_response.py json_response - response_exception:{'message': "local variable 'next' referenced before assignment"}
+2023-10-27 17:05:27.201 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-27 17:12:18.660 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-27 17:21:47.407 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-27 17:23:30.442 ERROR json_response.py json_response - response_exception:{'message': "'followup_status'"}
+2023-10-27 17:25:31.523 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 19 column 1 (char 495)'}
+2023-10-27 17:25:40.675 ERROR json_response.py json_response - response_exception:{'message': "'followup_status'"}
+2023-10-27 17:47:31.732 ERROR json_response.py json_response - response_exception:{'message': "'followup_status'"}
+2023-10-27 17:50:32.315 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2023-10-27 17:50:43.332 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2023-10-27 17:54:04.477 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2023-10-27 18:02:50.451 ERROR json_response.py json_response - response_exception:{'message': "'followup_status'"}
+2023-10-27 18:03:42.168 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2023-10-27 18:03:46.803 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2023-10-27 18:04:03.790 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2023-10-27 18:08:14.067 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-27 18:08:16.527 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-27 18:08:40.793 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-27 18:08:51.707 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-10-27 18:09:05.178 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-27 18:09:12.180 ERROR json_response.py json_response - response_exception:{'message': "local variable 'next' referenced before assignment"}
+2023-10-27 18:10:09.621 ERROR json_response.py json_response - response_exception:{'message': "'followup_status'"}
+2023-10-27 18:10:15.777 ERROR json_response.py json_response - response_exception:{'message': "'followup_status'"}

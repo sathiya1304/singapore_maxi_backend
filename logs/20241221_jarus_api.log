@@ -1,0 +1,6 @@
+2024-12-21 11:06:41.689 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-21 11:41:05.728 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-21 11:41:05.742 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-21 11:41:05.753 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-21 11:41:05.765 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}
+2024-12-21 11:41:25.779 ERROR json_response.py json_response - response_exception:{'message': "(1242, 'Subquery returns more than 1 row')"}

@@ -1,0 +1,24 @@
+2023-02-28 10:00:00.036 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 11:27:21.256 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-02-28 11:27:21.257 ERROR json_response.py json_response - response_exception:{'message': 'Object of type MultiValueDictKeyError is not JSON serializable'}
+2023-02-28 11:52:52.844 ERROR json_response.py json_response - response_exception:{'message': "name 'get_user_name' is not defined"}
+2023-02-28 11:52:52.844 ERROR json_response.py json_response - response_exception:{'message': 'Object of type NameError is not JSON serializable'}
+2023-02-28 11:56:15.882 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'formt'"}
+2023-02-28 11:56:15.882 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-02-28 13:04:14.074 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 13:04:51.241 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 14:05:58.395 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 14:15:02.204 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 14:30:30.672 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 14:48:35.421 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 14:49:17.601 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 14:51:14.547 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 14:51:50.687 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 15:03:47.612 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 15:05:08.655 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 15:05:39.743 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 16:03:10.410 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 16:04:37.210 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 16:10:06.674 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 16:10:32.479 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-02-28 16:35:06.382 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}

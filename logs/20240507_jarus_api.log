@@ -1,0 +1,29 @@
+2024-05-07 10:14:24.428 ERROR json_response.py json_response - response_exception:{'message': "expected string or bytes-like object, got 'NoneType'"}
+2024-05-07 10:14:27.539 ERROR json_response.py json_response - response_exception:{'message': "expected string or bytes-like object, got 'NoneType'"}
+2024-05-07 10:32:22.661 ERROR json_response.py json_response - response_exception:{'message': "'reg_mobile'"}
+2024-05-07 10:33:21.154 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'created_by\' in \'field list\'")'}
+2024-05-07 11:06:07.418 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'attendance_table.reg_stud_dob\' in \'field list\'")'}
+2024-05-07 11:36:21.538 ERROR json_response.py json_response - response_exception:{'message': "'att_date_to'"}
+2024-05-07 11:36:35.162 ERROR json_response.py json_response - response_exception:{'message': "'att_date_to'"}
+2024-05-07 11:37:45.469 ERROR json_response.py json_response - response_exception:{'message': "'att_date_to'"}
+2024-05-07 11:39:10.553 ERROR json_response.py json_response - response_exception:{'message': "'att_date_to'"}
+2024-05-07 12:43:03.835 ERROR json_response.py json_response - response_exception:{'message': "argument should be a bytes-like object or ASCII string, not 'NoneType'"}
+2024-05-07 12:48:47.322 ERROR json_response.py json_response - response_exception:{'message': "argument should be a bytes-like object or ASCII string, not 'NoneType'"}
+2024-05-07 12:58:24.887 ERROR json_response.py json_response - response_exception:{'message': "'is_web_reg'"}
+2024-05-07 13:08:21.188 ERROR json_response.py json_response - response_exception:{'message': "argument should be a bytes-like object or ASCII string, not 'NoneType'"}
+2024-05-07 13:08:30.541 ERROR json_response.py json_response - response_exception:{'message': "argument should be a bytes-like object or ASCII string, not 'NoneType'"}
+2024-05-07 15:03:59.449 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'\',\'\',\'293b8f7f-9207-42e3-80d2-793a94d85d47\',\'\',0,0,\'2024-05-07 09:33:55.8880...\' at line 1")'}
+2024-05-07 15:33:33.174 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-07 15:35:27.372 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-07 15:36:49.573 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-07 15:40:17.115 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-07 15:43:12.011 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-05-07 16:05:49.438 ERROR json_response.py json_response - response_exception:{'message': "'approval_status'"}
+2024-05-07 16:06:54.066 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'modified_date = \'2024-05-07 10:36:54.042840\', modified_by = \'01\' \\n           ...\' at line 2")'}
+2024-05-07 16:19:32.115 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-07 16:20:23.267 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-07 16:21:21.386 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-05-07 16:21:54.896 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-05-07 17:40:24.206 ERROR json_response.py json_response - response_exception:{'message': "'reg_user_id'"}
+2024-05-07 17:40:24.220 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-05-07 18:11:39.737 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}

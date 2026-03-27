@@ -1,0 +1,61 @@
+2023-10-09 10:04:41.702 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-09 10:05:06.325 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'showpassword\' in \'field list\'")'}
+2023-10-09 10:05:07.790 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'showpassword\' in \'field list\'")'}
+2023-10-09 10:05:59.137 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-09 11:03:22.537 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-09 11:11:42.438 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-09 11:12:39.623 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_code\' in \'field list\'")'}
+2023-10-09 11:12:43.811 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_code\' in \'field list\'")'}
+2023-10-09 11:12:45.603 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_code\' in \'field list\'")'}
+2023-10-09 11:12:48.624 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_code\' in \'field list\'")'}
+2023-10-09 11:20:51.560 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-09 11:32:15.833 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:41:34.388 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:47:12.118 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:47:20.860 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:47:21.926 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:47:28.717 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:47:41.381 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-09 11:47:44.838 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:48:51.383 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:49:37.974 ERROR json_response.py json_response - response_exception:{'message': "name 'table_name' is not defined"}
+2023-10-09 11:50:01.998 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:50:37.444 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:55:04.981 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 11:55:06.116 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 12:04:28.353 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-09 12:04:32.416 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 12:05:53.332 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 12:07:30.715 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 12:07:31.758 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 12:09:27.918 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 12:10:03.050 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 12:10:23.923 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-09 12:10:26.873 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'data' where it is not associated with a value"}
+2023-10-09 12:15:08.367 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-10-09 12:16:41.195 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'shantthi_ceramics.vehicle_variants\' doesn\'t exist")'}
+2023-10-09 12:25:51.673 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-09 12:30:36.629 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-09 14:57:47.513 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-09 14:58:00.048 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-09 15:03:28.739 ERROR json_response.py json_response - response_exception:{'message': "name 'auth_token' is not defined"}
+2023-10-09 15:05:17.108 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-09 15:05:18.324 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-09 15:26:35.749 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'username\' in \'field list\'")'}
+2023-10-09 15:31:00.188 ERROR json_response.py json_response - response_exception:{'message': "'show_password'"}
+2023-10-09 15:37:08.559 ERROR json_response.py json_response - response_exception:{'message': "name 'user_name' is not defined"}
+2023-10-09 15:38:32.676 ERROR json_response.py json_response - response_exception:{'message': "name 'user_name' is not defined"}
+2023-10-09 15:38:58.075 ERROR json_response.py json_response - response_exception:{'message': "'user_name'"}
+2023-10-09 15:51:13.580 ERROR json_response.py json_response - response_exception:{'message': "'show_password'"}
+2023-10-09 15:57:52.794 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'result' where it is not associated with a value"}
+2023-10-09 15:57:54.212 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'result' where it is not associated with a value"}
+2023-10-09 16:04:22.498 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 5 column 1 (char 108)'}
+2023-10-09 16:04:27.972 ERROR json_response.py json_response - response_exception:{'message': "'show_password'"}
+2023-10-09 16:04:53.108 ERROR json_response.py json_response - response_exception:{'message': "name 'show_password' is not defined"}
+2023-10-09 16:48:17.332 ERROR json_response.py json_response - response_exception:{'message': "'otp_number'"}
+2023-10-09 17:09:31.194 ERROR json_response.py json_response - response_exception:{'message': "name 'access_token' is not defined"}
+2023-10-09 17:12:56.471 ERROR json_response.py json_response - response_exception:{'message': "name 'data' is not defined"}
+2023-10-09 17:13:54.521 ERROR json_response.py json_response - response_exception:{'message': "name 'user_id' is not defined"}
+2023-10-09 17:14:23.616 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 7 column 1 (char 121)'}
+2023-10-09 17:16:41.715 ERROR json_response.py json_response - response_exception:{'message': "'otp_number'"}
+2023-10-09 17:17:05.583 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'user_name' where it is not associated with a value"}

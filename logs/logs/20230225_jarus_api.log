@@ -1,0 +1,23 @@
+2023-02-25 09:17:41.162 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for *: 'NoneType' and 'decimal.Decimal'"}
+2023-02-25 09:18:52.434 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for *: 'NoneType' and 'decimal.Decimal'"}
+2023-02-25 09:19:53.604 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for *: 'NoneType' and 'decimal.Decimal'"}
+2023-02-25 09:30:20.340 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-25 09:31:24.050 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-25 10:49:18.441 ERROR json_response.py json_response - response_exception:{'message': "'total_price'"}
+2023-02-25 10:50:24.455 ERROR json_response.py json_response - response_exception:{'message': "'blnc_qty'"}
+2023-02-25 11:32:00.198 ERROR json_response.py json_response - response_exception:{'message': "name 'stk_' is not defined"}
+2023-02-25 12:52:46.369 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'responce' where it is not associated with a value"}
+2023-02-25 13:24:17.164 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-25 13:24:50.496 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object is not subscriptable"}
+2023-02-25 13:25:21.094 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2023-02-25 14:11:49.227 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'int' and 'NoneType'"}
+2023-02-25 14:13:36.508 ERROR json_response.py json_response - response_exception:{'message': "'>' not supported between instances of 'NoneType' and 'int'"}
+2023-02-25 14:15:46.347 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'int' and 'NoneType'"}
+2023-02-25 14:49:15.058 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2023-02-25 14:54:21.482 ERROR json_response.py json_response - response_exception:{'message': "'int' object is not subscriptable"}
+2023-02-25 15:09:56.472 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not dict'}
+2023-02-25 15:11:44.081 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-02-25 15:50:13.297 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "order_id"\nLINE 1: ...ublic.product_table where product_name = \'Tomato\' order_id =...\n                                                             ^\n'}
+2023-02-25 15:50:26.332 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "order_id"\nLINE 1: ...ublic.product_table where product_name = \'Tomato\' order_id =...\n                                                             ^\n'}
+2023-02-25 16:38:41.056 ERROR json_response.py json_response - response_exception:{'message': 'column "batch_id" of relation "product_table" does not exist\nLINE 1: ...eserver_qty,price,gst_perc,total_price,cost_price,batch_id) ...\n                                                             ^\n'}
+2023-02-25 17:45:46.965 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'stk_dtl_exc' where it is not associated with a value"}

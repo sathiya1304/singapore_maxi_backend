@@ -1,0 +1,4 @@
+2023-02-24 15:04:50.888 ERROR json_response.py json_response - response_exception:{'message': "name 'stk' is not defined"}
+2023-02-24 15:11:27.078 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'str' and 'int'"}
+2023-02-24 15:12:59.388 ERROR json_response.py json_response - response_exception:{'message': "name 'pritn' is not defined"}
+2023-02-24 15:13:25.269 ERROR json_response.py json_response - response_exception:{'message': "unsupported operand type(s) for -: 'str' and 'int'"}

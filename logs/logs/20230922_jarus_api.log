@@ -1,0 +1,27 @@
+2023-09-22 09:27:20.636 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-09-22 09:28:10.092 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-09-22 09:31:35.809 ERROR json_response.py json_response - response_exception:{'message': '0'}
+2023-09-22 09:39:42.266 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-09-22 09:44:28.188 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-09-22 09:46:22.261 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-09-22 09:46:33.331 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-09-22 09:54:50.528 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-09-22 09:56:47.305 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-09-22 10:53:15.722 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'is_exist' where it is not associated with a value"}
+2023-09-22 12:26:09.031 ERROR json_response.py json_response - response_exception:{'message': "name 'ex_msg' is not defined"}
+2023-09-22 12:35:26.418 ERROR json_response.py json_response - response_exception:{'message': "name 'ex_msg' is not defined"}
+2023-09-22 13:27:35.217 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'user_id' where it is not associated with a value"}
+2023-09-22 15:07:05.429 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-09-22 15:31:53.587 ERROR json_response.py json_response - response_exception:{'message': "name 'data' is not defined"}
+2023-09-22 16:11:06.449 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \' last_name=\'None\'\' at line 1")'}
+2023-09-22 16:16:44.174 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'description'"}
+2023-09-22 16:26:26.818 ERROR json_response.py json_response - response_exception:{'message': "HttpResponseBase.__init__() got an unexpected keyword argument 'fetch'"}
+2023-09-22 16:44:25.223 ERROR json_response.py json_response - response_exception:{'message': "name 'created_date' is not defined"}
+2023-09-22 16:45:11.475 ERROR json_response.py json_response - response_exception:{'message': "name 'created_date' is not defined"}
+2023-09-22 16:45:48.619 ERROR json_response.py json_response - response_exception:{'message': "name 'created_date' is not defined"}
+2023-09-22 16:49:07.205 ERROR json_response.py json_response - response_exception:{'message': "module 'datetime' has no attribute 'now'"}
+2023-09-22 16:51:07.237 ERROR json_response.py json_response - response_exception:{'message': "module 'datetime' has no attribute 'now'"}
+2023-09-22 17:02:24.887 ERROR json_response.py json_response - response_exception:{'message': "name 'pytz' is not defined"}
+2023-09-22 17:05:26.001 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'Asia/Kolkata)\' at line 3")'}
+2023-09-22 17:06:44.718 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'Asia/Kolkata)\' at line 3")'}
+2023-09-22 17:58:58.808 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'ex_msg' where it is not associated with a value"}

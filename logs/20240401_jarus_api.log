@@ -1,0 +1,37 @@
+2024-04-01 16:33:09.678 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'DGJN...\n                       ^\n'}
+2024-04-01 17:31:13.643 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'oFsW...\n                       ^\n'}
+2024-04-01 17:31:51.422 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'oFsW...\n                       ^\n'}
+2024-04-01 17:32:08.228 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'wSTq...\n                       ^\n'}
+2024-04-01 17:32:37.087 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'wSTq...\n                       ^\n'}
+2024-04-01 17:32:56.039 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'wSTq...\n                       ^\n'}
+2024-04-01 17:33:41.813 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'wSTq...\n                       ^\n'}
+2024-04-01 17:34:45.721 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'wSTq...\n                       ^\n'}
+2024-04-01 17:35:31.392 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'wSTq...\n                       ^\n'}
+2024-04-01 17:35:32.667 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'wSTq...\n                       ^\n'}
+2024-04-01 17:36:08.572 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'wSTq...\n                       ^\n'}
+2024-04-01 17:36:50.936 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-01 17:36:55.877 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'wSTq...\n                       ^\n'}
+2024-04-01 17:37:34.129 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'YAxe...\n                       ^\n'}
+2024-04-01 17:38:52.077 ERROR json_response.py json_response - response_exception:{'message': 'relation "users_login_table" does not exist\nLINE 1:  SELECT * from users_login_table where access_token =  \'YAxe...\n                       ^\n'}
+2024-04-01 17:57:00.020 ERROR json_response.py json_response - response_exception:{'message': "'logo_name'"}
+2024-04-01 17:57:27.983 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-04-01 17:59:36.698 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-04-01 18:00:14.215 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-04-01 18:03:48.150 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2024-04-01 18:11:35.430 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo.png'"}
+2024-04-01 18:12:07.859 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo.png'"}
+2024-04-01 18:12:49.770 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo.png'"}
+2024-04-01 18:13:06.427 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo\\\\logo.png'"}
+2024-04-01 18:13:38.320 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo.png'"}
+2024-04-01 18:14:03.367 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 8 column 1 (char 194)'}
+2024-04-01 18:14:07.296 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo.png'"}
+2024-04-01 18:14:42.852 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo'"}
+2024-04-01 18:14:59.104 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo'"}
+2024-04-01 18:15:09.685 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo'"}
+2024-04-01 18:15:39.559 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo'"}
+2024-04-01 18:15:48.794 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo'"}
+2024-04-01 18:16:06.436 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo'"}
+2024-04-01 18:17:19.325 ERROR json_response.py json_response - response_exception:{'message': "'logo_name'"}
+2024-04-01 18:17:29.164 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo'"}
+2024-04-01 18:17:45.501 ERROR json_response.py json_response - response_exception:{'message': "[Errno 2] No such file or directory: 'media/logo/logo'"}
+2024-04-01 18:18:41.849 ERROR json_response.py json_response - response_exception:{'message': "[Errno 13] Permission denied: 'media/logo'"}

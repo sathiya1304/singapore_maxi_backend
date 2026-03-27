@@ -1,0 +1,22 @@
+2023-10-05 13:12:12.579 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'showpassword\' in \'where clause\'")'}
+2023-10-05 13:26:00.628 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'showpassword\' in \'where clause\'")'}
+2023-10-05 13:30:59.610 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'showpassword\' in \'where clause\'")'}
+2023-10-05 13:33:40.946 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'showpassword\' in \'where clause\'")'}
+2023-10-05 13:34:42.190 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'password\' in \'where clause\'")'}
+2023-10-05 13:38:15.816 ERROR json_response.py json_response - response_exception:{'message': "name 'passsword' is not defined"}
+2023-10-05 13:38:17.078 ERROR json_response.py json_response - response_exception:{'message': "name 'passsword' is not defined"}
+2023-10-05 13:42:49.219 ERROR json_response.py json_response - response_exception:{'message': "'password'"}
+2023-10-05 13:45:53.937 ERROR json_response.py json_response - response_exception:{'message': "'password'"}
+2023-10-05 13:47:55.007 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'access_token\' in \'field list\'")'}
+2023-10-05 13:48:12.167 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'access_token\' in \'field list\'")'}
+2023-10-05 13:52:26.423 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_type\' in \'field list\'")'}
+2023-10-05 13:53:08.855 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'from user_master where user_id = \'dhgbdetguhd\'\' at line 1")'}
+2023-10-05 14:56:39.136 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-05 14:57:13.154 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-05 14:58:10.451 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-05 14:58:15.749 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-05 15:33:47.725 ERROR json_response.py json_response - response_exception:{'message': 'Invalid control character at: line 3 column 25 (char 52)'}
+2023-10-05 15:33:57.317 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 4 column 1 (char 55)"}
+2023-10-05 15:37:20.248 ERROR json_response.py json_response - response_exception:{'message': 'Invalid control character at: line 3 column 25 (char 52)'}
+2023-10-05 17:15:23.545 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-10-05 17:20:38.407 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}

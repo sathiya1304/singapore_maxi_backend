@@ -1,0 +1,45 @@
+2024-03-09 09:32:05.599 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2024-03-09 09:49:40.031 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'whatsapp_number' where it is not associated with a value"}
+2024-03-09 09:51:40.042 ERROR json_response.py json_response - response_exception:{'message': "'whatsapp_number'"}
+2024-03-09 10:26:06.431 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2024-03-09 10:29:37.541 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'crm_product.crm_leads_assign\' doesn\'t exist")'}
+2024-03-09 10:51:28.120 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'192.168.29.66\' (10060)")'}
+2024-03-09 11:06:45.546 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 6 column 1 (char 194)'}
+2024-03-09 12:06:28.612 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'valuse (\'dddc103d-34de-4034-b35d-24f350453d76\',1,\'ad23ac37-e982-4993-b3ff-7d8...\' at line 1")'}
+2024-03-09 12:24:30.168 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'valuse (\'1d489ba6-5126-4d98-a820-871dbe9b0724\',2,\'ad23ac37-e982-4993-b3ff-7d8...\' at line 1")'}
+2024-03-09 12:24:48.376 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execution' where it is not associated with a value"}
+2024-03-09 12:34:03.199 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2024-03-09 12:55:30.033 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_id'"}
+2024-03-09 12:58:10.484 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_type'"}
+2024-03-09 12:58:32.679 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_type'"}
+2024-03-09 12:59:30.290 ERROR json_response.py json_response - response_exception:{'message': "'ref_customer_type'"}
+2024-03-09 13:25:48.547 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'2a2f6a14\' in \'where clause\'")'}
+2024-03-09 13:26:40.227 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'b1-a3ea-4f64-9e00-879e955b2942)\' at line 3")'}
+2024-03-09 13:27:07.102 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'dsfs\' in \'where clause\'")'}
+2024-03-09 13:27:43.210 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'dsfs\' in \'where clause\'")'}
+2024-03-09 13:28:09.227 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'dsfs\' in \'where clause\'")'}
+2024-03-09 13:28:23.698 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'dsfs\' in \'where clause\'")'}
+2024-03-09 13:29:59.295 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'rffgv\' in \'where clause\'")'}
+2024-03-09 13:30:23.880 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-03-09 13:30:30.190 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-03-09 13:31:02.544 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-03-09 13:31:09.150 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-03-09 13:31:19.997 ERROR json_response.py json_response - response_exception:{'message': "'NoneType' object has no attribute 'replace'"}
+2024-03-09 13:32:33.492 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'rffgv\' in \'where clause\'")'}
+2024-03-09 13:33:19.554 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'rffgv\' in \'where clause\'")'}
+2024-03-09 13:34:56.262 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'rffgv\' in \'where clause\'")'}
+2024-03-09 13:36:43.452 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'rffgv\' in \'where clause\'")'}
+2024-03-09 14:34:58.221 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'1da84526\' in \'where clause\'")'}
+2024-03-09 14:36:44.532 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'1da84526\' in \'where clause\'")'}
+2024-03-09 14:41:33.869 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'NjAyNGNlY2UtZWI5MC00OTJhLThiMjItMTlmZjQ2MDRmMWE1\' in \'where clause\'")'}
+2024-03-09 14:44:38.854 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'MWRhODQ1MjYtMTEyMi00MTJmLTkzZGMtMzZjOGJjY2UyNjgx\' in \'where clause\'")'}
+2024-03-09 14:44:52.847 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xad in position 0: invalid start byte"}
+2024-03-09 14:47:33.778 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xad in position 0: invalid start byte"}
+2024-03-09 14:48:22.025 ERROR json_response.py json_response - response_exception:{'message': "'method' object is not subscriptable"}
+2024-03-09 14:49:03.540 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2024-03-09 14:54:15.945 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xad in position 0: invalid start byte"}
+2024-03-09 14:55:41.581 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xad in position 0: invalid start byte"}
+2024-03-09 14:56:55.173 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xad in position 0: invalid start byte"}
+2024-03-09 15:02:07.836 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'6024cece\' in \'where clause\'")'}
+2024-03-09 15:02:53.862 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'6024cece\' in \'where clause\'")'}
+2024-03-09 15:12:43.360 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'3f70bc5d\' in \'where clause\'")'}

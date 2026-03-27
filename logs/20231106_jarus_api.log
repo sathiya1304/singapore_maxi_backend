@@ -1,0 +1,47 @@
+2023-11-06 09:38:43.485 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-06 09:39:15.956 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-11-06 09:56:42.197 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-06 09:59:58.649 ERROR json_response.py json_response - response_exception:{'message': "'ref_customer_type'"}
+2023-11-06 11:07:23.266 ERROR json_response.py json_response - response_exception:{'message': "local variable 'company' referenced before assignment"}
+2023-11-06 11:08:29.038 ERROR json_response.py json_response - response_exception:{'message': "local variable 'company' referenced before assignment"}
+2023-11-06 11:09:04.895 ERROR json_response.py json_response - response_exception:{'message': "name 'get_generated_id' is not defined"}
+2023-11-06 11:15:34.376 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-11-06 11:32:09.923 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_lead_id\' in \'where clause\'")'}
+2023-11-06 11:32:43.061 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-11-06 11:33:36.242 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-11-06 11:36:03.747 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-11-06 12:21:34.732 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-11-06 12:26:06.187 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_query' referenced before assignment"}
+2023-11-06 12:28:40.322 ERROR json_response.py json_response - response_exception:{'message': "local variable 'company' referenced before assignment"}
+2023-11-06 12:40:58.718 ERROR json_response.py json_response - response_exception:{'message': "local variable 'get_generated_id' referenced before assignment"}
+2023-11-06 12:42:05.075 ERROR json_response.py json_response - response_exception:{'message': "local variable 'get_generated_id' referenced before assignment"}
+2023-11-06 12:42:26.782 ERROR json_response.py json_response - response_exception:{'message': "local variable 'get_generated_id' referenced before assignment"}
+2023-11-06 13:16:27.120 ERROR json_response.py json_response - response_exception:{'message': "name 'user_type' is not defined"}
+2023-11-06 13:19:49.036 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_type\' in \'field list\'")'}
+2023-11-06 13:22:20.888 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-06 13:25:38.018 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-06 13:27:08.706 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-06 13:28:08.882 ERROR json_response.py json_response - response_exception:{'message': "'requirement'"}
+2023-11-06 13:28:14.320 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-06 13:29:52.061 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-06 13:30:37.953 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-06 13:30:39.125 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-06 13:30:43.834 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-11-06 13:30:50.832 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-06 13:35:09.551 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-11-06 13:35:16.522 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-11-06 13:36:25.043 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-11-06 14:53:31.965 ERROR json_response.py json_response - response_exception:{'message': "name 'user_type' is not defined"}
+2023-11-06 15:43:10.653 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-06 15:43:40.054 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-11-06 15:43:57.477 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-11-06 15:43:58.772 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-11-06 15:44:58.005 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-11-06 15:44:59.096 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-11-06 15:45:42.894 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-06 15:50:40.970 ERROR json_response.py json_response - response_exception:{'message': "'ref_user_id'"}
+2023-11-06 15:51:06.910 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_user_id' referenced before assignment"}
+2023-11-06 16:13:52.963 ERROR json_response.py json_response - response_exception:{'message': "name 'user_type' is not defined"}
+2023-11-06 16:20:00.570 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 25 column 1 (char 714)'}
+2023-11-06 17:05:17.048 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-06 17:38:35.777 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}

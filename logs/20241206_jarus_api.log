@@ -1,0 +1,20 @@
+2024-12-06 09:41:33.934 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x95 in position 0: invalid start byte"}
+2024-12-06 10:10:19.254 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x95 in position 0: invalid start byte"}
+2024-12-06 10:12:15.126 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_order_id\' in \'field list\'")'}
+2024-12-06 11:01:32.858 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_order_id\' in \'field list\'")'}
+2024-12-06 11:04:07.010 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_order_id\' in \'field list\'")'}
+2024-12-06 11:08:45.600 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_order_id\' in \'field list\'")'}
+2024-12-06 11:12:39.860 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_so_number\' in \'field list\'")'}
+2024-12-06 13:29:35.836 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'order_id\' in \'field list\'")'}
+2024-12-06 15:03:37.538 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-06 15:03:37.539 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-06 15:03:37.607 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-06 15:03:37.608 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-12-06 15:04:24.395 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-06 15:04:24.460 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-06 15:05:15.817 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-06 15:05:15.877 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-06 17:08:32.274 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x97 in position 2: invalid start byte"}
+2024-12-06 17:08:32.342 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x97 in position 2: invalid start byte"}
+2024-12-06 17:17:23.987 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}
+2024-12-06 17:17:24.063 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte"}

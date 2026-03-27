@@ -1,0 +1,63 @@
+2023-11-21 10:51:59.577 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2023-11-21 10:59:03.200 ERROR json_response.py json_response - response_exception:{'message': "type object 'datetime.datetime' has no attribute 'datetime'"}
+2023-11-21 11:06:22.888 ERROR json_response.py json_response - response_exception:{'message': "'stage'"}
+2023-11-21 11:29:32.359 ERROR json_response.py json_response - response_exception:{'message': "'method_descriptor' object has no attribute 'today'"}
+2023-11-21 11:31:21.890 ERROR json_response.py json_response - response_exception:{'message': "can't compare datetime.datetime to datetime.date"}
+2023-11-21 11:42:55.634 ERROR json_response.py json_response - response_exception:{'message': "'ref_manager_id'"}
+2023-11-21 12:21:37.132 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-21 12:29:00.731 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-21 12:29:13.561 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-21 12:30:12.010 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-21 12:38:09.689 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-21 12:38:23.945 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2023-11-21 13:17:40.102 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-11-21 16:22:10.799 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-11-21 16:22:23.581 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-21 16:22:57.302 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-11-21 16:34:42.312 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-11-21 16:37:04.422 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2023-11-21 16:37:12.409 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2023-11-21 16:37:58.898 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2023-11-21 16:40:46.276 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2023-11-21 16:42:28.243 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-11-21 16:43:21.602 ERROR json_response.py json_response - response_exception:{'message': "'created_date'"}
+2023-11-21 16:47:02.884 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2023-11-21 16:50:01.998 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-11-21 16:50:26.412 ERROR json_response.py json_response - response_exception:{'message': "local variable 'resp_array' referenced before assignment"}
+2023-11-21 16:51:19.171 ERROR json_response.py json_response - response_exception:{'message': "local variable 'resp_array' referenced before assignment"}
+2023-11-21 16:52:30.175 ERROR json_response.py json_response - response_exception:{'message': "local variable 'resp_arrays' referenced before assignment"}
+2023-11-21 16:52:54.757 ERROR json_response.py json_response - response_exception:{'message': "local variable 'resp_array' referenced before assignment"}
+2023-11-21 16:52:54.880 ERROR json_response.py json_response - response_exception:{'message': "local variable 'resp_arrays' referenced before assignment"}
+2023-11-21 16:53:08.873 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-21 16:53:16.070 ERROR json_response.py json_response - response_exception:{'message': "local variable 'resp_array' referenced before assignment"}
+2023-11-21 16:56:02.862 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-11-21 17:10:08.906 ERROR json_response.py json_response - response_exception:{'message': '(1136, "Column count doesn\'t match value count at row 1")'}
+2023-11-21 17:15:31.843 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and leads_table.active_status IN ((\'1\', \'0\')) AND ((leads_table.lead_id in (\'...\' at line 1")'}
+2023-11-21 17:16:34.206 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'AND ((leads_table.lead_id in (\'530421d8-541b-4383-b33d-d795d3da50b1\', \'83bdfc...\' at line 1")'}
+2023-11-21 17:16:34.263 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'AND ((leads_table.lead_id in (\'530421d8-541b-4383-b33d-d795d3da50b1\', \'83bdfc...\' at line 1")'}
+2023-11-21 17:17:02.106 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\' at line 1")'}
+2023-11-21 17:17:02.169 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\' at line 1")'}
+2023-11-21 17:18:15.365 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\' at line 1")'}
+2023-11-21 17:18:15.426 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\' at line 1")'}
+2023-11-21 17:18:33.473 ERROR json_response.py json_response - response_exception:{'message': "name 'lead_count' is not defined"}
+2023-11-21 17:18:33.550 ERROR json_response.py json_response - response_exception:{'message': "name 'lead_count' is not defined"}
+2023-11-21 17:27:13.231 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and ( leads_table.created_date >= \'2023-11-21 00:00:00\' and leads_table.creat...\' at line 1")'}
+2023-11-21 17:27:13.293 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and ( leads_table.created_date >= \'2023-11-21 00:00:00\' and leads_table.creat...\' at line 1")'}
+2023-11-21 17:27:56.483 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and ( created_date >= \'2023-11-21 00:00:00\' and created_date <= \'2023-11-21 2...\' at line 1")'}
+2023-11-21 17:27:56.572 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and ( created_date >= \'2023-11-21 00:00:00\' and created_date <= \'2023-11-21 2...\' at line 1")'}
+2023-11-21 17:28:26.806 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and ( created_date >= \'2023-11-21 00:00:00\' and created_date <= \'2023-11-21 2...\' at line 1")'}
+2023-11-21 17:28:26.863 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and ( created_date >= \'2023-11-21 00:00:00\' and created_date <= \'2023-11-21 2...\' at line 1")'}
+2023-11-21 17:28:57.817 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and ( created_date >= \'2023-11-21 00:00:00\' and created_date <= \'2023-11-21 2...\' at line 1")'}
+2023-11-21 17:28:57.897 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and ( created_date >= \'2023-11-21 00:00:00\' and created_date <= \'2023-11-21 2...\' at line 1")'}
+2023-11-21 17:29:18.833 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and ( created_date >= \'2023-11-21 00:00:00\' and created_date <= \'2023-11-21 2...\' at line 1")'}
+2023-11-21 17:29:18.900 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and ( created_date >= \'2023-11-21 00:00:00\' and created_date <= \'2023-11-21 2...\' at line 1")'}
+2023-11-21 17:29:36.859 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2023-11-21 17:29:36.930 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2023-11-21 18:39:30.597 ERROR json_response.py json_response - response_exception:{'message': "local variable 'priority_type' referenced before assignment"}
+2023-11-21 18:40:00.840 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \') AND (leads_table.ref_user_id in (\'e4f45cbc-ae42-4dc7-b282-b7b92c9d3536\', \'8...\' at line 1")'}
+2023-11-21 18:40:00.930 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \') AND (leads_table.ref_user_id in (\'e4f45cbc-ae42-4dc7-b282-b7b92c9d3536\', \'8...\' at line 1")'}
+2023-11-21 18:41:44.720 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')\' at line 1")'}
+2023-11-21 18:43:07.648 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')\' at line 1")'}
+2023-11-21 18:43:11.838 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')\' at line 1")'}
+2023-11-21 18:43:11.872 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')\' at line 1")'}
+2023-11-21 18:43:11.932 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')\' at line 1")'}

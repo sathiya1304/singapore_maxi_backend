@@ -1,0 +1,134 @@
+2023-10-16 09:23:43.416 ERROR json_response.py json_response - response_exception:{'message': "'priority_type'"}
+2023-10-16 09:24:20.523 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'priority_type' where it is not associated with a value"}
+2023-10-16 10:31:51.349 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-16 10:31:58.055 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.city\' in \'where clause\'")'}
+2023-10-16 10:32:22.851 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-16 10:32:24.161 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-16 10:32:27.866 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tup\' in \'where clause\'")'}
+2023-10-16 10:32:29.014 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tup\' in \'where clause\'")'}
+2023-10-16 10:33:58.944 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tup\' in \'where clause\'")'}
+2023-10-16 10:39:20.651 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.city\' in \'where clause\'")'}
+2023-10-16 10:39:42.809 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 10:39:44.107 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 10:42:24.248 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from assign_lead_table where followup_notes = \'completed\'  order by ...\' at line 7")'}
+2023-10-16 10:43:12.644 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from assign_lead_table where followup_notes = \'completed\';  order by...\' at line 7")'}
+2023-10-16 10:44:37.689 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from assign_lead_table where followup_notes = \'completed\';  order by...\' at line 7")'}
+2023-10-16 10:49:10.939 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from assign_lead_table where followup_notes = \'cbe\';  order by assig...\' at line 7")'}
+2023-10-16 10:55:48.156 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'leads.table\' doesn\'t exist")'}
+2023-10-16 10:57:32.365 ERROR json_response.py json_response - response_exception:{'message': "'city'"}
+2023-10-16 11:00:37.714 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table where city = \'{city}\' {limit};  order by assign_lea...\' at line 7")'}
+2023-10-16 11:01:12.690 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table where city = \'{city}\' {limit};  order by assign_lea...\' at line 7")'}
+2023-10-16 11:01:13.854 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table where city = \'{city}\' {limit};  order by assign_lea...\' at line 7")'}
+2023-10-16 11:01:34.842 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table where city = \'{city}\';  order by assign_lead_table....\' at line 7")'}
+2023-10-16 11:01:35.853 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table where city = \'{city}\';  order by assign_lead_table....\' at line 7")'}
+2023-10-16 11:03:50.084 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table where city = \'{city}\';  order by assign_lead_table....\' at line 7")'}
+2023-10-16 11:04:02.178 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table where city = \'{city}\';  order by assign_lead_table....\' at line 7")'}
+2023-10-16 11:05:23.582 ERROR json_response.py json_response - response_exception:{'message': "'city'"}
+2023-10-16 11:06:05.985 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'city' where it is not associated with a value"}
+2023-10-16 11:06:25.252 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'city' where it is not associated with a value"}
+2023-10-16 11:06:26.454 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'city' where it is not associated with a value"}
+2023-10-16 11:07:40.161 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'city' where it is not associated with a value"}
+2023-10-16 11:12:12.921 ERROR json_response.py json_response - response_exception:{'message': "'state'"}
+2023-10-16 11:16:07.472 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from leads_table where city = \'tup\';  order by assign_lead_table.cre...\' at line 7")'}
+2023-10-16 11:18:10.145 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'(tup)\'  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 11:18:11.448 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'(tup)\'  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 11:18:53.654 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'(tup)\'  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 11:18:54.735 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'(tup)\'  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 11:20:41.406 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'(assign_lead_table.followup_notes)\'  order by assign_lead_table.created_date...\' at line 7")'}
+2023-10-16 11:21:15.663 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-16 11:24:13.873 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 11:27:35.401 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-16 11:27:37.190 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-16 11:27:41.146 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 11:27:49.234 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 11:29:25.723 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 11:30:00.301 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 11:30:01.274 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 11:33:15.516 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 11:44:03.741 ERROR json_response.py json_response - response_exception:{'message': "'city'"}
+2023-10-16 11:44:05.328 ERROR json_response.py json_response - response_exception:{'message': "'city'"}
+2023-10-16 11:51:18.628 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 11:52:39.494 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 11:52:44.185 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 11:54:38.612 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 11:57:14.104 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:10:43.437 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-16 12:10:44.706 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-16 12:12:08.332 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:12:14.810 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:12:15.727 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:15:03.110 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:15:40.581 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'assign_lead_table.followup_notes IN (completed)  order by assign_lead_table.c...\' at line 7")'}
+2023-10-16 12:16:04.749 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:16:14.537 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:16:15.421 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:21:23.791 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:21:27.654 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 12:22:06.693 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'assign_lead_table.followup_notes IN ()  order by assign_lead_table.created_da...\' at line 7")'}
+2023-10-16 12:22:17.721 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 12:22:53.201 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:23:50.375 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:23:55.653 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:23:56.658 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:24:05.691 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:24:29.899 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 12:24:31.327 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 12:27:19.666 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 12:27:56.590 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 12:31:13.637 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 12:32:16.991 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \')  order by assign_lead_table.created_date DESC\' at line 7")'}
+2023-10-16 12:33:48.014 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-16 12:34:19.385 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-16 12:35:17.786 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-16 12:35:59.508 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'cbe\' in \'where clause\'")'}
+2023-10-16 12:38:52.211 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:43:52.329 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:44:35.551 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:53:40.923 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:54:06.946 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 12:56:09.005 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'completed\' in \'where clause\'")'}
+2023-10-16 13:22:17.060 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'as assigned_person,assign_lead_table.active_status\\n                        FR...\' at line 1")'}
+2023-10-16 13:22:49.543 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'as assigned_person,assign_lead_table.active_status\\n                        FR...\' at line 1")'}
+2023-10-16 13:24:29.531 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'as assigned_person,assign_lead_table.active_status\\n                        FR...\' at line 1")'}
+2023-10-16 13:25:13.970 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'as assigned_person,assign_lead_table.active_status\\n                        FR...\' at line 1")'}
+2023-10-16 13:29:54.971 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'follow_up_action_masters.followup_action\' in \'field list\'")'}
+2023-10-16 13:37:11.713 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-16 13:40:55.154 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'lead_id\' in field list is ambiguous")'}
+2023-10-16 13:41:38.518 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'lead_id\' in field list is ambiguous")'}
+2023-10-16 13:41:39.244 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'lead_id\' in field list is ambiguous")'}
+2023-10-16 13:42:07.025 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'lead_id\' in field list is ambiguous")'}
+2023-10-16 13:43:01.198 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 13:43:02.337 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 13:43:28.568 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 13:44:03.743 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 13:44:04.730 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 13:45:07.542 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 13:45:11.618 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 13:45:31.485 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 13:45:32.572 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 13:47:01.316 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 13:47:02.311 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'assign_lead_table.lead_id\' in \'on clause\'")'}
+2023-10-16 15:13:38.486 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-16 15:14:27.552 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-16 15:14:28.908 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-16 15:16:02.253 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-16 15:16:05.344 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-16 15:16:09.083 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-16 15:16:57.397 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-16 15:44:06.206 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'site_stage_masters.site_stage\' in \'field list\'")'}
+2023-10-16 15:47:55.449 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'customer_type_masters.customer_type\' in \'field list\'")'}
+2023-10-16 15:50:48.265 ERROR json_response.py json_response - response_exception:{'message': '(1066, "Not unique table/alias: \'site_stage_masters\'")'}
+2023-10-16 15:57:03.264 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'ref_user_id\' in field list is ambiguous")'}
+2023-10-16 15:59:13.656 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'ref_user_id\' in field list is ambiguous")'}
+2023-10-16 16:00:42.359 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'ref_user_id\' in field list is ambiguous")'}
+2023-10-16 16:16:34.252 ERROR json_response.py json_response - response_exception:{'message': "'lead_id'"}
+2023-10-16 16:35:40.171 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-16 16:40:40.258 ERROR json_response.py json_response - response_exception:{'message': "'ref_customer_type'"}
+2023-10-16 16:43:07.556 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_source'"}
+2023-10-16 16:48:44.188 ERROR json_response.py json_response - response_exception:{'message': "'ref_action_id'"}
+2023-10-16 16:49:26.877 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.site_staging\' in \'on clause\'")'}
+2023-10-16 16:52:25.018 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.customer_type\' in \'on clause\'")'}
+2023-10-16 16:53:43.684 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.lead_source\' in \'on clause\'")'}
+2023-10-16 17:02:25.998 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'leads_table.customer_type\' in \'field list\'")'}
+2023-10-16 17:06:01.280 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'customer_lead_source.source_id as customer_lead_source\\n                      ...\' at line 11")'}
+2023-10-16 17:14:38.587 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'customer_type_masters.customer_type as customer_type,\\n                       ...\' at line 10")'}

@@ -1,0 +1,89 @@
+2023-09-29 09:19:10.856 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-29 09:20:59.813 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-09-29 09:21:48.927 ERROR json_response.py json_response - response_exception:{'message': "name 'math' is not defined"}
+2023-09-29 09:21:50.242 ERROR json_response.py json_response - response_exception:{'message': "name 'math' is not defined"}
+2023-09-29 09:23:28.455 ERROR json_response.py json_response - response_exception:{'message': "name 'table_details' is not defined"}
+2023-09-29 09:50:59.354 ERROR json_response.py json_response - response_exception:{'message': "name 'table_details' is not defined"}
+2023-09-29 11:11:16.697 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-29 11:27:14.565 ERROR json_response.py json_response - response_exception:{'message': "'insured'"}
+2023-09-29 11:28:29.600 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'id\': 7, \'vehicle_id\': \'unique_vehicle_id_1\', \'vehicle_name\': \'Toyota\', \'creat...\' at line 4")'}
+2023-09-29 11:31:20.055 ERROR json_response.py json_response - response_exception:{'message': "'insured_name'"}
+2023-09-29 11:52:25.421 ERROR json_response.py json_response - response_exception:{'message': "'insured'"}
+2023-09-29 11:52:58.191 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'claimant_state\' in \'field list\'")'}
+2023-09-29 11:54:02.306 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'claimant_state\' in \'field list\'")'}
+2023-09-29 11:54:17.714 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'claimant_state\' in \'field list\'")'}
+2023-09-29 11:54:47.179 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'address\' in \'field list\'")'}
+2023-09-29 12:06:11.247 ERROR json_response.py json_response - response_exception:{'message': "'make'"}
+2023-09-29 12:06:22.364 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'LE DESC\' at line 3")'}
+2023-09-29 12:06:24.772 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'LE DESC\' at line 3")'}
+2023-09-29 12:17:56.541 ERROR json_response.py json_response - response_exception:{'message': "'make'"}
+2023-09-29 12:40:33.100 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-09-29 15:31:25.429 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2023-09-29 15:49:47.349 ERROR json_response.py json_response - response_exception:{'message': "'ref_adjuster_id'"}
+2023-09-29 15:50:23.747 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-09-29 15:52:19.859 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-09-29 15:52:23.883 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-09-29 15:53:43.372 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-09-29 15:56:07.733 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-09-29 15:56:09.055 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: ''"}
+2023-09-29 16:29:06.540 ERROR json_response.py json_response - response_exception:{'message': "local variable 'count_qry' referenced before assignment"}
+2023-09-29 16:30:29.167 ERROR json_response.py json_response - response_exception:{'message': "'data_count'"}
+2023-09-29 16:31:09.333 ERROR json_response.py json_response - response_exception:{'message': ''}
+2023-09-29 16:45:59.924 ERROR json_response.py json_response - response_exception:{'message': "name 'datetime' is not defined"}
+2023-09-29 16:46:28.646 ERROR json_response.py json_response - response_exception:{'message': "type object 'datetime.datetime' has no attribute 'datetime'"}
+2023-09-29 16:47:42.254 ERROR json_response.py json_response - response_exception:{'message': "'reference_no'"}
+2023-09-29 16:48:05.037 ERROR json_response.py json_response - response_exception:{'message': "'invoice_number'"}
+2023-09-29 16:50:12.042 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: '9b43'"}
+2023-09-29 16:53:08.674 ERROR json_response.py json_response - response_exception:{'message': "'invoice_number'"}
+2023-09-29 17:02:29.524 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 17 column 1 (char 457)'}
+2023-09-29 17:03:02.361 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 17 column 1 (char 457)'}
+2023-09-29 17:03:03.442 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 17 column 1 (char 457)'}
+2023-09-29 17:04:36.571 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:04:59.672 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:05:00.764 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:06:03.832 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:06:20.952 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:06:22.339 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:06:44.212 ERROR json_response.py json_response - response_exception:{'message': "'claimant_contact'"}
+2023-09-29 17:07:15.586 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:09:25.012 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:09:26.066 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:13:07.106 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:14:23.337 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:14:24.329 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:14:26.189 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:14:58.029 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:14:59.308 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:15:15.953 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:15:16.775 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:18:25.742 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:18:47.606 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:18:48.783 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:21:38.842 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:21:40.274 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:21:40.883 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:21:50.258 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:21:51.093 ERROR json_response.py json_response - response_exception:{'message': 'list index out of range'}
+2023-09-29 17:21:59.244 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:22:00.393 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:22:01.442 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:33:07.894 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:34:00.963 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:34:50.407 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:34:51.538 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:37:33.034 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:38:10.153 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:38:11.061 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:38:23.346 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:42:42.414 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:45:29.046 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:45:30.010 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:51:15.941 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:51:16.929 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:51:52.928 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:51:53.772 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:53:18.474 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}
+2023-09-29 17:53:32.843 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-09-29 17:53:34.119 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-09-29 17:53:36.632 ERROR json_response.py json_response - response_exception:{'message': "name 'generated_id' is not defined"}
+2023-09-29 17:53:58.347 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: 'INV001'"}

@@ -1,0 +1,43 @@
+2023-10-10 09:34:17.581 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'otp_number\' in \'field list\'")'}
+2023-10-10 09:37:33.268 ERROR json_response.py json_response - response_exception:{'message': "name 'otp' is not defined"}
+2023-10-10 09:41:48.738 ERROR json_response.py json_response - response_exception:{'message': "name 'otp' is not defined"}
+2023-10-10 09:42:29.284 ERROR json_response.py json_response - response_exception:{'message': "name 'otp' is not defined"}
+2023-10-10 09:48:26.056 ERROR json_response.py json_response - response_exception:{'message': "'otp_number'"}
+2023-10-10 09:48:36.880 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'user_name' where it is not associated with a value"}
+2023-10-10 09:52:03.242 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'resp' where it is not associated with a value"}
+2023-10-10 09:52:40.235 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'find' where it is not associated with a value"}
+2023-10-10 09:52:41.253 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'find' where it is not associated with a value"}
+2023-10-10 11:00:26.676 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 11:01:26.949 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 11:01:55.937 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 11:03:01.924 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 11:14:22.333 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 11:19:51.875 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 11:26:55.538 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 11:38:30.062 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 11:51:55.083 ERROR json_response.py json_response - response_exception:{'message': "name 'subject' is not defined"}
+2023-10-10 12:06:18.210 ERROR json_response.py json_response - response_exception:{'message': "name 'body' is not defined"}
+2023-10-10 12:07:00.196 ERROR json_response.py json_response - response_exception:{'message': "name 'body' is not defined"}
+2023-10-10 12:32:01.885 ERROR json_response.py json_response - response_exception:{'message': "'user_name'"}
+2023-10-10 12:32:45.996 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 4 column 1 (char 40)'}
+2023-10-10 12:32:51.614 ERROR json_response.py json_response - response_exception:{'message': "'user_name'"}
+2023-10-10 12:33:55.271 ERROR json_response.py json_response - response_exception:{'message': "'user_name'"}
+2023-10-10 12:35:09.684 ERROR json_response.py json_response - response_exception:{'message': "'current_password'"}
+2023-10-10 12:47:51.942 ERROR json_response.py json_response - response_exception:{'message': "'new_password'"}
+2023-10-10 12:48:30.689 ERROR json_response.py json_response - response_exception:{'message': "'confirm_password'"}
+2023-10-10 12:56:32.836 ERROR json_response.py json_response - response_exception:{'message': "'new_password'"}
+2023-10-10 14:27:20.203 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 14:29:51.793 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 14:32:00.159 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 14:32:34.693 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 14:46:45.707 ERROR json_response.py json_response - response_exception:{'message': 'Connection unexpectedly closed'}
+2023-10-10 15:19:05.080 ERROR json_response.py json_response - response_exception:{'message': '"to" argument must be a list or tuple'}
+2023-10-10 15:34:55.176 ERROR json_response.py json_response - response_exception:{'message': "object of type 'EmailMultiAlternatives' has no len()"}
+2023-10-10 15:55:07.917 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'user_id' where it is not associated with a value"}
+2023-10-10 15:56:48.037 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'result' where it is not associated with a value"}
+2023-10-10 15:56:49.141 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'result' where it is not associated with a value"}
+2023-10-10 15:57:09.654 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'result' where it is not associated with a value"}
+2023-10-10 16:02:37.450 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'result' where it is not associated with a value"}
+2023-10-10 16:04:49.752 ERROR json_response.py json_response - response_exception:{'message': "'otp_number'"}
+2023-10-10 16:06:02.085 ERROR json_response.py json_response - response_exception:{'message': "'otp'"}
+2023-10-10 16:06:03.341 ERROR json_response.py json_response - response_exception:{'message': "'otp'"}

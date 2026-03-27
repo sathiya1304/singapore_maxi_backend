@@ -1,0 +1,14 @@
+2023-06-21 12:10:34.966 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'month'"}
+2023-06-21 12:10:34.972 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-06-21 12:12:15.730 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'month'"}
+2023-06-21 12:12:15.730 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-06-21 12:20:53.988 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'strftime'"}
+2023-06-21 12:20:53.988 ERROR json_response.py json_response - response_exception:{'message': 'Object of type AttributeError is not JSON serializable'}
+2023-06-21 12:44:15.392 ERROR json_response.py json_response - response_exception:{'message': 'strptime() argument 1 must be str, not datetime.datetime'}
+2023-06-21 12:44:15.392 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-06-21 12:45:20.924 ERROR json_response.py json_response - response_exception:{'message': "name 'today' is not defined"}
+2023-06-21 12:45:20.924 ERROR json_response.py json_response - response_exception:{'message': 'Object of type NameError is not JSON serializable'}
+2023-06-21 12:45:43.439 ERROR json_response.py json_response - response_exception:{'message': 'strptime() argument 1 must be str, not datetime.datetime'}
+2023-06-21 12:45:43.442 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-06-21 13:00:47.210 ERROR json_response.py json_response - response_exception:{'message': "time data '2023-01-01 12:19:29' does not match format '%Y-%m-%d %H:%M:%S.%f'"}
+2023-06-21 13:00:47.214 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ValueError is not JSON serializable'}

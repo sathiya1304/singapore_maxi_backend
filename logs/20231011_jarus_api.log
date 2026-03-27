@@ -1,0 +1,36 @@
+2023-10-11 10:54:00.370 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2023-10-11 10:54:46.105 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'header'"}
+2023-10-11 10:57:17.823 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'header'"}
+2023-10-11 10:57:19.354 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'header'"}
+2023-10-11 10:57:50.398 ERROR json_response.py json_response - response_exception:{'message': "'HttpHeaders' object is not callable"}
+2023-10-11 11:00:21.457 ERROR json_response.py json_response - response_exception:{'message': "JsonResponse.__init__() missing 1 required positional argument: 'data'"}
+2023-10-11 11:41:05.531 ERROR json_response.py json_response - response_exception:{'message': "'stage_id'"}
+2023-10-11 12:12:58.507 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-11 12:13:13.578 ERROR json_response.py json_response - response_exception:{'message': "name 'math' is not defined"}
+2023-10-11 12:58:54.514 ERROR json_response.py json_response - response_exception:{'message': "'site_stage'"}
+2023-10-11 12:59:58.169 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'stage_id' where it is not associated with a value"}
+2023-10-11 13:10:04.793 ERROR json_response.py json_response - response_exception:{'message': "'action_id'"}
+2023-10-11 13:10:42.600 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'action_id\' in \'where clause\'")'}
+2023-10-11 13:41:15.135 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-11 13:41:29.320 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-11 15:31:02.103 ERROR json_response.py json_response - response_exception:{'message': "'action'"}
+2023-10-11 15:31:42.333 ERROR json_response.py json_response - response_exception:{'message': "'action'"}
+2023-10-11 15:32:52.625 ERROR json_response.py json_response - response_exception:{'message': "'customer_type'"}
+2023-10-11 15:35:26.928 ERROR json_response.py json_response - response_exception:{'message': "'customer_id'"}
+2023-10-11 15:46:46.578 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'action\' in \'field list\'")'}
+2023-10-11 15:48:10.400 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'action\' in \'field list\'")'}
+2023-10-11 15:48:49.951 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-11 16:32:55.035 ERROR json_response.py json_response - response_exception:{'message': "Expecting ':' delimiter: line 3 column 1 (char 11)"}
+2023-10-11 16:33:31.428 ERROR json_response.py json_response - response_exception:{'message': "'inbound_source'"}
+2023-10-11 16:34:14.637 ERROR json_response.py json_response - response_exception:{'message': "'outbound_source'"}
+2023-10-11 16:34:45.089 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'customer_id' where it is not associated with a value"}
+2023-10-11 16:36:13.711 ERROR json_response.py json_response - response_exception:{'message': "'source_id'"}
+2023-10-11 16:54:16.040 ERROR json_response.py json_response - response_exception:{'message': '(4078, "Illegal parameter data types int and row for operation \'=\'")'}
+2023-10-11 17:00:12.094 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-11 17:01:13.928 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-11 17:04:39.278 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'qurey' where it is not associated with a value"}
+2023-10-11 17:10:03.941 ERROR json_response.py json_response - response_exception:{'message': "'source_id'"}
+2023-10-11 17:10:43.225 ERROR json_response.py json_response - response_exception:{'message': "'customer_id'"}
+2023-10-11 17:11:34.975 ERROR json_response.py json_response - response_exception:{'message': "'action_id'"}
+2023-10-11 17:12:29.584 ERROR json_response.py json_response - response_exception:{'message': "'stage_id'"}
+2023-10-11 17:21:01.969 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\' at line 1")'}

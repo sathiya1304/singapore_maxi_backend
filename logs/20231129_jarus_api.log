@@ -1,0 +1,8 @@
+2023-11-29 09:50:22.435 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-11-29 09:52:07.071 ERROR json_response.py json_response - response_exception:{'message': "'stage'"}
+2023-11-29 10:34:37.652 ERROR json_response.py json_response - response_exception:{'message': "'stage'"}
+2023-11-29 12:21:42.271 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'lead_id\' in \'where clause\'")'}
+2023-11-29 13:36:28.689 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-11-29 15:24:33.042 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'LD2-23-00036\\\\\' OR leads_table.phone_number REGEXP \'LD2-23-00036\\\\\' OR leads_ta...\' at line 38")'}
+2023-11-29 15:24:33.102 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'LD2-23-00036\\\\\' OR leads_table.phone_number REGEXP \'LD2-23-00036\\\\\' OR leads_ta...\' at line 38")'}
+2023-11-29 17:49:20.794 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}

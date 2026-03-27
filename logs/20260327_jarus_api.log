@@ -1,0 +1,4 @@
+2026-03-27 11:11:23.491 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2026-03-27 11:11:23.528 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2026-03-27 11:18:57.629 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2026-03-27 11:18:57.660 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}

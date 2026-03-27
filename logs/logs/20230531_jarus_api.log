@@ -1,0 +1,26 @@
+2023-05-31 09:53:17.984 ERROR json_response.py json_response - response_exception:{'message': "'total_amount'"}
+2023-05-31 09:53:17.990 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-05-31 10:00:35.583 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'float'"}
+2023-05-31 10:00:35.598 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-05-31 10:02:40.449 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'float'"}
+2023-05-31 10:02:40.459 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-05-31 10:02:45.053 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'float'"}
+2023-05-31 10:02:45.054 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-05-31 10:02:45.772 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'float'"}
+2023-05-31 10:02:45.772 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-05-31 10:02:45.971 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'float'"}
+2023-05-31 10:02:45.972 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-05-31 10:02:52.578 ERROR json_response.py json_response - response_exception:{'message': "can't multiply sequence by non-int of type 'float'"}
+2023-05-31 10:02:52.582 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-05-31 10:04:26.443 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}
+2023-05-31 10:04:26.445 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-05-31 10:05:01.358 ERROR json_response.py json_response - response_exception:{'message': "'product_id'"}
+2023-05-31 10:05:01.362 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-05-31 14:27:22.178 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-31 14:27:35.059 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-31 14:27:44.110 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-31 14:28:11.684 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-31 14:28:32.732 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-31 14:29:00.072 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-31 14:29:13.638 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-05-31 15:55:19.453 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}

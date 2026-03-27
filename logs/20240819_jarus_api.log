@@ -1,0 +1,85 @@
+2024-08-19 09:23:08.991 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 09:23:09.074 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 09:23:14.617 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 09:23:14.696 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 09:23:18.045 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 09:23:18.132 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 09:36:24.674 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:36:24.679 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:36:24.736 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:36:24.747 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:45:45.772 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:45:45.793 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:45:45.850 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:45:45.860 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:48:07.114 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:48:07.115 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:48:07.204 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:48:07.205 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:51:18.396 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:51:18.397 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:51:18.494 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:51:18.496 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:51:42.011 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:51:42.014 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:51:42.107 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:51:42.108 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:54:40.982 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:54:40.987 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:54:41.053 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 09:54:41.087 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:00:04.310 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:00:04.311 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:00:04.386 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:00:04.387 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:02:36.977 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:02:36.995 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:02:37.059 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:02:37.064 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:03:07.387 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:03:07.393 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:03:07.471 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:03:07.472 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:03:48.026 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:03:48.030 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:03:48.111 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:03:48.112 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:12:22.259 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: '[object Object]'"}
+2024-08-19 10:12:34.013 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: '[object Object]'"}
+2024-08-19 10:12:47.789 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: '[object Object]'"}
+2024-08-19 10:13:32.510 ERROR json_response.py json_response - response_exception:{'message': "invalid literal for int() with base 10: '[object Object]'"}
+2024-08-19 10:15:31.546 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 10:15:31.642 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 10:17:21.393 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 10:17:21.494 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 10:21:06.080 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:21:06.135 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:22:11.640 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:22:11.702 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:25:15.358 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:25:15.380 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:25:15.439 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:25:15.446 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 10:57:40.936 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 10:57:41.024 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 11:01:23.148 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 11:01:23.235 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 11:16:54.389 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:17:18.667 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:17:21.730 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:18:05.765 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:18:12.252 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:23:19.000 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:33:18.975 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:33:19.033 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:33:22.499 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:33:22.561 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:33:38.473 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:33:38.532 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:39:46.289 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:39:46.396 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-08-19 11:41:32.937 ERROR json_response.py json_response - response_exception:{'message': "'str' object has no attribute 'get'"}
+2024-08-19 11:50:45.453 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 11:50:45.549 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 11:51:24.806 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}
+2024-08-19 11:51:24.896 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe6 in position 1: invalid continuation byte"}

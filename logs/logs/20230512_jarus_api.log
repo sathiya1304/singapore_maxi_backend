@@ -1,0 +1,16 @@
+2023-05-12 09:29:10.900 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'valid_mobile' where it is not associated with a value"}
+2023-05-12 09:29:10.900 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnboundLocalError is not JSON serializable'}
+2023-05-12 10:02:57.021 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-05-12 10:03:47.597 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-05-12 10:04:35.722 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-05-12 10:25:26.322 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'account_no\']\')\' at line 1")'}
+2023-05-12 10:25:26.322 ERROR json_response.py json_response - response_exception:{'message': 'Object of type ProgrammingError is not JSON serializable'}
+2023-05-12 10:28:27.376 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'Err' where it is not associated with a value"}
+2023-05-12 10:50:52.700 ERROR json_response.py json_response - response_exception:{'message': 'float expected at most 1 argument, got 2'}
+2023-05-12 10:50:52.703 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-05-12 10:51:35.011 ERROR json_response.py json_response - response_exception:{'message': 'float expected at most 1 argument, got 2'}
+2023-05-12 10:51:35.011 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-05-12 10:51:36.630 ERROR json_response.py json_response - response_exception:{'message': 'float expected at most 1 argument, got 2'}
+2023-05-12 10:51:36.631 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}
+2023-05-12 10:52:04.832 ERROR json_response.py json_response - response_exception:{'message': 'float expected at most 1 argument, got 2'}
+2023-05-12 10:52:04.834 ERROR json_response.py json_response - response_exception:{'message': 'Object of type TypeError is not JSON serializable'}

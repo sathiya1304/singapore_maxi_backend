@@ -1,0 +1,108 @@
+2024-04-04 09:27:33.198 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "REGEXP"\nLINE 3: ...              WHERE 1=1  AND height_master.height REGEXP 100...\n                                                             ^\n'}
+2024-04-04 10:07:29.163 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2024-04-04 10:07:40.501 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near ":"\nLINE 3: ...1=1  and depth_master.active_status = access_token:QbjDByDOF...\n                                                             ^\n'}
+2024-04-04 11:43:42.029 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 10 column 1 (char 213)'}
+2024-04-04 13:17:43.681 ERROR json_response.py json_response - response_exception:{'message': "'deck_count'"}
+2024-04-04 13:26:18.347 ERROR json_response.py json_response - response_exception:{'message': "'authorization'"}
+2024-04-04 13:30:34.168 ERROR json_response.py json_response - response_exception:{'message': 'column "wo" does not exist\nLINE 3: ...             WHERE 1=1  AND deck_type_master.deck_type = wo;\n                                                                    ^\n'}
+2024-04-04 14:53:03.209 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "REGEXP"\nLINE 3: ...        WHERE 1=1  AND deck_type_master.deck_type REGEXP \'wo...\n                                                             ^\n'}
+2024-04-04 14:53:24.961 ERROR json_response.py json_response - response_exception:{'message': 'schema "deck_type_master" does not exist\nLINE 3:                 WHERE 1=1  AND deck_type_master.deck_type \'w...\n                                       ^\n'}
+2024-04-04 14:54:16.164 ERROR json_response.py json_response - response_exception:{'message': 'schema "deck_type_master" does not exist\nLINE 3:                 WHERE 1=1  AND deck_type_master.deck_type \'w...\n                                       ^\n'}
+2024-04-04 14:59:47.191 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "REGEXP"\nLINE 3: ...        WHERE 1=1  AND deck_type_master.deck_type REGEXP \'wo...\n                                                             ^\n'}
+2024-04-04 15:29:57.071 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:29:57.071 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:29:57.570 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:29:57.571 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:30:33.652 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "REGEXP"\nLINE 3: ...            WHERE 1=1  AND  user_master.user_name REGEXP \'ad...\n                                                             ^\n'}
+2024-04-04 15:30:36.276 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:30:36.276 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:30:36.532 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:30:36.532 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:31:27.188 ERROR json_response.py json_response - response_exception:{'message': 'Invalid type for utc_time. Must be str or datetime.'}
+2024-04-04 15:31:27.856 ERROR json_response.py json_response - response_exception:{'message': 'column "source" does not exist\nLINE 3:                 WHERE 1=1    order by source asc   LIMIT 10 ...\n                                              ^\n'}
+2024-04-04 15:31:35.422 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:31:35.423 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:31:35.548 ERROR json_response.py json_response - response_exception:{'message': 'column "source" does not exist\nLINE 3:                 WHERE 1=1    order by source desc   LIMIT 10...\n                                              ^\n'}
+2024-04-04 15:31:35.603 ERROR json_response.py json_response - response_exception:{'message': 'column "source" does not exist\nLINE 3:                 WHERE 1=1    order by source desc   LIMIT 10...\n                                              ^\n'}
+2024-04-04 15:31:35.869 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:31:35.869 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:31:44.054 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:31:44.055 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:31:44.167 ERROR json_response.py json_response - response_exception:{'message': 'column "source" does not exist\nLINE 3:                 WHERE 1=1    order by source desc   LIMIT 10...\n                                              ^\n'}
+2024-04-04 15:31:44.213 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:31:44.213 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:31:44.234 ERROR json_response.py json_response - response_exception:{'message': 'column "source" does not exist\nLINE 3:                 WHERE 1=1    order by source desc   LIMIT 10...\n                                              ^\n'}
+2024-04-04 15:31:55.540 ERROR json_response.py json_response - response_exception:{'message': 'Invalid type for utc_time. Must be str or datetime.'}
+2024-04-04 15:32:11.344 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:32:11.344 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:32:11.666 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:32:11.667 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:32:19.924 ERROR json_response.py json_response - response_exception:{'message': 'Invalid type for utc_time. Must be str or datetime.'}
+2024-04-04 15:33:28.813 ERROR json_response.py json_response - response_exception:{'message': 'Invalid type for utc_time. Must be str or datetime.'}
+2024-04-04 15:36:21.155 ERROR json_response.py json_response - response_exception:{'message': 'Invalid type for utc_time. Must be str or datetime.'}
+2024-04-04 15:36:37.329 ERROR json_response.py json_response - response_exception:{'message': 'Invalid type for utc_time. Must be str or datetime.'}
+2024-04-04 15:37:50.366 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:37:50.382 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:37:50.845 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:37:50.845 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:41:46.338 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:41:46.339 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:41:46.647 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 15:41:46.647 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 15:51:29.716 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near ";"\nLINE 3: ...  WHERE 1=1  AND height_master.height::text LIKE \'%1.0%\' = ;\n                                                                      ^\n'}
+2024-04-04 15:59:25.621 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "%"\nLINE 3: ...f5-5709055f9e49\'  AND deck_count_master.deck_count LIKE %2%;\n                                                                   ^\n'}
+2024-04-04 15:59:49.409 ERROR json_response.py json_response - response_exception:{'message': "operator does not exist: integer ~~ unknown\nLINE 3: ...5-5709055f9e49'  AND deck_count_master.deck_count LIKE '%2%'...\n                                                             ^\nHINT:  No operator matches the given name and argument types. You might need to add explicit type casts.\n"}
+2024-04-04 16:13:00.370 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 16:13:00.370 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 16:13:01.020 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 16:13:01.020 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 16:13:04.879 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 16:13:04.879 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 16:13:05.077 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 16:13:05.077 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 16:13:30.042 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 16:13:30.042 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 16:13:30.434 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 16:13:30.434 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 16:18:23.726 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 16:18:23.726 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 16:18:23.854 ERROR json_response.py json_response - response_exception:{'message': "'company'"}
+2024-04-04 16:18:23.854 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2024-04-04 16:23:58.287 ERROR json_response.py json_response - response_exception:{'message': "'file_name'"}
+2024-04-04 16:30:33.499 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2024-04-04 16:32:08.819 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2024-04-04 16:36:06.046 ERROR json_response.py json_response - response_exception:{'message': 'string indices must be integers'}
+2024-04-04 16:38:47.157 ERROR json_response.py json_response - response_exception:{'message': "'product_image'"}
+2024-04-04 16:41:52.312 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}
+2024-04-04 16:42:10.409 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}
+2024-04-04 16:42:19.768 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}
+2024-04-04 16:42:55.745 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}
+2024-04-04 16:43:26.483 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}
+2024-04-04 16:45:22.285 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}
+2024-04-04 16:51:24.843 ERROR json_response.py json_response - response_exception:{'message': 'Incorrect padding'}
+2024-04-04 17:04:12.627 ERROR json_response.py json_response - response_exception:{'message': 'malformed array literal: "media/employee_image/rack.jpg"\nLINE 1: ...398d0a-13c7-4ea1-ad23-a0a88344bb27\',\'pallet rack\',\'media/emp...\n                                                             ^\nDETAIL:  Array value must start with "{" or dimension information.\n'}
+2024-04-04 17:10:43.979 ERROR json_response.py json_response - response_exception:{'message': 'malformed array literal: ""media/product_image/rack.jpg""\nLINE 1: ...4a9db0-09d0-4a26-bb71-3586780fe548\',\'pallet rack\',\'"media/pr...\n                                                             ^\nDETAIL:  Array value must start with "{" or dimension information.\n'}
+2024-04-04 17:12:05.564 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "["\nLINE 1: ...2523eb-ff68-40c3-aaad-d9e2c00f2482\',\'pallet rack\',[{\'upload_...\n                                                             ^\n'}
+2024-04-04 17:12:56.213 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "upload_file"\nLINE 1: ...ea-cd19-43ac-8054-533180e8518c\',\'pallet rack\',"[{"upload_fil...\n                                                             ^\n'}
+2024-04-04 17:12:58.478 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "upload_file"\nLINE 1: ...ef-2597-4d0b-be19-c5906f883d5c\',\'pallet rack\',"[{"upload_fil...\n                                                             ^\n'}
+2024-04-04 17:14:38.099 ERROR json_response.py json_response - response_exception:{'message': 'the JSON object must be str, bytes or bytearray, not list'}
+2024-04-04 17:26:04.792 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 17 column 5 (char 67541)"}
+2024-04-04 17:28:15.219 ERROR json_response.py json_response - response_exception:{'message': "Expecting ',' delimiter: line 22 column 1 (char 67611)"}
+2024-04-04 17:39:10.755 ERROR json_response.py json_response - response_exception:{'message': "local variable 'product_images' referenced before assignment"}
+2024-04-04 17:39:48.155 ERROR json_response.py json_response - response_exception:{'message': 'the JSON object must be str, bytes or bytearray, not list'}
+2024-04-04 17:40:24.606 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "upload_file"\nLINE 1: ...6d-b3ff-4af4-95ac-6765d9ed4fbb\',\'pallet rack\',"[{"upload_fil...\n                                                             ^\n'}
+2024-04-04 17:41:16.874 ERROR json_response.py json_response - response_exception:{'message': 'the JSON object must be str, bytes or bytearray, not list'}
+2024-04-04 17:41:42.535 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-04-04 17:42:23.906 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-04-04 17:43:41.467 ERROR json_response.py json_response - response_exception:{'message': 'zero-length delimited identifier at or near """"\nLINE 1: ...707ba6-da09-4825-aabe-a8e87e48b56a\',\'pallet rack\',""media/pr...\n                                                             ^\n'}
+2024-04-04 17:44:59.348 ERROR json_response.py json_response - response_exception:{'message': 'the JSON object must be str, bytes or bytearray, not list'}
+2024-04-04 17:45:25.620 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "upload_file"\nLINE 1: ...b7-eb44-45e0-a2ae-0d6b61a6d9ee\',\'pallet rack\',"[{"upload_fil...\n                                                             ^\n'}
+2024-04-04 17:52:03.764 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "upload_file"\nLINE 1: ...64-41de-4fa8-a4a0-eefd5e3c9945\',\'pallet rack\',"[{"upload_fil...\n                                                             ^\n'}
+2024-04-04 17:53:31.636 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "upload_file"\nLINE 1: ...c5-ac8f-413a-b40c-8256e680838e\',\'pallet rack\',"[{"upload_fil...\n                                                             ^\n'}
+2024-04-04 17:53:34.167 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "upload_file"\nLINE 1: ...43-ccac-4c1d-bb4e-7bd162fad626\',\'pallet rack\',"[{"upload_fil...\n                                                             ^\n'}
+2024-04-04 17:53:52.187 ERROR json_response.py json_response - response_exception:{'message': 'column "[{\'jj\': \'kkk\'}]" does not exist\nLINE 1: ...979b2e-a25c-4b38-ba23-0a5830879562\',\'pallet rack\',"[{\'jj\': \'...\n                                                             ^\n'}
+2024-04-04 17:54:29.342 ERROR json_response.py json_response - response_exception:{'message': 'column "{\'jj\': \'kkk\'}" does not exist\nLINE 1: ...a013a0-8823-4c71-8532-48fd416f340a\',\'pallet rack\',"{\'jj\': \'k...\n                                                             ^\n'}
+2024-04-04 17:55:04.864 ERROR json_response.py json_response - response_exception:{'message': 'the JSON object must be str, bytes or bytearray, not dict'}
+2024-04-04 17:55:26.986 ERROR json_response.py json_response - response_exception:{'message': 'the JSON object must be str, bytes or bytearray, not list'}
+2024-04-04 17:55:48.379 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "jj"\nLINE 1: ...6c-68a4-4b43-b0ad-1838cd80bfbb\',\'pallet rack\',"[{"jj": "kkk"...\n                                                             ^\n'}
+2024-04-04 17:59:59.397 ERROR json_response.py json_response - response_exception:{'message': 'syntax error at or near "jj"\nLINE 1: ...d3-34bd-4ffa-996a-3926f0469488\',\'pallet rack\',\'[{\'jj\': \'kkk\'...\n                                                             ^\n'}

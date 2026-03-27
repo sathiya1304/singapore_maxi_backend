@@ -1,0 +1,26 @@
+2024-03-13 10:42:00.038 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd5 in position 0: invalid continuation byte"}
+2024-03-13 10:42:32.719 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_lead_name\' in \'field list\'")'}
+2024-03-13 10:43:50.340 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'query' where it is not associated with a value"}
+2024-03-13 11:20:57.810 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'assign_date' where it is not associated with a value"}
+2024-03-13 11:22:04.988 ERROR json_response.py json_response - response_exception:{'message': "'datetime.date' object has no attribute 'strip'"}
+2024-03-13 11:22:23.594 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_followup_notes\' in \'field list\'")'}
+2024-03-13 11:25:47.073 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'status\' in \'field list\'")'}
+2024-03-13 11:38:58.248 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'whatsapp_number' where it is not associated with a value"}
+2024-03-13 11:40:28.444 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'whatsapp_number' where it is not associated with a value"}
+2024-03-13 11:40:59.550 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'whatsapp_number' where it is not associated with a value"}
+2024-03-13 11:42:34.999 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'whatsapp_number' where it is not associated with a value"}
+2024-03-13 12:00:00.410 ERROR json_response.py json_response - response_exception:{'message': "'<' not supported between instances of 'str' and 'datetime.date'"}
+2024-03-13 12:02:03.836 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'ref_previous_notes_status\' in \'field list\'")'}
+2024-03-13 14:28:49.048 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'whatsapp_number' where it is not associated with a value"}
+2024-03-13 14:29:20.426 ERROR json_response.py json_response - response_exception:{'message': "'data_uniq_id'"}
+2024-03-13 14:30:03.237 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 21 column 1 (char 627)'}
+2024-03-13 14:30:09.396 ERROR json_response.py json_response - response_exception:{'message': "'history_data_uniq_id'"}
+2024-03-13 14:30:56.793 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_type'"}
+2024-03-13 14:31:12.742 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'query' where it is not associated with a value"}
+2024-03-13 14:32:31.123 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2024-03-13 14:52:13.185 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'WHEREref_lead_id = \'69158895-b039-4cd2-acfc-d1c1ec8c6bb8\'\' at line 2")'}
+2024-03-13 15:37:25.828 ERROR json_response.py json_response - response_exception:{'message': "'ref_lead_id'"}
+2024-03-13 15:49:40.087 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (5) cannot be 1 more than a multiple of 4'}
+2024-03-13 16:02:38.707 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-03-13 16:03:07.003 ERROR json_response.py json_response - response_exception:{'message': 'Expecting value: line 1 column 1 (char 0)'}
+2024-03-13 16:49:53.858 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 13 column 1 (char 389)'}

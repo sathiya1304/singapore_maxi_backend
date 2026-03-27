@@ -1,0 +1,38 @@
+2025-01-07 09:20:49.148 ERROR json_response.py json_response - response_exception:{'message': "'ref_product_name'"}
+2025-01-07 09:26:00.931 ERROR json_response.py json_response - response_exception:{'message': "'ref_product_name'"}
+2025-01-07 12:40:40.404 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:40.732 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:42.376 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:48.005 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:48.272 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:49.732 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:49.970 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:50.626 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:50.729 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:50.981 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:52.355 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:52.610 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:53.813 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:54.874 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:55.033 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:55.154 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:40:55.848 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:41:03.983 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:41:04.566 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:41:04.702 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:41:04.782 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:41:06.638 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'employee_master.employee_type\' in \'where clause\'")'}
+2025-01-07 12:58:59.658 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb6 in position 4: invalid start byte"}
+2025-01-07 12:58:59.727 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb6 in position 4: invalid start byte"}
+2025-01-07 13:04:42.349 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb6 in position 4: invalid start byte"}
+2025-01-07 13:04:42.404 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb6 in position 4: invalid start byte"}
+2025-01-07 13:10:29.935 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb6 in position 4: invalid start byte"}
+2025-01-07 13:10:29.997 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xb6 in position 4: invalid start byte"}
+2025-01-07 13:15:51.600 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2025-01-07 13:15:51.601 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2025-01-07 13:15:51.672 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2025-01-07 13:15:51.677 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2025-01-07 13:15:59.028 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2025-01-07 13:15:59.032 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2025-01-07 13:15:59.117 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2025-01-07 13:15:59.118 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}

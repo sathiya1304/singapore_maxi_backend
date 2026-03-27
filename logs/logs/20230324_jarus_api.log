@@ -1,0 +1,33 @@
+2023-03-24 09:59:34.587 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 10:02:43.124 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2023-03-24 10:02:43.125 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnicodeDecodeError is not JSON serializable'}
+2023-03-24 10:03:15.537 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 1: invalid start byte"}
+2023-03-24 10:03:15.538 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnicodeDecodeError is not JSON serializable'}
+2023-03-24 10:03:36.207 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_vehicle_id' referenced before assignment"}
+2023-03-24 10:03:36.207 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnboundLocalError is not JSON serializable'}
+2023-03-24 12:00:13.832 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 12:21:11.012 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 12:21:26.034 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 12:21:31.898 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 13:08:21.988 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 14:41:31.480 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 14:41:37.925 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 15:03:18.930 ERROR json_response.py json_response - response_exception:{'message': "'vno'"}
+2023-03-24 15:03:18.930 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-24 15:05:46.285 ERROR json_response.py json_response - response_exception:{'message': "'vehicle_no'"}
+2023-03-24 15:05:46.285 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-03-24 15:40:30.408 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 15:44:06.530 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 17:01:03.348 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_vendor_id' referenced before assignment"}
+2023-03-24 17:01:03.359 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnboundLocalError is not JSON serializable'}
+2023-03-24 17:02:02.745 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_vendor_id' referenced before assignment"}
+2023-03-24 17:02:02.745 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnboundLocalError is not JSON serializable'}
+2023-03-24 17:03:54.145 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_vendor_id' referenced before assignment"}
+2023-03-24 17:03:54.145 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnboundLocalError is not JSON serializable'}
+2023-03-24 17:07:27.968 ERROR json_response.py json_response - response_exception:{'message': "local variable 'ref_vendor_id' referenced before assignment"}
+2023-03-24 17:07:27.969 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnboundLocalError is not JSON serializable'}
+2023-03-24 17:14:38.864 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 17:16:41.007 ERROR json_response.py json_response - response_exception:{'message': "local variable 'vehicle_no' referenced before assignment"}
+2023-03-24 17:16:41.007 ERROR json_response.py json_response - response_exception:{'message': 'Object of type UnboundLocalError is not JSON serializable'}
+2023-03-24 17:43:48.587 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-03-24 18:05:04.470 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}

@@ -1,0 +1,41 @@
+2024-04-06 09:29:22.735 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "list") to str'}
+2024-04-06 09:29:50.673 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "list") to str'}
+2024-04-06 09:30:06.038 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "list") to str'}
+2024-04-06 09:30:26.914 ERROR json_response.py json_response - response_exception:{'message': 'can only concatenate str (not "list") to str'}
+2024-04-06 09:40:38.291 ERROR json_response.py json_response - response_exception:{'message': "'product_image'"}
+2024-04-06 09:43:55.688 ERROR json_response.py json_response - response_exception:{'message': "'product_image'"}
+2024-04-06 10:14:44.039 ERROR json_response.py json_response - response_exception:{'message': "type object 'datetime.datetime' has no attribute 'datetime'"}
+2024-04-06 11:06:47.690 ERROR json_response.py json_response - response_exception:{'message': 'Extra data: line 16 column 6 (char 172008)'}
+2024-04-06 11:07:20.782 ERROR json_response.py json_response - response_exception:{'message': 'Extra data: line 16 column 6 (char 172008)'}
+2024-04-06 11:21:13.437 ERROR json_response.py json_response - response_exception:{'message': "local variable 'upload_file' referenced before assignment"}
+2024-04-06 11:25:17.970 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-04-06 11:25:56.478 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-04-06 11:26:11.253 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-06 11:28:39.604 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-06 11:28:58.235 ERROR json_response.py json_response - response_exception:{'message': 'In order to allow non-dict objects to be serialized set the safe parameter to False.'}
+2024-04-06 11:31:13.992 ERROR json_response.py json_response - response_exception:{'message': "local variable 'update_query' referenced before assignment"}
+2024-04-06 11:32:11.728 ERROR json_response.py json_response - response_exception:{'message': "local variable 'i' referenced before assignment"}
+2024-04-06 11:38:45.531 ERROR json_response.py json_response - response_exception:{'message': "local variable 'update_query' referenced before assignment"}
+2024-04-06 11:38:53.502 ERROR json_response.py json_response - response_exception:{'message': "local variable 'update_query' referenced before assignment"}
+2024-04-06 11:39:18.204 ERROR json_response.py json_response - response_exception:{'message': "local variable 'update_query' referenced before assignment"}
+2024-04-06 11:39:22.630 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-06 11:39:51.152 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-06 11:40:36.204 ERROR json_response.py json_response - response_exception:{'message': "'image_ids'"}
+2024-04-06 11:45:43.599 ERROR json_response.py json_response - response_exception:{'message': "local variable 'update_query' referenced before assignment"}
+2024-04-06 11:53:21.241 ERROR json_response.py json_response - response_exception:{'message': "local variable 'update_query' referenced before assignment"}
+2024-04-06 13:10:31.684 ERROR json_response.py json_response - response_exception:{'message': 'INSERT has more target columns than expressions\nLINE 4: ...         created_date, created_by, modified_date, modified_b...\n                                                             ^\n'}
+2024-04-06 13:11:52.317 ERROR json_response.py json_response - response_exception:{'message': 'INSERT has more target columns than expressions\nLINE 4: ...         created_date, created_by, modified_date, modified_b...\n                                                             ^\n'}
+2024-04-06 13:27:48.058 ERROR json_response.py json_response - response_exception:{'message': 'connection to server at "192.168.29.26", port 5432 failed: server closed the connection unexpectedly\n\tThis probably means the server terminated abnormally\n\tbefore or while processing the request.\n'}
+2024-04-06 14:55:20.887 ERROR json_response.py json_response - response_exception:{'message': "local variable 'image_ids' referenced before assignment"}
+2024-04-06 14:57:41.173 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-06 14:58:36.581 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-06 14:59:10.681 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-06 15:00:50.002 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-06 15:01:35.482 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-06 15:01:52.983 ERROR json_response.py json_response - response_exception:{'message': "'upload_file'"}
+2024-04-06 15:15:04.811 ERROR json_response.py json_response - response_exception:{'message': "'builtin_function_or_method' object is not subscriptable"}
+2024-04-06 16:33:04.871 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-06 16:33:13.692 ERROR json_response.py json_response - response_exception:{'message': "'product_images'"}
+2024-04-06 16:41:59.143 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-06 16:42:00.324 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}
+2024-04-06 16:42:12.610 ERROR json_response.py json_response - response_exception:{'message': "local variable 'query' referenced before assignment"}

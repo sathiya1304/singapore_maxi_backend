@@ -1,0 +1,35 @@
+2024-06-08 12:40:25.773 ERROR json_response.py json_response - response_exception:{'message': "expected string or bytes-like object, got 'NoneType'"}
+2024-06-08 13:15:52.937 ERROR json_response.py json_response - response_exception:{'message': "expected string or bytes-like object, got 'NoneType'"}
+2024-06-08 13:36:02.447 ERROR json_response.py json_response - response_exception:{'message': "'req_msg'"}
+2024-06-08 15:01:24.078 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'media_folder_2' where it is not associated with a value"}
+2024-06-08 15:01:52.649 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'stud_mobile_two\' in \'field list\'")'}
+2024-06-08 15:06:01.395 ERROR json_response.py json_response - response_exception:{'message': "'aadhar_image'"}
+2024-06-08 15:06:23.812 ERROR json_response.py json_response - response_exception:{'message': "'aadhar_image'"}
+2024-06-08 15:07:05.250 ERROR json_response.py json_response - response_exception:{'message': "'aadhar_image'"}
+2024-06-08 15:07:31.492 ERROR json_response.py json_response - response_exception:{'message': "'aadhar_image'"}
+2024-06-08 15:09:49.297 ERROR json_response.py json_response - response_exception:{'message': "'aadhar_image'"}
+2024-06-08 15:11:02.020 ERROR json_response.py json_response - response_exception:{'message': "'aadhar_image'"}
+2024-06-08 15:13:05.596 ERROR json_response.py json_response - response_exception:{'message': "'aadhar_image'"}
+2024-06-08 15:13:52.863 ERROR json_response.py json_response - response_exception:{'message': "'aadhar_image'"}
+2024-06-08 15:20:54.438 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'is_exist' where it is not associated with a value"}
+2024-06-08 15:56:07.491 ERROR json_response.py json_response - response_exception:{'message': "'ref_fee_month'"}
+2024-06-08 16:38:41.821 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-06-08 16:38:42.037 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4'}
+2024-06-08 16:41:08.983 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'status asc   LIMIT 15 OFFSET 0\' at line 13")'}
+2024-06-08 16:41:10.936 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'status desc   LIMIT 15 OFFSET 0\' at line 13")'}
+2024-06-08 16:41:12.352 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'status asc   LIMIT 15 OFFSET 0\' at line 13")'}
+2024-06-08 16:41:18.567 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'status desc   LIMIT 15 OFFSET 0\' at line 13")'}
+2024-06-08 16:56:09.450 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'reg_pre_exp\' in \'order clause\'")'}
+2024-06-08 16:56:39.435 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'reg_pre_exp\' in \'order clause\'")'}
+2024-06-08 16:58:48.818 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'execute' where it is not associated with a value"}
+2024-06-08 17:08:08.991 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2024-06-08 17:08:08.998 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2024-06-08 17:08:09.003 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2024-06-08 17:08:09.003 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2024-06-08 17:08:15.442 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2024-06-08 17:08:15.457 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2024-06-08 17:08:15.462 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2024-06-08 17:08:15.465 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2024-06-08 17:08:34.387 ERROR json_response.py json_response - response_exception:{'message': "'WSGIRequest' object has no attribute 'get'"}
+2024-06-08 17:10:52.982 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'game\' in \'order clause\'")'}
+2024-06-08 17:10:53.927 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'game\' in \'order clause\'")'}

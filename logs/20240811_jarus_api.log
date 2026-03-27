@@ -1,0 +1,81 @@
+2024-08-11 13:44:42.489 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:44:42.814 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2024-08-11 13:44:43.058 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:44:43.070 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2024-08-11 13:44:51.540 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:44:51.540 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2024-08-11 13:44:51.776 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:44:51.821 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:44:55.771 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:44:55.771 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2024-08-11 13:44:55.850 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:44:55.865 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:44:59.982 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:44:59.982 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:44:59.982 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2024-08-11 13:45:04.270 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:45:04.271 ERROR json_response.py json_response - response_exception:{'message': 'Object of type OperationalError is not JSON serializable'}
+2024-08-11 13:45:21.705 ERROR json_response.py json_response - response_exception:{'message': '(2002, "Can\'t connect to server on \'localhost\' (10061)")'}
+2024-08-11 13:47:59.913 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.attendance_table\' doesn\'t exist")'}
+2024-08-11 13:47:59.978 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.attendance_table\' doesn\'t exist")'}
+2024-08-11 14:52:52.598 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.active_status\' in \'where clause\'")'}
+2024-08-11 14:52:52.806 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.active_status\' in \'where clause\'")'}
+2024-08-11 14:58:56.090 ERROR json_response.py json_response - response_exception:{'message': "'project_type'"}
+2024-08-11 14:59:39.086 ERROR json_response.py json_response - response_exception:{'message': "'project_type'"}
+2024-08-11 15:00:02.038 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_type\' in \'field list\'")'}
+2024-08-11 15:01:59.590 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_type\' in \'field list\'")'}
+2024-08-11 15:02:34.034 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_type\' in \'field list\'")'}
+2024-08-11 15:04:33.795 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'project_type\' in \'field list\'")'}
+2024-08-11 15:23:26.870 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'assigned_user = \'34b19b06-ddd3-4d6d-ad20-7b1b669d746a\',task_description = \'ef...\' at line 1")'}
+2024-08-11 16:55:32.574 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:55:32.698 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:55:38.014 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:55:52.198 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:55:53.807 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:56:13.548 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:56:15.387 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:56:31.180 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:56:34.600 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:56:50.610 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:56:52.798 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:57:09.825 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:57:11.317 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:57:41.584 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:57:43.627 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:57:52.735 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:57:54.982 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 16:57:57.348 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 17:48:44.294 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:48:44.335 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:49:02.900 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:49:02.932 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:49:34.533 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:49:34.592 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:50:23.684 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:50:23.717 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:54:16.840 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:54:16.885 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:56:30.782 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:58:05.956 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.assigned_user\' in \'where clause\'")'}
+2024-08-11 17:59:37.669 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.ref_emp_id\' in \'where clause\'")'}
+2024-08-11 17:59:43.684 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'tasks_table.ref_emp_id\' in \'where clause\'")'}
+2024-08-11 18:04:33.893 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 18:04:33.957 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 19:18:23.504 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 19:18:23.647 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 19:29:17.899 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'None\' in \'where clause\'")'}
+2024-08-11 19:29:18.231 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'None\' in \'where clause\'")'}
+2024-08-11 19:29:22.267 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'None\' in \'where clause\'")'}
+2024-08-11 19:29:23.913 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'None\' in \'where clause\'")'}
+2024-08-11 19:29:25.512 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'None\' in \'where clause\'")'}
+2024-08-11 19:30:17.100 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'None\' in \'where clause\'")'}
+2024-08-11 19:31:15.665 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 19:31:15.746 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 19:53:28.421 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_join2' referenced before assignment"}
+2024-08-11 19:53:30.495 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_join2' referenced before assignment"}
+2024-08-11 19:53:32.159 ERROR json_response.py json_response - response_exception:{'message': "local variable 'search_join2' referenced before assignment"}
+2024-08-11 19:53:58.391 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and tasks_table.task_status = 0\\n                                GROUP BY task...\' at line 3")'}
+2024-08-11 19:54:00.860 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'and tasks_table.task_status = 1\\n                                GROUP BY task...\' at line 3")'}
+2024-08-11 20:06:57.442 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 20:06:57.685 ERROR json_response.py json_response - response_exception:{'message': '(1146, "Table \'internal_task_mngment.privilege_master\' doesn\'t exist")'}
+2024-08-11 21:01:57.744 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}

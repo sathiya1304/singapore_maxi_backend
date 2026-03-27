@@ -1,0 +1,89 @@
+2023-10-26 09:13:20.505 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:13:20.506 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:13:21.006 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:13:21.006 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:13:30.408 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:13:30.409 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:13:40.400 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:13:40.400 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:13:50.407 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:13:50.407 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:16:09.156 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:16:09.156 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:16:09.203 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:16:09.204 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:16:19.161 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:16:19.162 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:16:30.143 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:16:30.143 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:16:40.136 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:16:40.136 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:16:50.153 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:16:50.153 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:17:00.150 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:17:00.150 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:17:10.149 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:17:10.149 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:17:20.149 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:17:20.149 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:17:36.151 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:17:36.151 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:18:33.624 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:18:33.624 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:19:33.611 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-26 09:19:33.611 ERROR json_response.py json_response - response_exception:{'message': 'Object of type KeyError is not JSON serializable'}
+2023-10-26 09:32:49.163 ERROR json_response.py json_response - response_exception:{'message': "name 'convert_to_user_timezone' is not defined"}
+2023-10-26 10:02:51.712 ERROR json_response.py json_response - response_exception:{'message': "'action_id'"}
+2023-10-26 10:04:10.194 ERROR json_response.py json_response - response_exception:{'message': "local variable 'Err' referenced before assignment"}
+2023-10-26 10:14:26.601 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-26 10:33:37.317 ERROR json_response.py json_response - response_exception:{'message': "'source_id'"}
+2023-10-26 10:45:10.574 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 10:46:08.247 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 10:46:14.076 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 10:46:15.232 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 10:48:35.843 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 10:49:21.948 ERROR json_response.py json_response - response_exception:{'message': "'priority_type'"}
+2023-10-26 10:50:15.845 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 10:51:12.635 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 11:05:01.642 ERROR json_response.py json_response - response_exception:{'message': "local variable 'i' referenced before assignment"}
+2023-10-26 11:05:03.056 ERROR json_response.py json_response - response_exception:{'message': "local variable 'i' referenced before assignment"}
+2023-10-26 11:05:31.502 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 11:07:21.075 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-10-26 11:08:41.670 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2023-10-26 12:27:38.689 ERROR json_response.py json_response - response_exception:{'message': "'show_password'"}
+2023-10-26 12:27:53.716 ERROR json_response.py json_response - response_exception:{'message': "'user_state'"}
+2023-10-26 12:52:22.183 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-26 12:54:11.434 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-26 12:54:12.823 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-26 12:54:50.514 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-26 12:56:29.343 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-26 12:59:02.433 ERROR json_response.py json_response - response_exception:{'message': "'prior_notes'"}
+2023-10-26 12:59:50.210 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-26 13:00:24.456 ERROR json_response.py json_response - response_exception:{'message': 'Expecting property name enclosed in double quotes: line 18 column 1 (char 547)'}
+2023-10-26 13:15:56.511 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'2  and user_master.user_type IN 2 and user_master.active_status IN (1,0)  ord...\' at line 3")'}
+2023-10-26 13:16:06.610 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'2  and user_master.user_type IN 2 and user_master.active_status IN (1,0)  ord...\' at line 3")'}
+2023-10-26 13:16:51.171 ERROR json_response.py json_response - response_exception:{'message': "'assign_id'"}
+2023-10-26 13:16:55.820 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'2 and user_master.active_status IN (1,0)  order by user_master.created_date D...\' at line 3")'}
+2023-10-26 13:17:48.752 ERROR json_response.py json_response - response_exception:{'message': "'int' object is not iterable"}
+2023-10-26 13:18:23.405 ERROR json_response.py json_response - response_exception:{'message': "'int' object is not iterable"}
+2023-10-26 13:18:49.627 ERROR json_response.py json_response - response_exception:{'message': '(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \') and user_master.active_status IN (1,0)  order by user_master.created_date D...\' at line 3")'}
+2023-10-26 13:19:12.581 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 13:19:27.934 ERROR json_response.py json_response - response_exception:{'message': "'notes'"}
+2023-10-26 13:23:01.605 ERROR json_response.py json_response - response_exception:{'message': 'tuple expected at most 1 argument, got 2'}
+2023-10-26 14:50:53.790 ERROR json_response.py json_response - response_exception:{'message': "'ref_site_staging'"}
+2023-10-26 14:51:44.617 ERROR json_response.py json_response - response_exception:{'message': "local variable 'prior_notes' referenced before assignment"}
+2023-10-26 14:52:22.541 ERROR json_response.py json_response - response_exception:{'message': "local variable 'prior_notes' referenced before assignment"}
+2023-10-26 14:52:23.808 ERROR json_response.py json_response - response_exception:{'message': "local variable 'prior_notes' referenced before assignment"}
+2023-10-26 15:27:33.352 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'user_id\' in where clause is ambiguous")'}
+2023-10-26 15:27:38.466 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'user_id\' in where clause is ambiguous")'}
+2023-10-26 15:27:49.605 ERROR json_response.py json_response - response_exception:{'message': '(1052, "Column \'user_id\' in where clause is ambiguous")'}
+2023-10-26 15:29:34.151 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'devika\' in \'where clause\'")'}
+2023-10-26 16:28:17.264 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 16:28:18.420 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 16:28:25.385 ERROR json_response.py json_response - response_exception:{'message': "'conclusion'"}
+2023-10-26 16:37:41.584 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'undefined\' in \'where clause\'")'}
+2023-10-26 16:45:34.460 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-10-26 16:46:22.273 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-10-26 16:50:01.329 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-10-26 17:14:11.260 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}
+2023-10-26 17:14:11.305 ERROR json_response.py json_response - response_exception:{'message': "local variable 'message' referenced before assignment"}

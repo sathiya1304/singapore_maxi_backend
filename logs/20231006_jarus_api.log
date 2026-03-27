@@ -1,0 +1,17 @@
+2023-10-06 09:35:28.986 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2023-10-06 09:37:39.226 ERROR json_response.py json_response - response_exception:{'message': "name 'user_type' is not defined"}
+2023-10-06 09:38:45.936 ERROR json_response.py json_response - response_exception:{'message': "'user_type'"}
+2023-10-06 09:39:53.892 ERROR json_response.py json_response - response_exception:{'message': "'user_code'"}
+2023-10-06 09:40:30.766 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'showpassword\' in \'field list\'")'}
+2023-10-06 09:42:15.785 ERROR json_response.py json_response - response_exception:{'message': "'user_code'"}
+2023-10-06 10:02:37.248 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-10-06 10:35:13.185 ERROR json_response.py json_response - response_exception:{'message': "'user_id'"}
+2023-10-06 11:41:06.169 ERROR json_response.py json_response - response_exception:{'message': "'first_name'"}
+2023-10-06 12:05:35.327 ERROR json_response.py json_response - response_exception:{'message': "cannot access local variable 'exc' where it is not associated with a value"}
+2023-10-06 12:12:20.991 ERROR json_response.py json_response - response_exception:{'message': "name 'user_code' is not defined"}
+2023-10-06 12:12:22.963 ERROR json_response.py json_response - response_exception:{'message': "name 'user_code' is not defined"}
+2023-10-06 12:18:10.645 ERROR json_response.py json_response - response_exception:{'message': "'showpassword'"}
+2023-10-06 12:43:33.844 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'showpassword\' in \'field list\'")'}
+2023-10-06 12:44:27.734 ERROR json_response.py json_response - response_exception:{'message': "'show_password'"}
+2023-10-06 12:44:36.134 ERROR json_response.py json_response - response_exception:{'message': "'showpassword'"}
+2023-10-06 15:23:55.193 ERROR json_response.py json_response - response_exception:{'message': "'showpassword'"}

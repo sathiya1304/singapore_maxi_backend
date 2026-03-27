@@ -1,0 +1,54 @@
+2025-01-29 09:27:41.034 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 0: invalid continuation byte"}
+2025-01-29 09:27:46.674 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 0: invalid continuation byte"}
+2025-01-29 09:28:31.807 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-29 09:28:31.869 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-29 09:33:28.168 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 0: invalid continuation byte"}
+2025-01-29 09:34:15.135 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xdb in position 0: invalid continuation byte"}
+2025-01-29 09:39:23.699 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf1 in position 0: invalid continuation byte"}
+2025-01-29 10:21:13.329 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd3 in position 0: invalid continuation byte"}
+2025-01-29 10:21:37.147 ERROR json_response.py json_response - response_exception:{'message': 'list indices must be integers or slices, not str'}
+2025-01-29 10:23:26.367 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd3 in position 0: invalid continuation byte"}
+2025-01-29 10:24:49.115 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd3 in position 0: invalid continuation byte"}
+2025-01-29 10:24:49.116 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd3 in position 0: invalid continuation byte"}
+2025-01-29 10:26:17.198 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd3 in position 0: invalid continuation byte"}
+2025-01-29 10:26:35.484 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd3 in position 0: invalid continuation byte"}
+2025-01-29 10:27:18.865 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd3 in position 0: invalid continuation byte"}
+2025-01-29 10:27:55.728 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd3 in position 0: invalid continuation byte"}
+2025-01-29 10:45:33.318 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte"}
+2025-01-29 10:45:36.695 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte"}
+2025-01-29 10:45:36.771 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte"}
+2025-01-29 10:46:18.024 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte"}
+2025-01-29 10:46:20.227 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte"}
+2025-01-29 10:46:26.630 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte"}
+2025-01-29 10:47:26.327 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte"}
+2025-01-29 10:47:33.110 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte"}
+2025-01-29 10:47:40.644 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte"}
+2025-01-29 10:47:49.460 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte"}
+2025-01-29 10:51:43.443 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:51:47.600 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:51:47.679 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:51:48.805 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:53:48.137 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:53:48.218 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:54:55.239 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:54:55.315 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:55:01.761 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:55:01.837 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:55:06.317 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:55:06.407 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:55:06.475 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:55:06.540 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:57:15.437 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 10:57:15.500 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xe3 in position 0: invalid continuation byte"}
+2025-01-29 11:23:25.415 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd7 in position 0: invalid continuation byte"}
+2025-01-29 11:32:09.426 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xef in position 0: invalid continuation byte"}
+2025-01-29 11:32:13.997 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xef in position 0: invalid continuation byte"}
+2025-01-29 11:36:09.293 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xef in position 0: invalid continuation byte"}
+2025-01-29 11:36:17.135 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xef in position 0: invalid continuation byte"}
+2025-01-29 11:41:51.135 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xef in position 0: invalid continuation byte"}
+2025-01-29 11:52:51.415 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd7 in position 0: invalid continuation byte"}
+2025-01-29 11:52:55.699 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xd7 in position 0: invalid continuation byte"}
+2025-01-29 12:03:54.732 ERROR json_response.py json_response - response_exception:{'message': '(1054, "Unknown column \'user_master.CreatedAt\' in \'order clause\'")'}
+2025-01-29 13:14:57.468 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa1 in position 0: invalid start byte"}
+2025-01-29 16:06:27.459 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa1 in position 0: invalid start byte"}
+2025-01-29 16:15:36.808 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0xa1 in position 0: invalid start byte"}

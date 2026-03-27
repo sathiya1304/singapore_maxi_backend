@@ -1,0 +1,17 @@
+2024-04-22 10:14:23.821 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 1)'}
+2024-04-22 10:14:30.135 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 1)'}
+2024-04-22 10:15:19.246 ERROR json_response.py json_response - response_exception:{'message': "'QueryDict' object is not callable"}
+2024-04-22 10:15:36.460 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 1)'}
+2024-04-22 10:15:42.936 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 1)'}
+2024-04-22 10:16:03.860 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-22 10:16:25.106 ERROR json_response.py json_response - response_exception:{'message': 'not enough values to unpack (expected 3, got 1)'}
+2024-04-22 10:17:02.137 ERROR json_response.py json_response - response_exception:{'message': "'MultiValueDict' object is not callable"}
+2024-04-22 10:18:08.696 ERROR json_response.py json_response - response_exception:{'message': "'MultiValueDict' object is not callable"}
+2024-04-22 11:50:41.275 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-22 11:51:30.348 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-22 12:30:37.816 ERROR json_response.py json_response - response_exception:{'message': "'utf-8' codec can't decode byte 0x89 in position 494: invalid start byte"}
+2024-04-22 12:56:08.007 ERROR json_response.py json_response - response_exception:{'message': "local variable 'side_view_img_path' referenced before assignment"}
+2024-04-22 16:59:36.442 ERROR json_response.py json_response - response_exception:{'message': "'side_view_img'"}
+2024-04-22 17:02:02.281 ERROR json_response.py json_response - response_exception:{'message': "local variable 'side_view_img_path' referenced before assignment"}
+2024-04-22 18:03:23.185 ERROR json_response.py json_response - response_exception:{'message': "'access_token'"}
+2024-04-22 18:55:35.436 ERROR json_response.py json_response - response_exception:{'message': 'Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4'}
