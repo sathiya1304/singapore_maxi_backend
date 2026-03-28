@@ -1,14 +1,14 @@
 {
   "version": 2,
   "functions": {
-    "star_runway/wsgi.py": {
+    "api/index.py": {
       "maxDuration": 30
     }
   },
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "star_runway/wsgi.py"
+      "dest": "api/index.py"
     }
   ]
 }
