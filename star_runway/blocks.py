@@ -476,7 +476,10 @@ def blocks_get(request):
                 for index,i in enumerate(get_all_data):
                     if i["BlockImage"]:
                         i["BlockImagePath"] = i['BlockImage']
-                        i["BlockImage"] =  host + "/" + i['BlockImage']
+                        if i['BlockImage'].startswith('http'):
+                            i["BlockImage"] = i['BlockImage']
+                        else:
+                            i["BlockImage"] = host + "/" + i['BlockImage']
 
                     search_items = """select * from contentitems where ContentBlockID = '{ContentBlockID}'""".format(ContentBlockID=i["ContentBlockID"])
                     get_items = search_all(search_items)
@@ -928,7 +931,10 @@ def web_blocks_get(request):
                 for index,i in enumerate(get_all_data):
                     if i["BlockImage"]:
                         i["BlockImagePath"] = i['BlockImage']
-                        i["BlockImage"] =  host + "/" + i['BlockImage']
+                        if i['BlockImage'].startswith('http'):
+                            i["BlockImage"] = i['BlockImage']
+                        else:
+                            i["BlockImage"] = host + "/" + i['BlockImage']
 
                     search_items = """select * from contentitems where ContentBlockID = '{ContentBlockID}' order by Position asc """.format(ContentBlockID=i["ContentBlockID"])
                     get_items = search_all(search_items)

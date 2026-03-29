@@ -447,12 +447,33 @@ def data_formats(data,page_number,index):
 #     return file_path
 
 def save_file(file_data, file_name, media_folder):
+    cloud_name = os.environ.get('CLOUDINARY_CLOUD_NAME')
+    api_key = os.environ.get('CLOUDINARY_API_KEY')
+    api_secret = os.environ.get('CLOUDINARY_API_SECRET')
+
+    if cloud_name and api_key and api_secret:
+        try:
+            import cloudinary
+            import cloudinary.uploader
+            cloudinary.config(cloud_name=cloud_name, api_key=api_key, api_secret=api_secret)
+            file_content = base64.b64decode(file_data)
+            folder = media_folder.strip('/').replace('media/', '')
+            public_id = f"{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}-{os.path.splitext(file_name)[0]}"
+            result = cloudinary.uploader.upload(
+                file_content,
+                folder=folder,
+                public_id=public_id,
+                resource_type='auto'
+            )
+            return result['secure_url']
+        except Exception as e:
+            print(f"Cloudinary upload failed: {e}")
+
     if not os.path.exists(media_folder):
         os.makedirs(media_folder)
     file_content = base64.b64decode(file_data)
-    file_extension = os.path.splitext(file_name)[1]  # Get file extension
-    current_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")  # Current date and time
-    new_file_name = f"{current_datetime}-{file_name}"  # Construct new file name
+    current_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    new_file_name = f"{current_datetime}-{file_name}"
     file_path = os.path.join(media_folder, new_file_name)
     with open(file_path, 'wb') as f:
         f.write(file_content)

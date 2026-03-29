@@ -1,3 +1,4 @@
+cloudinary==1.41.0
 asgiref==3.8.1
 gunicorn==22.0.0
 python-dotenv==1.0.1

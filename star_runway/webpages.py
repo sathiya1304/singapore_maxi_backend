@@ -169,7 +169,10 @@ def web_pages_get(request):
                                 m['ContentBlockID'] = base64_operation(m['ContentBlockID'],'encode')
                                 if m["BlockImage"]:
                                     m["BlockImagePath"] = m['BlockImage']
-                                    m["BlockImage"] =  host + "/" + m['BlockImage'] 
+                                    if m['BlockImage'].startswith('http'):
+                                        m["BlockImage"] = m['BlockImage']
+                                    else:
+                                        m["BlockImage"] = host + "/" + m['BlockImage']
                                 # if m['Description']:
                                 #     m['Description'] = base64_operation(m['Description'],'decode') 
                                 if m['DescriptionTwo']: 
