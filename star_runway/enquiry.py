@@ -226,7 +226,7 @@ def change_enquiry_status(request):
             return JsonResponse(message, safe=False, status = 405)
     except Exception as Err:
         response_exception(Err)
-        return JsonResponse(Err, safe=False) 
+        return JsonResponse(str(Err), safe=False) 
 
 @csrf_exempt
 def enquiry_get(request):
